@@ -44,8 +44,8 @@ def convert_json_to_table(input_file):
     print(f"Table has been written to {output_file}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Convert JSON to table format in a text file.')
-    parser.add_argument('input_file', type=str, help='Path to the input JSON file')
+    parser = argparse.ArgumentParser(description='Convert JSON to table format into a tab-delimited txt file.')
+    parser.add_argument('input_file', type=str, help='Specify path to input JSON file')
 
     args = parser.parse_args()
     convert_json_to_table(args.input_file)
