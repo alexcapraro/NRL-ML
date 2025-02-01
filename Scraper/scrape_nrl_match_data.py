@@ -126,10 +126,10 @@ def scrape_nrl_data(input_years, round_range):
         print(f"Table has been written to {output_file}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Scrape the Official NRL website for match-level data')
-    parser.add_argument('input_year', type=str, nargs='+', help='Input one or more years to fetch data (e.g. 2022,2023,2024)')
-    parser.add_argument('--round', dest='input_round', type=int, help='Select single round to fetch data. Default is all rounds in the season')
-    parser.add_argument('--o', dest='output_directory', type=str, help='Output directory path', default='.')
+    parser = argparse.ArgumentParser(description='Scrape match-level data from the Official NRL website.')
+    parser.add_argument('input_year', type=str, nargs='+', help='Specify one or more years to fetch data for (e.g., 2022 2023 2024).')
+    parser.add_argument('--round', dest='input_round', type=int, help='Specify a single round to fetch data for. If not provided, data for all rounds in the season will be fetched.')
+    parser.add_argument('--o', dest='output_directory', type=str, help='Specify the output directory path. Default is the current directory.', default='.')
     
     args = parser.parse_args()
 
