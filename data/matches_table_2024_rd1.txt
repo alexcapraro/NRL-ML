@@ -1,0 +1,9 @@
+Year	Round	Home	Away
+2024	1	Sea Eagles	Rabbitohs
+2024	1	Roosters	Broncos
+2024	1	Knights	Raiders
+2024	1	Warriors	Sharks
+2024	1	Storm	Panthers
+2024	1	Eels	Bulldogs
+2024	1	Titans	Dragons
+2024	1	Dolphins	Cowboys

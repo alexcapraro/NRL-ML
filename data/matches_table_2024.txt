@@ -1,0 +1,188 @@
+Year	Round	Home	Away
+2024	1	Sea Eagles	Rabbitohs
+2024	1	Roosters	Broncos
+2024	1	Knights	Raiders
+2024	1	Warriors	Sharks
+2024	1	Storm	Panthers
+2024	1	Eels	Bulldogs
+2024	1	Titans	Dragons
+2024	1	Dolphins	Cowboys
+2024	2	Broncos	Rabbitohs
+2024	2	Sharks	Bulldogs
+2024	2	Panthers	Eels
+2024	2	Raiders	Wests Tigers
+2024	2	Cowboys	Knights
+2024	2	Storm	Warriors
+2024	2	Sea Eagles	Roosters
+2024	2	Dolphins	Dragons
+2024	3	Panthers	Broncos
+2024	3	Warriors	Raiders
+2024	3	Roosters	Rabbitohs
+2024	3	Bulldogs	Titans
+2024	3	Dragons	Cowboys
+2024	3	Wests Tigers	Sharks
+2024	3	Eels	Sea Eagles
+2024	3	Knights	Storm
+2024	4	Roosters	Panthers
+2024	4	Rabbitohs	Bulldogs
+2024	4	Broncos	Cowboys
+2024	4	Dragons	Sea Eagles
+2024	4	Titans	Dolphins
+2024	4	Warriors	Knights
+2024	4	Sharks	Raiders
+2024	4	Eels	Wests Tigers
+2024	5	Storm	Broncos
+2024	5	Bulldogs	Roosters
+2024	5	Knights	Dragons
+2024	5	Rabbitohs	Warriors
+2024	5	Sea Eagles	Panthers
+2024	5	Dolphins	Wests Tigers
+2024	5	Cowboys	Titans
+2024	5	Raiders	Eels
+2024	6	Knights	Roosters
+2024	6	Storm	Bulldogs
+2024	6	Broncos	Dolphins
+2024	6	Warriors	Sea Eagles
+2024	6	Eels	Cowboys
+2024	6	Rabbitohs	Sharks
+2024	6	Wests Tigers	Dragons
+2024	6	Raiders	Titans
+2024	7	Roosters	Storm
+2024	7	Dragons	Warriors
+2024	7	Eels	Dolphins
+2024	7	Panthers	Wests Tigers
+2024	7	Titans	Sea Eagles
+2024	7	Broncos	Raiders
+2024	7	Bulldogs	Knights
+2024	7	Sharks	Cowboys
+2024	8	Warriors	Titans
+2024	8	Dragons	Roosters
+2024	8	Storm	Rabbitohs
+2024	8	Sea Eagles	Eels
+2024	8	Wests Tigers	Broncos
+2024	8	Cowboys	Panthers
+2024	8	Dolphins	Knights
+2024	8	Raiders	Sharks
+2024	9	Rabbitohs	Panthers
+2024	9	Sea Eagles	Raiders
+2024	9	Broncos	Roosters
+2024	9	Bulldogs	Wests Tigers
+2024	9	Titans	Storm
+2024	9	Cowboys	Dolphins
+2024	9	Knights	Warriors
+2024	9	Sharks	Dragons
+2024	10	Dolphins	Sea Eagles
+2024	10	Panthers	Bulldogs
+2024	10	Eels	Broncos
+2024	10	Wests Tigers	Knights
+2024	10	Dragons	Rabbitohs
+2024	10	Storm	Sharks
+2024	10	Roosters	Warriors
+2024	10	Titans	Cowboys
+2024	11	Raiders	Bulldogs
+2024	11	Sea Eagles	Broncos
+2024	11	Titans	Knights
+2024	11	Sharks	Roosters
+2024	11	Rabbitohs	Cowboys
+2024	11	Warriors	Panthers
+2024	11	Storm	Eels
+2024	11	Wests Tigers	Dolphins
+2024	12	Bulldogs	Dragons
+2024	12	Cowboys	Wests Tigers
+2024	12	Sea Eagles	Storm
+2024	12	Raiders	Roosters
+2024	12	Sharks	Panthers
+2024	12	Rabbitohs	Eels
+2024	12	Broncos	Titans
+2024	12	Warriors	Dolphins
+2024	13	Eels	Sharks
+2024	13	Knights	Bulldogs
+2024	13	Panthers	Dragons
+2024	13	Dolphins	Raiders
+2024	13	Roosters	Cowboys
+2024	15	Sharks	Dolphins
+2024	15	Raiders	Cowboys
+2024	15	Rabbitohs	Broncos
+2024	15	Wests Tigers	Titans
+2024	15	Warriors	Storm
+2024	15	Eels	Roosters
+2024	15	Sea Eagles	Dragons
+2024	15	Knights	Panthers
+2024	16	Dolphins	Storm
+2024	16	Titans	Warriors
+2024	16	Roosters	Bulldogs
+2024	16	Rabbitohs	Sea Eagles
+2024	16	Wests Tigers	Raiders
+2024	19	Dolphins	Rabbitohs
+2024	19	Sharks	Wests Tigers
+2024	19	Titans	Eels
+2024	19	Broncos	Dragons
+2024	19	Sea Eagles	Knights
+2024	20	Raiders	Warriors
+2024	20	Rabbitohs	Wests Tigers
+2024	20	Knights	Broncos
+2024	20	Storm	Roosters
+2024	20	Panthers	Dolphins
+2024	20	Sea Eagles	Titans
+2024	20	Cowboys	Bulldogs
+2024	21	Warriors	Wests Tigers
+2024	21	Eels	Storm
+2024	21	Broncos	Bulldogs
+2024	21	Cowboys	Sharks
+2024	21	Roosters	Sea Eagles
+2024	21	Dragons	Panthers
+2024	21	Dolphins	Titans
+2024	21	Raiders	Rabbitohs
+2024	22	Wests Tigers	Cowboys
+2024	22	Warriors	Eels
+2024	22	Dolphins	Roosters
+2024	22	Titans	Broncos
+2024	22	Storm	Dragons
+2024	22	Sharks	Rabbitohs
+2024	22	Panthers	Knights
+2024	22	Bulldogs	Raiders
+2024	23	Rabbitohs	Storm
+2024	23	Titans	Sharks
+2024	23	Eels	Panthers
+2024	23	Raiders	Sea Eagles
+2024	23	Cowboys	Broncos
+2024	23	Dragons	Bulldogs
+2024	23	Dolphins	Warriors
+2024	23	Knights	Wests Tigers
+2024	24	Panthers	Storm
+2024	24	Sea Eagles	Warriors
+2024	24	Roosters	Eels
+2024	24	Bulldogs	Dolphins
+2024	24	Cowboys	Raiders
+2024	24	Wests Tigers	Rabbitohs
+2024	24	Dragons	Titans
+2024	24	Sharks	Knights
+2024	25	Wests Tigers	Sea Eagles
+2024	25	Warriors	Bulldogs
+2024	25	Broncos	Eels
+2024	25	Raiders	Panthers
+2024	25	Storm	Dolphins
+2024	25	Rabbitohs	Knights
+2024	25	Titans	Roosters
+2024	25	Dragons	Sharks
+2024	26	Cowboys	Storm
+2024	26	Bulldogs	Sea Eagles
+2024	26	Panthers	Rabbitohs
+2024	26	Eels	Dragons
+2024	26	Dolphins	Broncos
+2024	26	Sharks	Warriors
+2024	26	Knights	Titans
+2024	26	Roosters	Raiders
+2024	27	Broncos	Storm
+2024	27	Wests Tigers	Eels
+2024	27	Rabbitohs	Roosters
+2024	27	Dragons	Raiders
+2024	27	Bulldogs	Cowboys
+2024	27	Panthers	Titans
+2024	27	Sea Eagles	Sharks
+2024	27	Knights	Dolphins
+2024	29	Sharks	Cowboys
+2024	29	Roosters	Sea Eagles
+2024	30	Storm	Roosters
+2024	30	Panthers	Sharks
+2024	31	Storm	Panthers
