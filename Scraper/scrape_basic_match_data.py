@@ -1,177 +1,183 @@
 """
-This python script scrapes the Official NRL website for match-level results.
+Webscraper for match-level results from the Official NRL website.
 
 This script modified from Beau Hobba's script found here: https://github.com/beauhobba/NRL-Data/.
-
-Future work may be needed to make this more efficient as it takes ~8 minutes to run each year.
 """
 
 import chromedriver_autoinstaller
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-import sys
 from bs4 import BeautifulSoup
 import json
 import re
 import argparse
 import os
+import logging
+from typing import List, Dict, Any
+from dataclasses import dataclass
 
-chromedriver_autoinstaller.install()
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
-def set_up_driver():
-    """
-    Set up the Chrome Web Driver for Scraping. This function sets up the Chrome Web Driver with specified options.
-    """
-    options = Options()
-    # Ignore messages from the NRL website 
-    options.add_argument('--ignore-certificate-errors')
+@dataclass
+class MatchData:
+    """Structure for match data."""
+    details: str
+    date: str
+    home_team: str
+    home_score: str
+    away_team: str
+    away_score: str
+    venue: str
+
+class NRLScraper:
+    """Class to handle NRL data scraping operations."""
     
-    # Run Selenium in headless mode
-    options.add_argument('--headless')
-    options.add_argument('log-level=3')
-    
-    # Exclude logging to assist with errors caused by NRL website 
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    
-    driver = webdriver.Chrome(options=options)
-    return driver
+    HTML_ELEMENTS = ["h3", "p", "p", "div", "p", "div", "p"]
+    CLASS_NAMES = [
+        "u-visually-hidden",
+        "match-header__title",
+        "match-team__name--home",
+        "match-team__score--home",
+        "match-team__name--away",
+        "match-team__score--away",
+        "match-venue o-text"
+    ]
 
-"""
-Webscraper for finding NRL data related to team statistics
-"""
+    def __init__(self):
+        chromedriver_autoinstaller.install()
 
-sys.path.append('..')
-sys.path.append('..')
+    @staticmethod
+    def set_up_driver() -> webdriver.Chrome:
+        """Set up the Chrome Web Driver for Scraping."""
+        options = Options()
+        options.add_argument('--ignore-certificate-errors')
+        options.add_argument('--headless')
+        options.add_argument('log-level=3')
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        return webdriver.Chrome(options=options)
 
-def get_nrl_data(round, year):
-    url = f"https://www.nrl.com/draw/?competition=111&round={round}&season={year}"
-    # Scrape the NRL website
-    driver = set_up_driver() 
-    driver.get(url)
-    page_source = driver.page_source
+    @staticmethod
+    def clean_text(text: str) -> str:
+        """Clean venue text by removing unwanted characters and information."""
+        text = re.sub(r'[^\x00-\x7F]+', '', text)
+        text = text.replace('\n', ' ').strip()
+        text = re.sub(r'     .*', '', text)
+        text = re.sub(r'Home of the.*', '', text)
+        return text
 
-    driver.quit()
+    def get_round_data(self, round_num: int, year: int) -> Dict[str, List[Dict[str, str]]]:
+        """Fetch and parse match data for a specific round and year."""
+        url = f"https://www.nrl.com/draw/?competition=111&round={round_num}&season={year}"
+        
+        driver = self.set_up_driver()
+        try:
+            driver.get(url)
+            page_source = driver.page_source
+        finally:
+            driver.quit()
 
-    # Use BeautifulSoup to parse the HTML
-    soup = BeautifulSoup(page_source, "html.parser")
-    # Get the NRL data box
-    match_elements = soup.find_all(
-        "div", class_="match o-rounded-box o-shadowed-box")
+        soup = BeautifulSoup(page_source, "html.parser")
+        match_elements = soup.find_all("div", class_="match o-rounded-box o-shadowed-box")
 
-    # Name of html elements that contains match data
-    find_data = ["h3", "p", "p", "div", "p", "div", "p"]
-    class_data = ["u-visually-hidden", "match-header__title", "match-team__name--home",
-                  "match-team__score--home", "match-team__name--away", "match-team__score--away", "match-venue o-text"]
+        matches_data = []
+        for match_element in match_elements:
+            match_info = [
+                match_element.find(html_val, class_=class_val).text.strip()
+                for html_val, class_val in zip(self.HTML_ELEMENTS, self.CLASS_NAMES)
+            ]
 
-    # Extract the match data
-    matches_json = []
-    for match_element in match_elements:
-        match_details, match_date, home_team, home_score, away_team, away_score, venue = [match_element.find(
-            html_val, class_=class_val).text.strip() for html_val, class_val in zip(find_data, class_data)]
+            match = MatchData(
+                details=match_info[0].replace("Match: ", ""),
+                date=match_info[1],
+                home_team=match_info[2],
+                home_score=match_info[3].replace("Scored", "").replace("points", "").strip(),
+                away_team=match_info[4],
+                away_score=match_info[5].replace("Scored", "").replace("points", "").strip(),
+                venue=match_info[6].replace("Venue:", "").strip()
+            )
 
-        match = {
-            "Details": match_details.replace("Match: ", ""),
-            "Date": match_date,
-            "Home": home_team,
-            "Home_Score": home_score.replace("Scored", "").replace("points", "").strip(),
-            "Away": away_team,
-            "Away_Score": away_score.replace("Scored", "").replace("points", "").strip(),
-            "Venue": venue.replace("Venue:", "").strip()
-        }
-        matches_json.append(match)
-    round_data = {
-        f"{round}": matches_json
-    }
-    return round_data
+            matches_data.append(match.__dict__)
 
-def clean_text(text):
-    text = re.sub(r'[^\x00-\x7F]+', '', text)  # Remove non-ASCII characters
-    text = text.replace('\n', ' ').strip()  # Remove new line characters and strip leading/trailing spaces
-    text = re.sub(r'     .*', '', text) # Remove text after multiple spaces
-    text = re.sub(r'Home of the.*', '', text) #Removes Indigenous Round additional location information
-    return text
+        return {str(round_num): matches_data}
 
-def scrape_nrl_data(input_years, round_range):
-    if __name__ == "__main__":
-        match_json_datas = []  # List to store JSON data for matches
-        for year in input_years:
-            print('Scraping data from the ' + str(year) + ' season')
-            year_json_data = []  # List to store JSON data for a particular year
-            for round_nu in round_range:  
+    def scrape_season_data(self, years: List[int], rounds: range) -> Dict[str, List[Dict]]:
+        """Scrape match data for specified seasons and rounds."""
+        match_data = []
+
+        for year in years:
+            logging.info(f'Scraping data from the {year} season')
+            year_data = []
+
+            for round_num in rounds:
                 try:
-                    print('Round ' + str(round_nu))
-                    # Attempt to fetch NRL data for a specific round and year
-                    match_json = get_nrl_data(round_nu, year)
-                    # Append fetched JSON to year's data list
-                    year_json_data.append(match_json)
-                except Exception as ex:
-                    print(f"Error: {ex}")
-            # Store year's data in a dictionary
-            year_data = {
-                f"{year}": year_json_data
-            }
-            # Append year's data to the main list
-            match_json_datas.append(year_data)
+                    logging.info(f'Round {round_num}')
+                    round_data = self.get_round_data(round_num, year)
+                    year_data.append(round_data)
+                except Exception as e:
+                    logging.error(f"Error scraping round {round_num}: {e}")
 
-        # Create overall data dictionary
-        overall_data = {
-            "NRL": match_json_datas
-        }
-        # Convert overall data to JSON format with indentation for better readability
-        overall_data_json = json.dumps(overall_data, indent=4)
+            match_data.append({str(year): year_data})
 
-        # Determine output file path    
-        output_file = args.output_directory + 'match_data_' + '_'.join(args.input_year) + '.json'
+        return {"NRL": match_data}
 
-        # Write JSON data to a file
-        with open(output_file, "w") as file:
-            file.write(overall_data_json)
+    def save_data(self, data: Dict[str, List[Dict]], output_dir: str, years: List[str]) -> None:
+        """Save scraped data in both JSON and TXT formats."""
+        # Save JSON
+        json_data = json.dumps(data, indent=4)
+        json_path = os.path.join(output_dir, f'match_data_{"_".join(years)}.json')
+        
+        with open(json_path, "w") as f:
+            f.write(json_data)
+        logging.info(f"JSON data written to {json_path}")
 
-        print(f"Table has been written to {output_file}")
-
-        # Convert JSON to table format
+        # Convert to table format and save TXT
+        headers = ["Competition", "Year", "Round", "Details", "Date", "Home", 
+                  "Home_Score", "Away", "Away_Score", "Venue"]
         table_data = []
-        headers = ["Competition", "Year", "Round", "Details", "Date", "Home", "Home_Score", "Away", "Away_Score", "Venue"]
 
-        print("Converting JSON to txt")
-
-        for competition, years in overall_data_json.items():
-            for year_data in years:
-                for year, rounds in year_data.items():
-                    for round_data in rounds:
+        for competition, years_data in data.items():
+            for year_data in years_data:
+                for year, rounds_data in year_data.items():
+                    for round_data in rounds_data:
                         for round_num, matches in round_data.items():
                             for match in matches:
-                                # Clean the 'Venue' item
-                                match['Venue'] = clean_text(match['Venue'])
+                                match['Venue'] = self.clean_text(match['Venue'])
                                 row = [competition, year, round_num]
                                 row.extend([match[header] for header in headers[3:]])
                                 table_data.append(row)
 
-        # Determine output file path    
-        output_txt_file = args.output_directory + 'match_data_' + '_'.join(args.input_year) + '.txt'
-
-        # Write table to txt file
-        with open(output_txt_file, "w") as file:
-            file.write("\t".join(headers) + "\n")
+        txt_path = os.path.join(output_dir, f'match_data_{"_".join(years)}.txt')
+        with open(txt_path, "w") as f:
+            f.write("\t".join(headers) + "\n")
             for row in table_data:
-                file.write("\t".join(row) + "\n")
+                f.write("\t".join(str(item) for item in row) + "\n")
+        logging.info(f"Table data written to {txt_path}")
 
-        print(f"Table has been written to {output_txt_file}")
+def parse_arguments() -> argparse.Namespace:
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(description='Scrape the Official NRL website for match-level data')
+    parser.add_argument('input_year', type=str, nargs='+',
+                       help='Input one or more years to fetch data (e.g. 2022,2023,2024)')
+    parser.add_argument('--round', dest='input_round', type=int,
+                       help='Select single round to fetch data. Default is all rounds in the season')
+    parser.add_argument('--o', dest='output_directory', type=str,
+                       help='Output directory path', default='.')
+    return parser.parse_args()
+
+def main():
+    """Main entry point for the script."""
+    args = parse_arguments()
+    
+    input_years = [int(y) for y in args.input_year]
+    round_range = range(args.input_round, args.input_round + 1) if args.input_round else range(1, 32)
+
+    scraper = NRLScraper()
+    data = scraper.scrape_season_data(input_years, round_range)
+    scraper.save_data(data, args.output_directory, args.input_year)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Scrape the Official NRL website for match-level data')
-    parser.add_argument('input_year', type=str, nargs='+', help='Input one or more years to fetch data (e.g. 2022,2023,2024)')
-    parser.add_argument('--round', dest='input_round', type=int, help='Select single round to fetch data. Default is all rounds in the season')
-    parser.add_argument('--o', dest='output_directory', type=str, help='Output directory path', default='.')    
-    args = parser.parse_args()
-
-    # Convert input year(s) into list
-    input_years = [int(y) for y in args.input_year]
-
-    # Convert input round(s) into range
-    if args.input_round is None:
-        round_range = range(1, 32)
-    else:
-        round_range = range(args.input_round, args.input_round + 1)
-
-    scrape_nrl_data(input_years, round_range)
+    main()
