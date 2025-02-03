@@ -1,1906 +1,2204 @@
-Year	Round	Home	Away
-2014	1	Rabbitohs	Roosters
-2014	1	Bulldogs	Broncos
-2014	1	Panthers	Knights
-2014	1	Sea Eagles	Storm
-2014	1	Cowboys	Raiders
-2014	1	Dragons	Wests Tigers
-2014	1	Eels	Warriors
-2014	1	Sharks	Titans
-2014	2	Sea Eagles	Rabbitohs
-2014	2	Broncos	Cowboys
-2014	2	Warriors	Dragons
-2014	2	Storm	Panthers
-2014	2	Roosters	Eels
-2014	2	Titans	Wests Tigers
-2014	2	Knights	Raiders
-2014	2	Bulldogs	Sharks
-2014	3	Wests Tigers	Rabbitohs
-2014	3	Broncos	Roosters
-2014	3	Panthers	Bulldogs
-2014	3	Sharks	Dragons
-2014	3	Cowboys	Warriors
-2014	3	Sea Eagles	Eels
-2014	3	Raiders	Titans
-2014	3	Storm	Knights
-2014	4	Roosters	Sea Eagles
-2014	4	Dragons	Broncos
-2014	4	Warriors	Wests Tigers
-2014	4	Eels	Panthers
-2014	4	Bulldogs	Storm
-2014	4	Rabbitohs	Raiders
-2014	4	Knights	Sharks
-2014	4	Titans	Cowboys
-2014	5	Roosters	Bulldogs
-2014	5	Broncos	Eels
-2014	5	Sharks	Warriors
-2014	5	Panthers	Raiders
-2014	5	Dragons	Rabbitohs
-2014	5	Storm	Titans
-2014	5	Wests Tigers	Sea Eagles
-2014	5	Cowboys	Knights
-2014	7	Rabbitohs	Bulldogs
-2014	7	Knights	Broncos
-2014	7	Sea Eagles	Cowboys
-2014	7	Dragons	Warriors
-2014	7	Sharks	Roosters
-2014	7	Raiders	Storm
-2014	7	Eels	Wests Tigers
-2014	7	Panthers	Titans
-2014	8	Dragons	Roosters
-2014	8	Storm	Warriors
-2014	8	Broncos	Rabbitohs
-2014	8	Sharks	Panthers
-2014	8	Cowboys	Eels
-2014	8	Bulldogs	Knights
-2014	8	Sea Eagles	Raiders
-2014	8	Wests Tigers	Titans
-2014	9	Roosters	Wests Tigers
-2014	9	Cowboys	Broncos
-2014	9	Warriors	Raiders
-2014	9	Titans	Rabbitohs
-2014	9	Storm	Sea Eagles
-2014	9	Knights	Panthers
-2014	9	Dragons	Bulldogs
-2014	9	Eels	Sharks
-2014	11	Bulldogs	Roosters
-2014	11	Titans	Warriors
-2014	11	Wests Tigers	Broncos
-2014	11	Raiders	Cowboys
-2014	11	Sharks	Rabbitohs
-2014	13	Sea Eagles	Bulldogs
-2014	13	Eels	Cowboys
-2014	13	Titans	Panthers
-2014	13	Dragons	Sharks
-2014	13	Rabbitohs	Warriors
-2014	13	Knights	Wests Tigers
-2014	13	Storm	Roosters
-2014	13	Raiders	Broncos
-2014	14	Rabbitohs	Wests Tigers
-2014	14	Panthers	Dragons
-2014	14	Roosters	Knights
-2014	14	Bulldogs	Eels
-2014	14	Titans	Storm
-2014	15	Raiders	Bulldogs
-2014	15	Warriors	Broncos
-2014	15	Sharks	Sea Eagles
-2014	15	Storm	Eels
-2014	15	Titans	Dragons
-2014	15	Knights	Cowboys
-2014	18	Sea Eagles	Wests Tigers
-2014	18	Warriors	Eels
-2014	18	Storm	Bulldogs
-2014	18	Titans	Raiders
-2014	18	Sharks	Knights
-2014	18	Panthers	Broncos
-2014	19	Sharks	Cowboys
-2014	19	Eels	Rabbitohs
-2014	19	Roosters	Panthers
-2014	19	Storm	Raiders
-2014	19	Broncos	Warriors
-2014	19	Knights	Titans
-2014	19	Wests Tigers	Bulldogs
-2014	19	Dragons	Sea Eagles
-2014	21	Sea Eagles	Broncos
-2014	21	Bulldogs	Panthers
-2014	21	Sharks	Eels
-2014	21	Cowboys	Titans
-2014	21	Roosters	Dragons
-2014	21	Raiders	Warriors
-2014	21	Rabbitohs	Knights
-2014	21	Wests Tigers	Storm
-2014	22	Rabbitohs	Sea Eagles
-2014	22	Broncos	Bulldogs
-2014	22	Knights	Storm
-2014	22	Cowboys	Wests Tigers
-2014	22	Eels	Raiders
-2014	22	Warriors	Sharks
-2014	22	Dragons	Panthers
-2014	22	Roosters	Titans
-2014	23	Rabbitohs	Broncos
-2014	23	Eels	Bulldogs
-2014	23	Raiders	Dragons
-2014	23	Storm	Sharks
-2014	23	Wests Tigers	Roosters
-2014	23	Knights	Warriors
-2014	23	Titans	Sea Eagles
-2014	23	Panthers	Cowboys
-2014	24	Bulldogs	Wests Tigers
-2014	24	Eels	Sea Eagles
-2014	24	Broncos	Knights
-2014	24	Rabbitohs	Cowboys
-2014	24	Warriors	Roosters
-2014	24	Sharks	Raiders
-2014	24	Dragons	Titans
-2014	24	Panthers	Storm
-2014	26	Roosters	Rabbitohs
-2014	26	Storm	Broncos
-2014	26	Wests Tigers	Sharks
-2014	26	Raiders	Eels
-2014	26	Cowboys	Sea Eagles
-2014	26	Knights	Dragons
-2014	26	Titans	Bulldogs
-2014	26	Panthers	Warriors
-2014	27	Sea Eagles	Rabbitohs
-2014	27	Roosters	Panthers
-2014	27	Cowboys	Broncos
-2014	27	Storm	Bulldogs
-2014	28	Roosters	Cowboys
-2014	28	Sea Eagles	Bulldogs
-2014	29	Rabbitohs	Roosters
-2014	29	Panthers	Bulldogs
-2014	30	Rabbitohs	Bulldogs
-2014	31	Rabbitohs	Bulldogs
-2015	1	Broncos	Rabbitohs
-2015	1	Eels	Sea Eagles
-2015	1	Knights	Warriors
-2015	1	Titans	Wests Tigers
-2015	1	Cowboys	Roosters
-2015	1	Panthers	Bulldogs
-2015	1	Sharks	Raiders
-2015	1	Dragons	Storm
-2015	3	Sea Eagles	Bulldogs
-2015	3	Broncos	Cowboys
-2015	3	Warriors	Eels
-2015	3	Raiders	Dragons
-2015	3	Storm	Sharks
-2015	3	Rabbitohs	Wests Tigers
-2015	3	Titans	Knights
-2015	3	Roosters	Panthers
-2015	4	Eels	Rabbitohs
-2015	4	Wests Tigers	Bulldogs
-2015	4	Knights	Panthers
-2015	4	Sharks	Titans
-2015	4	Dragons	Sea Eagles
-2015	4	Warriors	Broncos
-2015	4	Roosters	Raiders
-2015	4	Cowboys	Storm
-2015	5	Bulldogs	Rabbitohs
-2015	5	Titans	Broncos
-2015	5	Sea Eagles	Raiders
-2015	5	Knights	Dragons
-2015	5	Roosters	Sharks
-2015	5	Eels	Wests Tigers
-2015	5	Storm	Warriors
-2015	5	Panthers	Cowboys
-2015	6	Broncos	Roosters
-2015	6	Sharks	Knights
-2015	6	Eels	Titans
-2015	6	Warriors	Wests Tigers
-2015	6	Panthers	Sea Eagles
-2015	6	Raiders	Storm
-2015	6	Dragons	Bulldogs
-2015	6	Rabbitohs	Cowboys
-2015	7	Bulldogs	Sea Eagles
-2015	7	Dragons	Broncos
-2015	7	Titans	Panthers
-2015	7	Cowboys	Warriors
-2015	7	Storm	Roosters
-2015	7	Wests Tigers	Raiders
-2015	7	Knights	Eels
-2015	7	Sharks	Rabbitohs
-2015	8	Bulldogs	Wests Tigers
-2015	8	Warriors	Titans
-2015	8	Knights	Cowboys
-2015	8	Roosters	Dragons
-2015	8	Storm	Sea Eagles
-2015	8	Broncos	Eels
-2015	8	Panthers	Sharks
-2015	8	Rabbitohs	Raiders
-2015	9	Broncos	Panthers
-2015	9	Roosters	Wests Tigers
-2015	9	Raiders	Titans
-2015	9	Sharks	Warriors
-2015	9	Cowboys	Bulldogs
-2015	9	Sea Eagles	Knights
-2015	9	Eels	Storm
-2015	9	Rabbitohs	Dragons
-2015	10	Bulldogs	Roosters
-2015	10	Cowboys	Broncos
-2015	10	Eels	Warriors
-2015	10	Titans	Sharks
-2015	10	Storm	Rabbitohs
-2015	10	Dragons	Raiders
-2015	10	Knights	Wests Tigers
-2015	10	Sea Eagles	Panthers
-2015	11	Rabbitohs	Eels
-2015	11	Wests Tigers	Cowboys
-2015	11	Raiders	Bulldogs
-2015	11	Knights	Broncos
-2015	12	Panthers	Eels
-2015	12	Titans	Rabbitohs
-2015	12	Raiders	Broncos
-2015	12	Cowboys	Sea Eagles
-2015	12	Warriors	Knights
-2015	12	Dragons	Sharks
-2015	12	Roosters	Storm
-2015	13	Broncos	Sea Eagles
-2015	13	Wests Tigers	Titans
-2015	13	Knights	Raiders
-2015	13	Rabbitohs	Warriors
-2015	13	Panthers	Storm
-2015	13	Sharks	Roosters
-2015	13	Bulldogs	Dragons
-2015	13	Eels	Cowboys
-2015	14	Wests Tigers	Rabbitohs
-2015	14	Warriors	Roosters
-2015	14	Titans	Bulldogs
-2015	14	Storm	Eels
-2015	15	Sea Eagles	Wests Tigers
-2015	15	Raiders	Cowboys
-2015	15	Titans	Warriors
-2015	15	Bulldogs	Panthers
-2015	15	Knights	Sharks
-2015	15	Storm	Broncos
-2015	15	Dragons	Roosters
-2015	16	Broncos	Knights
-2015	16	Rabbitohs	Sea Eagles
-2015	16	Warriors	Raiders
-2015	16	Cowboys	Sharks
-2015	16	Eels	Dragons
-2015	16	Roosters	Titans
-2015	16	Wests Tigers	Panthers
-2015	16	Bulldogs	Storm
-2015	17	Panthers	Rabbitohs
-2015	17	Dragons	Cowboys
-2015	17	Sea Eagles	Sharks
-2015	17	Wests Tigers	Eels
-2015	18	Raiders	Knights
-2015	18	Panthers	Roosters
-2015	18	Bulldogs	Broncos
-2015	18	Warriors	Storm
-2015	18	Sharks	Dragons
-2015	18	Titans	Sea Eagles
-2015	19	Eels	Bulldogs
-2015	19	Storm	Panthers
-2015	19	Raiders	Sharks
-2015	19	Knights	Titans
-2015	19	Dragons	Rabbitohs
-2015	19	Roosters	Warriors
-2015	19	Broncos	Wests Tigers
-2015	19	Sea Eagles	Cowboys
-2015	20	Broncos	Titans
-2015	20	Wests Tigers	Roosters
-2015	20	Warriors	Sea Eagles
-2015	20	Storm	Dragons
-2015	20	Rabbitohs	Knights
-2015	20	Panthers	Raiders
-2015	20	Bulldogs	Sharks
-2015	20	Cowboys	Eels
-2015	21	Roosters	Bulldogs
-2015	21	Wests Tigers	Storm
-2015	21	Warriors	Sharks
-2015	21	Cowboys	Raiders
-2015	21	Sea Eagles	Broncos
-2015	21	Dragons	Knights
-2015	21	Rabbitohs	Panthers
-2015	21	Titans	Eels
-2015	22	Broncos	Bulldogs
-2015	22	Sea Eagles	Rabbitohs
-2015	22	Warriors	Dragons
-2015	22	Sharks	Cowboys
-2015	22	Eels	Panthers
-2015	22	Storm	Titans
-2015	22	Knights	Roosters
-2015	22	Raiders	Wests Tigers
-2015	23	Cowboys	Rabbitohs
-2015	23	Broncos	Dragons
-2015	23	Wests Tigers	Knights
-2015	23	Panthers	Warriors
-2015	23	Roosters	Eels
-2015	23	Raiders	Sea Eagles
-2015	23	Bulldogs	Titans
-2015	23	Sharks	Storm
-2015	24	Dragons	Panthers
-2015	24	Rabbitohs	Bulldogs
-2015	24	Sharks	Wests Tigers
-2015	24	Warriors	Cowboys
-2015	24	Roosters	Broncos
-2015	24	Titans	Raiders
-2015	24	Sea Eagles	Eels
-2015	24	Storm	Knights
-2015	25	Rabbitohs	Broncos
-2015	25	Sea Eagles	Roosters
-2015	25	Eels	Sharks
-2015	25	Knights	Bulldogs
-2015	25	Storm	Cowboys
-2015	25	Wests Tigers	Warriors
-2015	25	Titans	Dragons
-2015	25	Raiders	Panthers
-2015	26	Broncos	Storm
-2015	26	Roosters	Rabbitohs
-2015	26	Panthers	Knights
-2015	26	Dragons	Wests Tigers
-2015	26	Cowboys	Titans
-2015	26	Eels	Raiders
-2015	26	Sharks	Sea Eagles
-2015	26	Bulldogs	Warriors
-2015	27	Roosters	Storm
-2015	27	Bulldogs	Dragons
-2015	27	Broncos	Cowboys
-2015	27	Sharks	Rabbitohs
-2015	28	Roosters	Bulldogs
-2015	28	Cowboys	Sharks
-2015	29	Broncos	Roosters
-2015	29	Storm	Cowboys
-2015	30	Broncos	Cowboys
-2015	31	Broncos	Cowboys
-2016	1	Eels	Broncos
-2016	1	Sea Eagles	Bulldogs
-2016	1	Raiders	Panthers
-2016	1	Wests Tigers	Warriors
-2016	1	Cowboys	Sharks
-2016	1	Roosters	Rabbitohs
-2016	1	Titans	Knights
-2016	1	Storm	Dragons
-2016	2	Panthers	Bulldogs
-2016	2	Broncos	Warriors
-2016	2	Raiders	Roosters
-2016	2	Rabbitohs	Knights
-2016	2	Eels	Cowboys
-2016	2	Sharks	Dragons
-2016	2	Storm	Titans
-2016	2	Wests Tigers	Sea Eagles
-2016	4	Rabbitohs	Bulldogs
-2016	4	Broncos	Cowboys
-2016	4	Raiders	Titans
-2016	4	Roosters	Sea Eagles
-2016	4	Dragons	Panthers
-2016	4	Warriors	Knights
-2016	4	Wests Tigers	Eels
-2016	4	Sharks	Storm
-2016	5	Sea Eagles	Rabbitohs
-2016	5	Titans	Broncos
-2016	5	Storm	Knights
-2016	5	Wests Tigers	Sharks
-2016	5	Cowboys	Dragons
-2016	5	Roosters	Warriors
-2016	5	Eels	Panthers
-2016	5	Bulldogs	Raiders
-2016	6	Broncos	Dragons
-2016	6	Rabbitohs	Roosters
-2016	6	Eels	Raiders
-2016	6	Warriors	Sea Eagles
-2016	6	Panthers	Cowboys
-2016	6	Sharks	Titans
-2016	6	Knights	Wests Tigers
-2016	6	Storm	Bulldogs
-2016	7	Sea Eagles	Eels
-2016	7	Cowboys	Rabbitohs
-2016	7	Titans	Dragons
-2016	7	Bulldogs	Warriors
-2016	7	Broncos	Knights
-2016	7	Raiders	Sharks
-2016	7	Wests Tigers	Storm
-2016	7	Roosters	Panthers
-2016	9	Rabbitohs	Wests Tigers
-2016	9	Eels	Bulldogs
-2016	9	Panthers	Raiders
-2016	9	Roosters	Knights
-2016	9	Sea Eagles	Cowboys
-2016	9	Warriors	Dragons
-2016	9	Titans	Storm
-2016	9	Sharks	Broncos
-2016	10	Dragons	Raiders
-2016	10	Eels	Rabbitohs
-2016	10	Panthers	Warriors
-2016	10	Storm	Cowboys
-2016	10	Sea Eagles	Broncos
-2016	10	Knights	Sharks
-2016	10	Wests Tigers	Bulldogs
-2016	10	Titans	Roosters
-2016	11	Rabbitohs	Dragons
-2016	11	Cowboys	Broncos
-2016	11	Wests Tigers	Knights
-2016	11	Warriors	Raiders
-2016	11	Sharks	Sea Eagles
-2016	11	Panthers	Titans
-2016	11	Bulldogs	Roosters
-2016	11	Eels	Storm
-2016	12	Broncos	Wests Tigers
-2016	12	Dragons	Cowboys
-2016	12	Raiders	Bulldogs
-2016	12	Knights	Eels
-2016	14	Broncos	Raiders
-2016	14	Wests Tigers	Rabbitohs
-2016	14	Knights	Warriors
-2016	14	Eels	Titans
-2016	14	Roosters	Storm
-2016	14	Sea Eagles	Panthers
-2016	14	Dragons	Bulldogs
-2016	14	Sharks	Cowboys
-2016	15	Rabbitohs	Eels
-2016	15	Dragons	Storm
-2016	15	Warriors	Roosters
-2016	15	Titans	Sea Eagles
-2016	16	Panthers	Rabbitohs
-2016	16	Knights	Dragons
-2016	16	Sharks	Warriors
-2016	16	Bulldogs	Broncos
-2016	16	Titans	Raiders
-2016	16	Storm	Wests Tigers
-2016	16	Cowboys	Sea Eagles
-2016	17	Roosters	Bulldogs
-2016	17	Broncos	Storm
-2016	17	Warriors	Titans
-2016	17	Wests Tigers	Panthers
-2016	17	Sharks	Eels
-2016	17	Raiders	Knights
-2016	17	Rabbitohs	Cowboys
-2016	17	Sea Eagles	Dragons
-2016	18	Eels	Roosters
-2016	18	Bulldogs	Wests Tigers
-2016	18	Panthers	Sharks
-2016	18	Raiders	Cowboys
-2016	19	Dragons	Titans
-2016	19	Sea Eagles	Warriors
-2016	19	Rabbitohs	Broncos
-2016	19	Knights	Storm
-2016	19	Panthers	Eels
-2016	19	Roosters	Sharks
-2016	20	Cowboys	Bulldogs
-2016	20	Broncos	Panthers
-2016	20	Raiders	Warriors
-2016	20	Titans	Eels
-2016	20	Storm	Roosters
-2016	20	Sharks	Knights
-2016	20	Dragons	Wests Tigers
-2016	20	Rabbitohs	Sea Eagles
-2016	21	Roosters	Broncos
-2016	21	Bulldogs	Dragons
-2016	21	Warriors	Panthers
-2016	21	Eels	Wests Tigers
-2016	21	Cowboys	Storm
-2016	21	Rabbitohs	Raiders
-2016	21	Sea Eagles	Knights
-2016	21	Titans	Sharks
-2016	22	Dragons	Broncos
-2016	22	Eels	Sea Eagles
-2016	22	Knights	Bulldogs
-2016	22	Sharks	Raiders
-2016	22	Storm	Rabbitohs
-2016	22	Titans	Warriors
-2016	22	Wests Tigers	Cowboys
-2016	22	Panthers	Roosters
-2016	23	Bulldogs	Sea Eagles
-2016	23	Broncos	Eels
-2016	23	Wests Tigers	Titans
-2016	23	Warriors	Rabbitohs
-2016	23	Dragons	Sharks
-2016	23	Knights	Panthers
-2016	23	Roosters	Cowboys
-2016	23	Raiders	Storm
-2016	24	Broncos	Bulldogs
-2016	24	Panthers	Wests Tigers
-2016	24	Knights	Titans
-2016	24	Sea Eagles	Storm
-2016	24	Cowboys	Warriors
-2016	24	Raiders	Eels
-2016	24	Roosters	Dragons
-2016	24	Rabbitohs	Sharks
-2016	25	Bulldogs	Cowboys
-2016	25	Storm	Broncos
-2016	25	Sea Eagles	Raiders
-2016	25	Titans	Panthers
-2016	25	Sharks	Roosters
-2016	25	Warriors	Wests Tigers
-2016	25	Knights	Rabbitohs
-2016	25	Eels	Dragons
-2016	26	Broncos	Roosters
-2016	26	Bulldogs	Rabbitohs
-2016	26	Dragons	Knights
-2016	26	Cowboys	Titans
-2016	26	Storm	Sharks
-2016	26	Wests Tigers	Raiders
-2016	26	Warriors	Eels
-2016	26	Panthers	Sea Eagles
-2016	29	Sharks	Cowboys
-2016	29	Storm	Raiders
-2016	30	Storm	Sharks
-2016	31	Storm	Sharks
-2017	1	Sharks	Broncos
-2017	1	Bulldogs	Storm
-2017	1	Rabbitohs	Wests Tigers
-2017	1	Dragons	Panthers
-2017	1	Cowboys	Raiders
-2017	1	Titans	Roosters
-2017	1	Warriors	Knights
-2017	1	Sea Eagles	Eels
-2017	2	Roosters	Bulldogs
-2017	2	Warriors	Storm
-2017	2	Broncos	Cowboys
-2017	2	Knights	Titans
-2017	2	Sea Eagles	Rabbitohs
-2017	2	Raiders	Sharks
-2017	2	Wests Tigers	Panthers
-2017	2	Dragons	Eels
-2017	3	Storm	Broncos
-2017	3	Bulldogs	Warriors
-2017	3	Titans	Eels
-2017	3	Knights	Rabbitohs
-2017	3	Panthers	Roosters
-2017	3	Cowboys	Sea Eagles
-2017	3	Raiders	Wests Tigers
-2017	3	Sharks	Dragons
-2017	4	Rabbitohs	Roosters
-2017	4	Panthers	Knights
-2017	4	Broncos	Raiders
-2017	4	Sea Eagles	Bulldogs
-2017	4	Eels	Sharks
-2017	4	Titans	Cowboys
-2017	4	Wests Tigers	Storm
-2017	4	Dragons	Warriors
-2017	6	Broncos	Roosters
-2017	6	Knights	Bulldogs
-2017	6	Panthers	Rabbitohs
-2017	6	Sea Eagles	Dragons
-2017	6	Titans	Raiders
-2017	6	Cowboys	Wests Tigers
-2017	6	Warriors	Eels
-2017	6	Storm	Sharks
-2017	7	Bulldogs	Rabbitohs
-2017	7	Knights	Roosters
-2017	7	Broncos	Titans
-2017	7	Sea Eagles	Storm
-2017	7	Raiders	Warriors
-2017	7	Dragons	Cowboys
-2017	7	Panthers	Sharks
-2017	7	Eels	Wests Tigers
-2017	10	Bulldogs	Cowboys
-2017	10	Dragons	Sharks
-2017	10	Wests Tigers	Rabbitohs
-2017	10	Panthers	Warriors
-2017	10	Storm	Titans
-2017	10	Sea Eagles	Broncos
-2017	10	Knights	Raiders
-2017	10	Roosters	Eels
-2017	11	Sharks	Cowboys
-2017	11	Warriors	Dragons
-2017	11	Broncos	Wests Tigers
-2017	11	Titans	Sea Eagles
-2017	11	Eels	Raiders
-2017	11	Knights	Panthers
-2017	11	Bulldogs	Roosters
-2017	11	Rabbitohs	Storm
-2017	12	Rabbitohs	Eels
-2017	12	Warriors	Broncos
-2017	12	Sharks	Bulldogs
-2017	12	Raiders	Roosters
-2017	14	Sharks	Storm
-2017	14	Sea Eagles	Knights
-2017	14	Broncos	Rabbitohs
-2017	14	Titans	Warriors
-2017	14	Panthers	Raiders
-2017	14	Eels	Cowboys
-2017	14	Wests Tigers	Roosters
-2017	14	Bulldogs	Dragons
-2017	15	Rabbitohs	Titans
-2017	15	Storm	Cowboys
-2017	15	Sharks	Wests Tigers
-2017	15	Eels	Dragons
-2017	16	Warriors	Bulldogs
-2017	16	Wests Tigers	Titans
-2017	16	Cowboys	Panthers
-2017	16	Raiders	Broncos
-2017	16	Roosters	Storm
-2017	16	Dragons	Knights
-2017	16	Sharks	Sea Eagles
-2017	17	Eels	Bulldogs
-2017	17	Titans	Dragons
-2017	17	Broncos	Storm
-2017	17	Roosters	Sharks
-2017	17	Sea Eagles	Warriors
-2017	17	Raiders	Cowboys
-2017	17	Knights	Wests Tigers
-2017	17	Rabbitohs	Panthers
-2017	18	Roosters	Rabbitohs
-2017	18	Panthers	Sea Eagles
-2017	18	Storm	Eels
-2017	18	Bulldogs	Knights
-2017	19	Warriors	Panthers
-2017	19	Raiders	Dragons
-2017	19	Knights	Broncos
-2017	19	Titans	Sharks
-2017	19	Sea Eagles	Wests Tigers
-2017	19	Rabbitohs	Cowboys
-2017	20	Broncos	Bulldogs
-2017	20	Roosters	Knights
-2017	20	Sharks	Rabbitohs
-2017	20	Panthers	Titans
-2017	20	Raiders	Storm
-2017	20	Cowboys	Warriors
-2017	20	Dragons	Sea Eagles
-2017	20	Wests Tigers	Eels
-2017	21	Panthers	Bulldogs
-2017	21	Warriors	Sharks
-2017	21	Eels	Broncos
-2017	21	Knights	Dragons
-2017	21	Rabbitohs	Raiders
-2017	21	Roosters	Cowboys
-2017	21	Storm	Sea Eagles
-2017	21	Titans	Wests Tigers
-2017	22	Bulldogs	Eels
-2017	22	Dragons	Rabbitohs
-2017	22	Cowboys	Storm
-2017	22	Knights	Warriors
-2017	22	Titans	Broncos
-2017	22	Sharks	Raiders
-2017	22	Sea Eagles	Roosters
-2017	22	Panthers	Wests Tigers
-2017	23	Rabbitohs	Bulldogs
-2017	23	Eels	Knights
-2017	23	Broncos	Sharks
-2017	23	Dragons	Titans
-2017	23	Storm	Roosters
-2017	23	Panthers	Cowboys
-2017	23	Warriors	Raiders
-2017	23	Wests Tigers	Sea Eagles
-2017	24	Eels	Titans
-2017	24	Rabbitohs	Warriors
-2017	24	Broncos	Dragons
-2017	24	Knights	Storm
-2017	24	Roosters	Wests Tigers
-2017	24	Cowboys	Sharks
-2017	24	Raiders	Panthers
-2017	24	Bulldogs	Sea Eagles
-2017	25	Broncos	Eels
-2017	25	Raiders	Knights
-2017	25	Wests Tigers	Cowboys
-2017	25	Titans	Bulldogs
-2017	25	Storm	Rabbitohs
-2017	25	Sharks	Roosters
-2017	25	Warriors	Sea Eagles
-2017	25	Panthers	Dragons
-2017	26	Cowboys	Broncos
-2017	26	Eels	Rabbitohs
-2017	26	Roosters	Titans
-2017	26	Sea Eagles	Panthers
-2017	26	Storm	Raiders
-2017	26	Knights	Sharks
-2017	26	Dragons	Bulldogs
-2017	26	Wests Tigers	Warriors
-2017	27	Roosters	Broncos
-2017	27	Storm	Eels
-2017	27	Sea Eagles	Panthers
-2017	27	Sharks	Cowboys
-2017	28	Broncos	Panthers
-2017	28	Eels	Cowboys
-2017	29	Storm	Broncos
-2017	29	Roosters	Cowboys
-2018	1	Dragons	Broncos
-2018	1	Knights	Sea Eagles
-2018	1	Cowboys	Sharks
-2018	1	Wests Tigers	Roosters
-2018	1	Rabbitohs	Warriors
-2018	1	Bulldogs	Storm
-2018	1	Panthers	Eels
-2018	1	Titans	Raiders
-2018	2	Sharks	Dragons
-2018	2	Roosters	Bulldogs
-2018	2	Broncos	Cowboys
-2018	2	Warriors	Titans
-2018	2	Panthers	Rabbitohs
-2018	2	Storm	Wests Tigers
-2018	2	Sea Eagles	Eels
-2018	2	Raiders	Knights
-2018	4	Cowboys	Panthers
-2018	4	Rabbitohs	Bulldogs
-2018	4	Sharks	Storm
-2018	4	Roosters	Warriors
-2018	4	Sea Eagles	Raiders
-2018	4	Dragons	Knights
-2018	4	Broncos	Titans
-2018	4	Wests Tigers	Eels
-2018	5	Raiders	Bulldogs
-2018	5	Sharks	Roosters
-2018	5	Dragons	Rabbitohs
-2018	5	Wests Tigers	Storm
-2018	5	Warriors	Cowboys
-2018	5	Knights	Broncos
-2018	5	Titans	Sea Eagles
-2018	5	Eels	Panthers
-2018	6	Roosters	Rabbitohs
-2018	6	Storm	Knights
-2018	6	Dragons	Sharks
-2018	6	Warriors	Broncos
-2018	6	Cowboys	Bulldogs
-2018	6	Raiders	Eels
-2018	6	Panthers	Titans
-2018	6	Sea Eagles	Wests Tigers
-2018	7	Bulldogs	Roosters
-2018	7	Warriors	Dragons
-2018	7	Broncos	Storm
-2018	7	Rabbitohs	Raiders
-2018	7	Wests Tigers	Knights
-2018	7	Cowboys	Titans
-2018	7	Eels	Sea Eagles
-2018	7	Sharks	Panthers
-2018	8	Dragons	Roosters
-2018	8	Storm	Warriors
-2018	8	Rabbitohs	Broncos
-2018	8	Sea Eagles	Knights
-2018	8	Panthers	Bulldogs
-2018	8	Titans	Sharks
-2018	8	Cowboys	Raiders
-2018	8	Eels	Wests Tigers
-2018	9	Broncos	Bulldogs
-2018	9	Knights	Rabbitohs
-2018	9	Panthers	Cowboys
-2018	9	Raiders	Titans
-2018	9	Warriors	Wests Tigers
-2018	9	Sharks	Eels
-2018	9	Dragons	Storm
-2018	9	Roosters	Sea Eagles
-2018	11	Panthers	Wests Tigers
-2018	11	Eels	Warriors
-2018	11	Broncos	Roosters
-2018	11	Titans	Knights
-2018	11	Cowboys	Rabbitohs
-2018	11	Storm	Sea Eagles
-2018	11	Dragons	Raiders
-2018	11	Sharks	Bulldogs
-2018	13	Sea Eagles	Cowboys
-2018	13	Rabbitohs	Sharks
-2018	13	Eels	Knights
-2018	13	Roosters	Wests Tigers
-2018	15	Eels	Rabbitohs
-2018	15	Cowboys	Warriors
-2018	15	Roosters	Panthers
-2018	15	Bulldogs	Titans
-2018	15	Dragons	Sea Eagles
-2018	15	Sharks	Broncos
-2018	15	Knights	Storm
-2018	15	Wests Tigers	Raiders
-2018	16	Dragons	Eels
-2018	16	Warriors	Sharks
-2018	16	Roosters	Storm
-2018	16	Panthers	Sea Eagles
-2018	16	Knights	Bulldogs
-2018	16	Broncos	Raiders
-2018	16	Wests Tigers	Titans
-2018	16	Rabbitohs	Cowboys
-2018	17	Storm	Dragons
-2018	17	Panthers	Warriors
-2018	17	Bulldogs	Raiders
-2018	17	Titans	Broncos
-2018	18	Panthers	Sharks
-2018	18	Knights	Eels
-2018	18	Bulldogs	Rabbitohs
-2018	18	Sea Eagles	Storm
-2018	18	Raiders	Cowboys
-2018	18	Broncos	Warriors
-2018	18	Dragons	Wests Tigers
-2018	18	Titans	Roosters
-2018	19	Eels	Bulldogs
-2018	19	Sharks	Raiders
-2018	19	Broncos	Panthers
-2018	19	Knights	Titans
-2018	19	Wests Tigers	Rabbitohs
-2018	19	Cowboys	Dragons
-2018	19	Warriors	Storm
-2018	19	Sea Eagles	Roosters
-2018	20	Broncos	Sharks
-2018	20	Cowboys	Knights
-2018	20	Bulldogs	Wests Tigers
-2018	20	Sea Eagles	Panthers
-2018	20	Rabbitohs	Eels
-2018	20	Storm	Raiders
-2018	20	Titans	Warriors
-2018	20	Roosters	Dragons
-2018	21	Bulldogs	Broncos
-2018	21	Knights	Wests Tigers
-2018	21	Rabbitohs	Storm
-2018	21	Dragons	Warriors
-2018	21	Eels	Titans
-2018	21	Roosters	Cowboys
-2018	21	Sharks	Sea Eagles
-2018	21	Panthers	Raiders
-2018	24	Wests Tigers	Sea Eagles
-2018	24	Warriors	Panthers
-2018	24	Cowboys	Eels
-2018	24	Raiders	Rabbitohs
-2018	24	Titans	Storm
-2018	24	Roosters	Broncos
-2018	24	Sharks	Knights
-2018	24	Dragons	Bulldogs
-2018	25	Rabbitohs	Wests Tigers
-2018	25	Warriors	Raiders
-2018	25	Storm	Panthers
-2018	25	Knights	Dragons
-2018	25	Titans	Cowboys
-2018	25	Eels	Roosters
-2018	25	Bulldogs	Sharks
-2018	25	Broncos	Sea Eagles
-2018	26	Storm	Rabbitohs
-2018	26	Panthers	Warriors
-2018	26	Roosters	Sharks
-2018	26	Broncos	Dragons
-2018	27	Sharks	Panthers
-2018	27	Rabbitohs	Dragons
-2018	28	Storm	Sharks
-2018	28	Roosters	Rabbitohs
-2018	29	Roosters	Storm
-2018	30	Roosters	Storm
-2018	31	Roosters	Storm
-2019	1	Storm	Broncos
-2019	1	Knights	Sharks
-2019	1	Roosters	Rabbitohs
-2019	1	Warriors	Bulldogs
-2019	1	Wests Tigers	Sea Eagles
-2019	1	Cowboys	Dragons
-2019	1	Panthers	Eels
-2019	1	Titans	Raiders
-2019	2	Dragons	Rabbitohs
-2019	2	Raiders	Storm
-2019	2	Broncos	Cowboys
-2019	2	Sharks	Titans
-2019	2	Knights	Panthers
-2019	2	Sea Eagles	Roosters
-2019	2	Bulldogs	Eels
-2019	2	Wests Tigers	Warriors
-2019	3	Broncos	Dragons
-2019	3	Raiders	Knights
-2019	3	Eels	Roosters
-2019	3	Sea Eagles	Warriors
-2019	3	Cowboys	Sharks
-2019	3	Panthers	Storm
-2019	3	Wests Tigers	Bulldogs
-2019	3	Rabbitohs	Titans
-2019	4	Roosters	Broncos
-2019	4	Warriors	Titans
-2019	4	Panthers	Wests Tigers
-2019	4	Sea Eagles	Rabbitohs
-2019	4	Cowboys	Raiders
-2019	4	Eels	Sharks
-2019	4	Storm	Bulldogs
-2019	4	Knights	Dragons
-2019	5	Broncos	Wests Tigers
-2019	5	Titans	Panthers
-2019	5	Cowboys	Storm
-2019	5	Rabbitohs	Warriors
-2019	5	Knights	Sea Eagles
-2019	5	Sharks	Roosters
-2019	5	Dragons	Bulldogs
-2019	5	Raiders	Eels
-2019	6	Sharks	Panthers
-2019	6	Bulldogs	Rabbitohs
-2019	6	Storm	Roosters
-2019	6	Warriors	Cowboys
-2019	6	Dragons	Sea Eagles
-2019	6	Titans	Knights
-2019	6	Raiders	Broncos
-2019	6	Eels	Wests Tigers
-2019	7	Roosters	Dragons
-2019	7	Storm	Warriors
-2019	7	Bulldogs	Cowboys
-2019	7	Panthers	Rabbitohs
-2019	7	Wests Tigers	Titans
-2019	7	Broncos	Sharks
-2019	7	Sea Eagles	Raiders
-2019	7	Knights	Eels
-2019	8	Rabbitohs	Broncos
-2019	8	Cowboys	Titans
-2019	8	Sharks	Storm
-2019	8	Raiders	Panthers
-2019	8	Sea Eagles	Bulldogs
-2019	8	Roosters	Wests Tigers
-2019	8	Warriors	Knights
-2019	8	Eels	Dragons
-2019	9	Titans	Sharks
-2019	9	Wests Tigers	Panthers
-2019	9	Sea Eagles	Broncos
-2019	9	Bulldogs	Knights
-2019	9	Warriors	Dragons
-2019	9	Storm	Eels
-2019	9	Roosters	Raiders
-2019	9	Rabbitohs	Cowboys
-2019	11	Eels	Panthers
-2019	11	Sea Eagles	Titans
-2019	11	Knights	Roosters
-2019	11	Raiders	Cowboys
-2019	11	Warriors	Broncos
-2019	11	Rabbitohs	Wests Tigers
-2019	11	Bulldogs	Storm
-2019	11	Dragons	Sharks
-2019	13	Rabbitohs	Knights
-2019	13	Wests Tigers	Raiders
-2019	13	Warriors	Storm
-2019	13	Sharks	Eels
-2019	13	Cowboys	Sea Eagles
-2019	13	Broncos	Titans
-2019	13	Panthers	Roosters
-2019	13	Bulldogs	Dragons
-2019	14	Raiders	Sharks
-2019	14	Titans	Warriors
-2019	14	Cowboys	Wests Tigers
-2019	14	Storm	Knights
-2019	14	Rabbitohs	Panthers
-2019	14	Eels	Broncos
-2019	14	Sea Eagles	Dragons
-2019	14	Roosters	Bulldogs
-2019	15	Wests Tigers	Rabbitohs
-2019	15	Dragons	Cowboys
-2019	15	Roosters	Storm
-2019	15	Titans	Sea Eagles
-2019	15	Knights	Broncos
-2019	15	Eels	Raiders
-2019	15	Warriors	Panthers
-2019	15	Bulldogs	Sharks
-2019	16	Dragons	Storm
-2019	16	Wests Tigers	Roosters
-2019	16	Knights	Warriors
-2019	16	Sharks	Broncos
-2019	17	Panthers	Titans
-2019	17	Knights	Bulldogs
-2019	17	Rabbitohs	Sea Eagles
-2019	17	Broncos	Warriors
-2019	17	Storm	Sharks
-2019	17	Roosters	Cowboys
-2019	17	Wests Tigers	Eels
-2019	17	Dragons	Raiders
-2019	18	Broncos	Bulldogs
-2019	18	Warriors	Sharks
-2019	18	Panthers	Dragons
-2019	18	Roosters	Knights
-2019	18	Raiders	Wests Tigers
-2019	18	Cowboys	Rabbitohs
-2019	18	Titans	Storm
-2019	18	Sea Eagles	Eels
-2019	19	Sharks	Cowboys
-2019	19	Knights	Wests Tigers
-2019	19	Rabbitohs	Dragons
-2019	19	Eels	Warriors
-2019	19	Titans	Broncos
-2019	19	Storm	Sea Eagles
-2019	19	Bulldogs	Roosters
-2019	19	Panthers	Raiders
-2019	20	Wests Tigers	Cowboys
-2019	20	Warriors	Raiders
-2019	20	Broncos	Storm
-2019	20	Sea Eagles	Knights
-2019	20	Bulldogs	Panthers
-2019	20	Sharks	Rabbitohs
-2019	20	Roosters	Titans
-2019	20	Dragons	Eels
-2019	21	Cowboys	Broncos
-2019	21	Warriors	Sea Eagles
-2019	21	Panthers	Sharks
-2019	21	Dragons	Titans
-2019	21	Eels	Knights
-2019	21	Bulldogs	Wests Tigers
-2019	21	Raiders	Roosters
-2019	21	Rabbitohs	Storm
-2019	22	Sea Eagles	Wests Tigers
-2019	22	Titans	Eels
-2019	22	Broncos	Panthers
-2019	22	Knights	Cowboys
-2019	22	Storm	Raiders
-2019	22	Rabbitohs	Bulldogs
-2019	22	Roosters	Warriors
-2019	22	Sharks	Dragons
-2019	23	Eels	Bulldogs
-2019	23	Cowboys	Panthers
-2019	23	Broncos	Rabbitohs
-2019	23	Sharks	Warriors
-2019	23	Wests Tigers	Knights
-2019	23	Dragons	Roosters
-2019	23	Storm	Titans
-2019	23	Raiders	Sea Eagles
-2019	24	Cowboys	Bulldogs
-2019	24	Warriors	Rabbitohs
-2019	24	Broncos	Eels
-2019	24	Knights	Titans
-2019	24	Sea Eagles	Storm
-2019	24	Roosters	Panthers
-2019	24	Sharks	Raiders
-2019	24	Dragons	Wests Tigers
-2019	25	Rabbitohs	Roosters
-2019	25	Eels	Sea Eagles
-2019	25	Storm	Cowboys
-2019	25	Raiders	Warriors
-2019	25	Bulldogs	Broncos
-2019	25	Titans	Dragons
-2019	25	Wests Tigers	Sharks
-2019	25	Panthers	Knights
-2019	26	Roosters	Rabbitohs
-2019	26	Storm	Raiders
-2019	26	Sea Eagles	Sharks
-2019	26	Eels	Broncos
-2019	27	Rabbitohs	Sea Eagles
-2019	27	Storm	Eels
-2019	28	Raiders	Rabbitohs
-2019	28	Roosters	Storm
-2019	29	Roosters	Raiders
-2020	1	Eels	Bulldogs
-2020	1	Raiders	Titans
-2020	1	Cowboys	Broncos
-2020	1	Knights	Warriors
-2020	1	Rabbitohs	Sharks
-2020	1	Panthers	Roosters
-2020	1	Sea Eagles	Storm
-2020	1	Dragons	Wests Tigers
-2020	4	Broncos	Roosters
-2020	4	Panthers	Warriors
-2020	4	Storm	Rabbitohs
-2020	4	Eels	Sea Eagles
-2020	4	Cowboys	Sharks
-2020	4	Raiders	Knights
-2020	4	Titans	Wests Tigers
-2020	4	Bulldogs	Dragons
-2020	5	Sea Eagles	Broncos
-2020	5	Warriors	Cowboys
-2020	5	Eels	Panthers
-2020	5	Rabbitohs	Titans
-2020	5	Knights	Storm
-2020	5	Wests Tigers	Raiders
-2020	5	Dragons	Sharks
-2020	5	Bulldogs	Roosters
-2020	6	Knights	Broncos
-2020	6	Rabbitohs	Warriors
-2020	6	Panthers	Storm
-2020	6	Titans	Dragons
-2020	6	Wests Tigers	Cowboys
-2020	6	Roosters	Eels
-2020	6	Raiders	Sea Eagles
-2020	6	Sharks	Bulldogs
-2020	8	Storm	Roosters
-2020	8	Raiders	Dragons
-2020	8	Eels	Cowboys
-2020	8	Titans	Sharks
-2020	8	Warriors	Broncos
-2020	8	Wests Tigers	Panthers
-2020	8	Sea Eagles	Knights
-2020	8	Bulldogs	Rabbitohs
-2020	9	Cowboys	Roosters
-2020	9	Titans	Warriors
-2020	9	Rabbitohs	Wests Tigers
-2020	9	Sharks	Panthers
-2020	9	Broncos	Bulldogs
-2020	9	Raiders	Storm
-2020	9	Knights	Eels
-2020	9	Dragons	Sea Eagles
-2020	10	Roosters	Raiders
-2020	10	Storm	Titans
-2020	10	Wests Tigers	Broncos
-2020	10	Dragons	Bulldogs
-2020	10	Rabbitohs	Knights
-2020	10	Sea Eagles	Eels
-2020	10	Warriors	Sharks
-2020	10	Panthers	Cowboys
-2020	11	Eels	Wests Tigers
-2020	11	Cowboys	Sea Eagles
-2020	11	Broncos	Storm
-2020	11	Warriors	Roosters
-2020	11	Sharks	Dragons
-2020	11	Raiders	Rabbitohs
-2020	11	Knights	Bulldogs
-2020	11	Titans	Panthers
-2020	12	Dragons	Rabbitohs
-2020	12	Wests Tigers	Warriors
-2020	12	Broncos	Sharks
-2020	12	Roosters	Titans
-2020	12	Cowboys	Raiders
-2020	12	Sea Eagles	Panthers
-2020	12	Bulldogs	Eels
-2020	12	Storm	Knights
-2020	13	Dragons	Roosters
-2020	13	Sea Eagles	Warriors
-2020	13	Rabbitohs	Broncos
-2020	13	Storm	Bulldogs
-2020	13	Knights	Wests Tigers
-2020	13	Panthers	Raiders
-2020	13	Titans	Cowboys
-2020	13	Sharks	Eels
-2020	14	Roosters	Storm
-2020	14	Warriors	Panthers
-2020	14	Eels	Dragons
-2020	14	Sharks	Titans
-2020	14	Cowboys	Rabbitohs
-2020	14	Raiders	Broncos
-2020	14	Knights	Sea Eagles
-2020	14	Wests Tigers	Bulldogs
-2020	15	Eels	Storm
-2020	15	Panthers	Sharks
-2020	15	Broncos	Dragons
-2020	15	Titans	Raiders
-2020	15	Wests Tigers	Roosters
-2020	15	Rabbitohs	Sea Eagles
-2020	15	Bulldogs	Warriors
-2020	15	Knights	Cowboys
-2020	16	Eels	Rabbitohs
-2020	16	Dragons	Titans
-2020	16	Roosters	Broncos
-2020	16	Warriors	Knights
-2020	16	Sharks	Cowboys
-2020	16	Panthers	Wests Tigers
-2020	16	Storm	Sea Eagles
-2020	16	Raiders	Bulldogs
-2020	17	Broncos	Panthers
-2020	17	Knights	Sharks
-2020	17	Rabbitohs	Storm
-2020	17	Bulldogs	Titans
-2020	17	Sea Eagles	Wests Tigers
-2020	17	Raiders	Roosters
-2020	17	Warriors	Eels
-2020	17	Cowboys	Dragons
-2020	18	Wests Tigers	Rabbitohs
-2020	18	Bulldogs	Sea Eagles
-2020	18	Panthers	Eels
-2020	18	Dragons	Raiders
-2020	18	Titans	Broncos
-2020	18	Roosters	Knights
-2020	18	Storm	Cowboys
-2020	18	Sharks	Warriors
-2020	19	Rabbitohs	Bulldogs
-2020	19	Cowboys	Panthers
-2020	19	Eels	Broncos
-2020	19	Sea Eagles	Titans
-2020	19	Storm	Wests Tigers
-2020	19	Roosters	Sharks
-2020	19	Raiders	Warriors
-2020	19	Knights	Dragons
-2020	20	Broncos	Cowboys
-2020	20	Titans	Knights
-2020	20	Rabbitohs	Roosters
-2020	20	Bulldogs	Panthers
-2020	20	Sharks	Raiders
-2020	20	Wests Tigers	Eels
-2020	20	Warriors	Sea Eagles
-2020	20	Dragons	Storm
-2020	21	Panthers	Roosters
-2020	21	Raiders	Sharks
-2020	21	Storm	Eels
-2020	21	Rabbitohs	Knights
-2020	22	Roosters	Raiders
-2020	22	Eels	Rabbitohs
-2020	23	Storm	Raiders
-2020	23	Panthers	Rabbitohs
-2020	24	Panthers	Storm
-2020	25	Panthers	Storm
-2020	26	Panthers	Storm
-2020	29	Panthers	Storm
-2020	30	Panthers	Storm
-2020	31	Panthers	Storm
-2021	1	Storm	Rabbitohs
-2021	1	Knights	Bulldogs
-2021	1	Broncos	Eels
-2021	1	Warriors	Titans
-2021	1	Roosters	Sea Eagles
-2021	1	Panthers	Cowboys
-2021	1	Raiders	Wests Tigers
-2021	1	Dragons	Sharks
-2021	2	Eels	Storm
-2021	2	Warriors	Knights
-2021	2	Titans	Broncos
-2021	2	Bulldogs	Panthers
-2021	2	Sea Eagles	Rabbitohs
-2021	2	Cowboys	Dragons
-2021	2	Wests Tigers	Roosters
-2021	2	Sharks	Raiders
-2021	3	Panthers	Storm
-2021	3	Dragons	Sea Eagles
-2021	3	Rabbitohs	Roosters
-2021	3	Raiders	Warriors
-2021	3	Broncos	Bulldogs
-2021	3	Eels	Sharks
-2021	3	Knights	Wests Tigers
-2021	3	Cowboys	Titans
-2021	4	Sea Eagles	Panthers
-2021	4	Bulldogs	Rabbitohs
-2021	4	Storm	Broncos
-2021	4	Sharks	Cowboys
-2021	4	Titans	Raiders
-2021	4	Knights	Dragons
-2021	4	Roosters	Warriors
-2021	4	Wests Tigers	Eels
-2021	5	Rabbitohs	Broncos
-2021	5	Warriors	Sea Eagles
-2021	5	Panthers	Raiders
-2021	5	Titans	Knights
-2021	5	Bulldogs	Storm
-2021	5	Roosters	Sharks
-2021	5	Wests Tigers	Cowboys
-2021	5	Eels	Dragons
-2021	6	Broncos	Panthers
-2021	6	Knights	Sharks
-2021	6	Storm	Roosters
-2021	6	Sea Eagles	Titans
-2021	6	Rabbitohs	Wests Tigers
-2021	6	Raiders	Eels
-2021	6	Dragons	Warriors
-2021	6	Cowboys	Bulldogs
-2021	7	Panthers	Knights
-2021	7	Titans	Rabbitohs
-2021	7	Eels	Broncos
-2021	7	Sharks	Bulldogs
-2021	7	Cowboys	Raiders
-2021	7	Wests Tigers	Sea Eagles
-2021	7	Roosters	Dragons
-2021	7	Storm	Warriors
-2021	8	Raiders	Rabbitohs
-2021	8	Storm	Sharks
-2021	8	Broncos	Titans
-2021	8	Panthers	Sea Eagles
-2021	8	Bulldogs	Eels
-2021	8	Knights	Roosters
-2021	8	Warriors	Cowboys
-2021	8	Dragons	Wests Tigers
-2021	9	Rabbitohs	Storm
-2021	9	Panthers	Sharks
-2021	9	Eels	Roosters
-2021	9	Raiders	Knights
-2021	9	Wests Tigers	Titans
-2021	9	Cowboys	Broncos
-2021	9	Sea Eagles	Warriors
-2021	9	Dragons	Bulldogs
-2021	10	Wests Tigers	Knights
-2021	10	Sea Eagles	Broncos
-2021	10	Bulldogs	Raiders
-2021	10	Sharks	Rabbitohs
-2021	10	Roosters	Cowboys
-2021	10	Warriors	Eels
-2021	10	Storm	Dragons
-2021	10	Titans	Panthers
-2021	12	Broncos	Storm
-2021	12	Cowboys	Warriors
-2021	12	Wests Tigers	Dragons
-2021	12	Panthers	Bulldogs
-2021	12	Rabbitohs	Eels
-2021	12	Roosters	Raiders
-2021	12	Sharks	Titans
-2021	12	Knights	Sea Eagles
-2021	13	Dragons	Broncos
-2021	13	Wests Tigers	Panthers
-2021	13	Storm	Titans
-2021	13	Knights	Eels
-2021	14	Sea Eagles	Cowboys
-2021	14	Sharks	Panthers
-2021	14	Titans	Roosters
-2021	14	Rabbitohs	Knights
-2021	14	Raiders	Broncos
-2021	14	Warriors	Storm
-2021	14	Eels	Wests Tigers
-2021	14	Bulldogs	Dragons
-2021	16	Roosters	Storm
-2021	16	Warriors	Dragons
-2021	16	Panthers	Eels
-2021	16	Bulldogs	Sea Eagles
-2021	16	Raiders	Titans
-2021	16	Knights	Cowboys
-2021	16	Broncos	Sharks
-2021	16	Wests Tigers	Rabbitohs
-2021	17	Sea Eagles	Raiders
-2021	17	Rabbitohs	Cowboys
-2021	17	Bulldogs	Roosters
-2021	17	Sharks	Warriors
-2021	18	Titans	Eels
-2021	18	Sea Eagles	Dragons
-2021	18	Cowboys	Roosters
-2021	18	Raiders	Sharks
-2021	18	Storm	Knights
-2021	18	Warriors	Panthers
-2021	18	Broncos	Wests Tigers
-2021	18	Rabbitohs	Bulldogs
-2021	19	Eels	Raiders
-2021	19	Roosters	Knights
-2021	19	Cowboys	Storm
-2021	19	Rabbitohs	Warriors
-2021	19	Sea Eagles	Wests Tigers
-2021	19	Panthers	Broncos
-2021	19	Dragons	Titans
-2021	19	Bulldogs	Sharks
-2021	20	Roosters	Eels
-2021	20	Wests Tigers	Warriors
-2021	20	Broncos	Cowboys
-2021	20	Knights	Raiders
-2021	20	Storm	Panthers
-2021	20	Dragons	Rabbitohs
-2021	20	Bulldogs	Titans
-2021	20	Sharks	Sea Eagles
-2021	22	Storm	Raiders
-2021	22	Dragons	Panthers
-2021	22	Broncos	Roosters
-2021	22	Rabbitohs	Titans
-2021	22	Cowboys	Wests Tigers
-2021	22	Sea Eagles	Eels
-2021	22	Warriors	Bulldogs
-2021	22	Sharks	Knights
-2021	23	Titans	Storm
-2021	23	Raiders	Sea Eagles
-2021	23	Panthers	Rabbitohs
-2021	23	Wests Tigers	Sharks
-2021	23	Bulldogs	Knights
-2021	23	Eels	Cowboys
-2021	23	Dragons	Roosters
-2021	23	Broncos	Warriors
-2021	24	Knights	Titans
-2021	24	Warriors	Raiders
-2021	24	Roosters	Rabbitohs
-2021	24	Dragons	Cowboys
-2021	24	Sharks	Broncos
-2021	24	Storm	Eels
-2021	24	Sea Eagles	Bulldogs
-2021	24	Panthers	Wests Tigers
-2021	25	Raiders	Roosters
-2021	25	Sharks	Storm
-2021	25	Eels	Panthers
-2021	25	Broncos	Knights
-2021	25	Cowboys	Sea Eagles
-2021	25	Rabbitohs	Dragons
-2021	25	Titans	Warriors
-2021	25	Wests Tigers	Bulldogs
-2021	26	Storm	Sea Eagles
-2021	26	Roosters	Titans
-2021	26	Panthers	Rabbitohs
-2021	26	Eels	Knights
-2021	27	Sea Eagles	Roosters
-2021	27	Panthers	Eels
-2021	28	Rabbitohs	Sea Eagles
-2021	28	Storm	Panthers
-2021	29	Panthers	Rabbitohs
-2021	30	Panthers	Rabbitohs
-2021	31	Panthers	Rabbitohs
-2022	1	Panthers	Sea Eagles
-2022	1	Raiders	Sharks
-2022	1	Broncos	Rabbitohs
-2022	1	Roosters	Knights
-2022	1	Warriors	Dragons
-2022	1	Wests Tigers	Storm
-2022	1	Eels	Titans
-2022	1	Cowboys	Bulldogs
-2022	3	Dragons	Sharks
-2022	3	Wests Tigers	Warriors
-2022	3	Rabbitohs	Roosters
-2022	3	Panthers	Knights
-2022	3	Storm	Eels
-2022	3	Raiders	Titans
-2022	3	Broncos	Cowboys
-2022	3	Sea Eagles	Bulldogs
-2022	4	Titans	Wests Tigers
-2022	4	Sharks	Knights
-2022	4	Panthers	Rabbitohs
-2022	4	Warriors	Broncos
-2022	4	Sea Eagles	Raiders
-2022	4	Cowboys	Roosters
-2022	4	Storm	Bulldogs
-2022	4	Eels	Dragons
-2022	5	Knights	Sea Eagles
-2022	5	Warriors	Cowboys
-2022	5	Broncos	Roosters
-2022	5	Raiders	Storm
-2022	5	Rabbitohs	Dragons
-2022	5	Titans	Eels
-2022	5	Sharks	Wests Tigers
-2022	5	Bulldogs	Panthers
-2022	6	Raiders	Cowboys
-2022	6	Rabbitohs	Bulldogs
-2022	6	Panthers	Broncos
-2022	6	Sea Eagles	Titans
-2022	6	Storm	Sharks
-2022	6	Roosters	Warriors
-2022	6	Dragons	Knights
-2022	6	Eels	Wests Tigers
-2022	8	Broncos	Sharks
-2022	8	Titans	Panthers
-2022	8	Rabbitohs	Sea Eagles
-2022	8	Warriors	Raiders
-2022	8	Bulldogs	Roosters
-2022	8	Eels	Cowboys
-2022	8	Knights	Storm
-2022	8	Dragons	Wests Tigers
-2022	9	Rabbitohs	Broncos
-2022	9	Raiders	Bulldogs
-2022	9	Panthers	Eels
-2022	9	Sea Eagles	Wests Tigers
-2022	9	Roosters	Titans
-2022	9	Cowboys	Knights
-2022	9	Storm	Dragons
-2022	9	Sharks	Warriors
-2022	10	Bulldogs	Knights
-2022	10	Sea Eagles	Broncos
-2022	10	Warriors	Rabbitohs
-2022	10	Titans	Dragons
-2022	10	Storm	Panthers
-2022	10	Sharks	Raiders
-2022	10	Roosters	Eels
-2022	10	Wests Tigers	Cowboys
-2022	11	Knights	Broncos
-2022	11	Wests Tigers	Bulldogs
-2022	11	Eels	Sea Eagles
-2022	11	Dragons	Warriors
-2022	11	Cowboys	Storm
-2022	11	Roosters	Panthers
-2022	11	Rabbitohs	Raiders
-2022	11	Titans	Sharks
-2022	12	Storm	Sea Eagles
-2022	12	Panthers	Cowboys
-2022	12	Broncos	Titans
-2022	12	Warriors	Knights
-2022	12	Rabbitohs	Wests Tigers
-2022	12	Sharks	Roosters
-2022	12	Bulldogs	Dragons
-2022	12	Raiders	Eels
-2022	13	Titans	Cowboys
-2022	13	Panthers	Bulldogs
-2022	13	Sea Eagles	Warriors
-2022	13	Raiders	Roosters
-2022	14	Cowboys	Dragons
-2022	14	Titans	Rabbitohs
-2022	14	Roosters	Storm
-2022	14	Broncos	Raiders
-2022	14	Wests Tigers	Sea Eagles
-2022	14	Knights	Panthers
-2022	14	Warriors	Sharks
-2022	14	Bulldogs	Eels
-2022	15	Dragons	Rabbitohs
-2022	15	Sea Eagles	Cowboys
-2022	15	Storm	Broncos
-2022	15	Sharks	Titans
-2022	15	Warriors	Panthers
-2022	15	Eels	Roosters
-2022	15	Raiders	Knights
-2022	15	Bulldogs	Wests Tigers
-2022	16	Sea Eagles	Storm
-2022	16	Knights	Titans
-2022	16	Panthers	Roosters
-2022	16	Bulldogs	Sharks
-2022	16	Cowboys	Broncos
-2022	16	Rabbitohs	Eels
-2022	16	Warriors	Wests Tigers
-2022	16	Dragons	Raiders
-2022	17	Sharks	Storm
-2022	17	Knights	Rabbitohs
-2022	17	Wests Tigers	Eels
-2022	17	Broncos	Dragons
-2022	18	Cowboys	Sharks
-2022	18	Eels	Warriors
-2022	18	Roosters	Dragons
-2022	18	Sea Eagles	Knights
-2022	18	Titans	Broncos
-2022	18	Wests Tigers	Panthers
-2022	18	Storm	Raiders
-2022	18	Bulldogs	Rabbitohs
-2022	19	Eels	Broncos
-2022	19	Dragons	Sea Eagles
-2022	19	Knights	Roosters
-2022	19	Raiders	Warriors
-2022	19	Panthers	Sharks
-2022	19	Rabbitohs	Storm
-2022	19	Bulldogs	Titans
-2022	19	Cowboys	Wests Tigers
-2022	20	Sea Eagles	Roosters
-2022	20	Warriors	Storm
-2022	20	Eels	Panthers
-2022	20	Titans	Raiders
-2022	20	Sharks	Rabbitohs
-2022	20	Broncos	Wests Tigers
-2022	20	Knights	Bulldogs
-2022	20	Dragons	Cowboys
-2022	21	Roosters	Broncos
-2022	21	Storm	Titans
-2022	21	Sea Eagles	Eels
-2022	21	Rabbitohs	Warriors
-2022	21	Raiders	Panthers
-2022	21	Sharks	Dragons
-2022	21	Bulldogs	Cowboys
-2022	21	Wests Tigers	Knights
-2022	22	Panthers	Storm
-2022	22	Warriors	Bulldogs
-2022	22	Eels	Rabbitohs
-2022	22	Roosters	Cowboys
-2022	22	Wests Tigers	Sharks
-2022	22	Broncos	Knights
-2022	22	Raiders	Dragons
-2022	22	Titans	Sea Eagles
-2022	23	Rabbitohs	Panthers
-2022	23	Cowboys	Warriors
-2022	23	Broncos	Storm
-2022	23	Eels	Bulldogs
-2022	23	Sea Eagles	Sharks
-2022	23	Roosters	Wests Tigers
-2022	23	Dragons	Titans
-2022	23	Knights	Raiders
-2022	24	Broncos	Eels
-2022	24	Panthers	Warriors
-2022	24	Storm	Roosters
-2022	24	Raiders	Sea Eagles
-2022	24	Sharks	Bulldogs
-2022	24	Rabbitohs	Cowboys
-2022	24	Wests Tigers	Dragons
-2022	24	Titans	Knights
-2022	25	Eels	Storm
-2022	25	Bulldogs	Sea Eagles
-2022	25	Roosters	Rabbitohs
-2022	25	Warriors	Titans
-2022	25	Dragons	Broncos
-2022	25	Cowboys	Panthers
-2022	25	Knights	Sharks
-2022	25	Wests Tigers	Raiders
-2022	26	Panthers	Eels
-2022	26	Storm	Raiders
-2022	26	Sharks	Cowboys
-2022	26	Roosters	Rabbitohs
-2022	28	Cowboys	Eels
-2022	28	Panthers	Rabbitohs
-2022	29	Panthers	Eels
-2022	30	Panthers	Eels
-2022	31	Panthers	Eels
-2023	1	Eels	Storm
-2023	1	Warriors	Knights
-2023	1	Panthers	Broncos
-2023	1	Sea Eagles	Bulldogs
-2023	1	Cowboys	Raiders
-2023	1	Sharks	Rabbitohs
-2023	1	Dolphins	Roosters
-2023	1	Wests Tigers	Titans
-2023	2	Panthers	Rabbitohs
-2023	2	Eels	Sharks
-2023	2	Broncos	Cowboys
-2023	2	Roosters	Warriors
-2023	2	Dolphins	Raiders
-2023	2	Storm	Bulldogs
-2023	2	Wests Tigers	Knights
-2023	2	Dragons	Titans
-2023	3	Sea Eagles	Eels
-2023	3	Knights	Dolphins
-2023	3	Roosters	Rabbitohs
-2023	3	Titans	Storm
-2023	3	Cowboys	Warriors
-2023	3	Broncos	Dragons
-2023	3	Bulldogs	Wests Tigers
-2023	3	Raiders	Sharks
-2023	4	Eels	Panthers
-2023	4	Storm	Wests Tigers
-2023	4	Dolphins	Broncos
-2023	4	Cowboys	Titans
-2023	4	Rabbitohs	Sea Eagles
-2023	4	Warriors	Bulldogs
-2023	4	Knights	Raiders
-2023	4	Dragons	Sharks
-2023	5	Roosters	Eels
-2023	5	Raiders	Panthers
-2023	5	Rabbitohs	Storm
-2023	5	Sea Eagles	Knights
-2023	5	Dragons	Dolphins
-2023	5	Broncos	Wests Tigers
-2023	5	Sharks	Warriors
-2023	5	Bulldogs	Cowboys
-2023	7	Dolphins	Rabbitohs
-2023	7	Sharks	Roosters
-2023	7	Sea Eagles	Storm
-2023	7	Warriors	Cowboys
-2023	7	Knights	Panthers
-2023	7	Titans	Broncos
-2023	7	Raiders	Dragons
-2023	7	Eels	Bulldogs
-2023	8	Rabbitohs	Panthers
-2023	8	Eels	Broncos
-2023	8	Bulldogs	Sharks
-2023	8	Cowboys	Knights
-2023	8	Dolphins	Titans
-2023	8	Wests Tigers	Sea Eagles
-2023	8	Roosters	Dragons
-2023	8	Storm	Warriors
-2023	10	Bulldogs	Raiders
-2023	10	Sea Eagles	Broncos
-2023	10	Warriors	Panthers
-2023	10	Sharks	Dolphins
-2023	10	Storm	Rabbitohs
-2023	10	Wests Tigers	Dragons
-2023	10	Roosters	Cowboys
-2023	10	Titans	Eels
-2023	11	Storm	Broncos
-2023	11	Bulldogs	Warriors
-2023	11	Panthers	Roosters
-2023	11	Rabbitohs	Wests Tigers
-2023	11	Cowboys	Dragons
-2023	11	Raiders	Eels
-2023	11	Knights	Titans
-2023	11	Sea Eagles	Sharks
-2023	13	Dolphins	Dragons
-2023	13	Eels	Cowboys
-2023	13	Warriors	Broncos
-2023	13	Rabbitohs	Raiders
-2023	13	Knights	Sea Eagles
-2023	14	Wests Tigers	Raiders
-2023	14	Warriors	Dolphins
-2023	14	Titans	Rabbitohs
-2023	14	Sharks	Broncos
-2023	14	Roosters	Bulldogs
-2023	14	Cowboys	Storm
-2023	14	Panthers	Dragons
-2023	15	Titans	Wests Tigers
-2023	15	Raiders	Warriors
-2023	15	Sea Eagles	Dolphins
-2023	15	Dragons	Rabbitohs
-2023	15	Broncos	Knights
-2023	15	Roosters	Panthers
-2023	15	Storm	Sharks
-2023	15	Bulldogs	Eels
-2023	16	Cowboys	Panthers
-2023	16	Knights	Roosters
-2023	16	Eels	Sea Eagles
-2023	16	Wests Tigers	Storm
-2023	16	Sharks	Bulldogs
-2023	19	Wests Tigers	Sharks
-2023	19	Dragons	Raiders
-2023	19	Eels	Warriors
-2023	19	Rabbitohs	Bulldogs
-2023	19	Titans	Dolphins
-2023	20	Knights	Wests Tigers
-2023	20	Bulldogs	Broncos
-2023	20	Sea Eagles	Cowboys
-2023	20	Roosters	Storm
-2023	20	Warriors	Sharks
-2023	20	Dolphins	Panthers
-2023	20	Eels	Titans
-2023	21	Dragons	Wests Tigers
-2023	21	Warriors	Raiders
-2023	21	Rabbitohs	Broncos
-2023	21	Titans	Roosters
-2023	21	Knights	Storm
-2023	21	Cowboys	Eels
-2023	21	Panthers	Bulldogs
-2023	21	Sharks	Sea Eagles
-2023	22	Broncos	Roosters
-2023	22	Wests Tigers	Rabbitohs
-2023	22	Storm	Eels
-2023	22	Raiders	Knights
-2023	22	Dragons	Sea Eagles
-2023	22	Panthers	Sharks
-2023	22	Bulldogs	Dolphins
-2023	22	Titans	Cowboys
-2023	23	Roosters	Sea Eagles
-2023	23	Titans	Warriors
-2023	23	Panthers	Storm
-2023	23	Cowboys	Broncos
-2023	23	Dolphins	Knights
-2023	23	Rabbitohs	Sharks
-2023	23	Eels	Dragons
-2023	23	Raiders	Wests Tigers
-2023	24	Sea Eagles	Panthers
-2023	24	Sharks	Titans
-2023	24	Broncos	Eels
-2023	24	Rabbitohs	Dragons
-2023	24	Wests Tigers	Warriors
-2023	24	Roosters	Dolphins
-2023	24	Storm	Raiders
-2023	24	Knights	Bulldogs
-2023	25	Cowboys	Sharks
-2023	25	Warriors	Sea Eagles
-2023	25	Eels	Roosters
-2023	25	Wests Tigers	Dolphins
-2023	25	Titans	Panthers
-2023	25	Dragons	Storm
-2023	25	Knights	Rabbitohs
-2023	25	Raiders	Bulldogs
-2023	26	Panthers	Eels
-2023	26	Warriors	Dragons
-2023	26	Dolphins	Cowboys
-2023	26	Storm	Titans
-2023	26	Roosters	Wests Tigers
-2023	26	Raiders	Broncos
-2023	26	Bulldogs	Sea Eagles
-2023	26	Knights	Sharks
-2023	27	Broncos	Storm
-2023	27	Sea Eagles	Wests Tigers
-2023	27	Rabbitohs	Roosters
-2023	27	Dolphins	Warriors
-2023	27	Panthers	Cowboys
-2023	27	Dragons	Knights
-2023	27	Titans	Bulldogs
-2023	27	Sharks	Raiders
-2023	28	Broncos	Storm
-2023	28	Panthers	Warriors
-2023	28	Sharks	Roosters
-2023	28	Knights	Raiders
-2023	30	Panthers	Storm
-2023	30	Broncos	Warriors
-2023	31	Panthers	Broncos
-2024	1	Sea Eagles	Rabbitohs
-2024	1	Roosters	Broncos
-2024	1	Knights	Raiders
-2024	1	Warriors	Sharks
-2024	1	Storm	Panthers
-2024	1	Eels	Bulldogs
-2024	1	Titans	Dragons
-2024	1	Dolphins	Cowboys
-2024	2	Broncos	Rabbitohs
-2024	2	Sharks	Bulldogs
-2024	2	Panthers	Eels
-2024	2	Raiders	Wests Tigers
-2024	2	Cowboys	Knights
-2024	2	Storm	Warriors
-2024	2	Sea Eagles	Roosters
-2024	2	Dolphins	Dragons
-2024	3	Panthers	Broncos
-2024	3	Warriors	Raiders
-2024	3	Roosters	Rabbitohs
-2024	3	Bulldogs	Titans
-2024	3	Dragons	Cowboys
-2024	3	Wests Tigers	Sharks
-2024	3	Eels	Sea Eagles
-2024	3	Knights	Storm
-2024	4	Roosters	Panthers
-2024	4	Rabbitohs	Bulldogs
-2024	4	Broncos	Cowboys
-2024	4	Dragons	Sea Eagles
-2024	4	Titans	Dolphins
-2024	4	Warriors	Knights
-2024	4	Sharks	Raiders
-2024	4	Eels	Wests Tigers
-2024	5	Storm	Broncos
-2024	5	Bulldogs	Roosters
-2024	5	Knights	Dragons
-2024	5	Rabbitohs	Warriors
-2024	5	Sea Eagles	Panthers
-2024	5	Dolphins	Wests Tigers
-2024	5	Cowboys	Titans
-2024	5	Raiders	Eels
-2024	6	Knights	Roosters
-2024	6	Storm	Bulldogs
-2024	6	Broncos	Dolphins
-2024	6	Warriors	Sea Eagles
-2024	6	Eels	Cowboys
-2024	6	Rabbitohs	Sharks
-2024	6	Wests Tigers	Dragons
-2024	6	Raiders	Titans
-2024	7	Roosters	Storm
-2024	7	Dragons	Warriors
-2024	7	Eels	Dolphins
-2024	7	Panthers	Wests Tigers
-2024	7	Titans	Sea Eagles
-2024	7	Broncos	Raiders
-2024	7	Bulldogs	Knights
-2024	7	Sharks	Cowboys
-2024	8	Warriors	Titans
-2024	8	Dragons	Roosters
-2024	8	Storm	Rabbitohs
-2024	8	Sea Eagles	Eels
-2024	8	Wests Tigers	Broncos
-2024	8	Cowboys	Panthers
-2024	8	Dolphins	Knights
-2024	8	Raiders	Sharks
-2024	9	Rabbitohs	Panthers
-2024	9	Sea Eagles	Raiders
-2024	9	Broncos	Roosters
-2024	9	Bulldogs	Wests Tigers
-2024	9	Titans	Storm
-2024	9	Cowboys	Dolphins
-2024	9	Knights	Warriors
-2024	9	Sharks	Dragons
-2024	10	Dolphins	Sea Eagles
-2024	10	Panthers	Bulldogs
-2024	10	Eels	Broncos
-2024	10	Wests Tigers	Knights
-2024	10	Dragons	Rabbitohs
-2024	10	Storm	Sharks
-2024	10	Roosters	Warriors
-2024	10	Titans	Cowboys
-2024	11	Raiders	Bulldogs
-2024	11	Sea Eagles	Broncos
-2024	11	Titans	Knights
-2024	11	Sharks	Roosters
-2024	11	Rabbitohs	Cowboys
-2024	11	Warriors	Panthers
-2024	11	Storm	Eels
-2024	11	Wests Tigers	Dolphins
-2024	12	Bulldogs	Dragons
-2024	12	Cowboys	Wests Tigers
-2024	12	Sea Eagles	Storm
-2024	12	Raiders	Roosters
-2024	12	Sharks	Panthers
-2024	12	Rabbitohs	Eels
-2024	12	Broncos	Titans
-2024	12	Warriors	Dolphins
-2024	13	Eels	Sharks
-2024	13	Knights	Bulldogs
-2024	13	Panthers	Dragons
-2024	13	Dolphins	Raiders
-2024	13	Roosters	Cowboys
-2024	15	Sharks	Dolphins
-2024	15	Raiders	Cowboys
-2024	15	Rabbitohs	Broncos
-2024	15	Wests Tigers	Titans
-2024	15	Warriors	Storm
-2024	15	Eels	Roosters
-2024	15	Sea Eagles	Dragons
-2024	15	Knights	Panthers
-2024	16	Dolphins	Storm
-2024	16	Titans	Warriors
-2024	16	Roosters	Bulldogs
-2024	16	Rabbitohs	Sea Eagles
-2024	16	Wests Tigers	Raiders
-2024	19	Dolphins	Rabbitohs
-2024	19	Sharks	Wests Tigers
-2024	19	Titans	Eels
-2024	19	Broncos	Dragons
-2024	19	Sea Eagles	Knights
-2024	20	Raiders	Warriors
-2024	20	Rabbitohs	Wests Tigers
-2024	20	Knights	Broncos
-2024	20	Storm	Roosters
-2024	20	Panthers	Dolphins
-2024	20	Sea Eagles	Titans
-2024	20	Cowboys	Bulldogs
-2024	21	Warriors	Wests Tigers
-2024	21	Eels	Storm
-2024	21	Broncos	Bulldogs
-2024	21	Cowboys	Sharks
-2024	21	Roosters	Sea Eagles
-2024	21	Dragons	Panthers
-2024	21	Dolphins	Titans
-2024	21	Raiders	Rabbitohs
-2024	22	Wests Tigers	Cowboys
-2024	22	Warriors	Eels
-2024	22	Dolphins	Roosters
-2024	22	Titans	Broncos
-2024	22	Storm	Dragons
-2024	22	Sharks	Rabbitohs
-2024	22	Panthers	Knights
-2024	22	Bulldogs	Raiders
-2024	23	Rabbitohs	Storm
-2024	23	Titans	Sharks
-2024	23	Eels	Panthers
-2024	23	Raiders	Sea Eagles
-2024	23	Cowboys	Broncos
-2024	23	Dragons	Bulldogs
-2024	23	Dolphins	Warriors
-2024	23	Knights	Wests Tigers
-2024	24	Panthers	Storm
-2024	24	Sea Eagles	Warriors
-2024	24	Roosters	Eels
-2024	24	Bulldogs	Dolphins
-2024	24	Cowboys	Raiders
-2024	24	Wests Tigers	Rabbitohs
-2024	24	Dragons	Titans
-2024	24	Sharks	Knights
-2024	25	Wests Tigers	Sea Eagles
-2024	25	Warriors	Bulldogs
-2024	25	Broncos	Eels
-2024	25	Raiders	Panthers
-2024	25	Storm	Dolphins
-2024	25	Rabbitohs	Knights
-2024	25	Titans	Roosters
-2024	25	Dragons	Sharks
-2024	26	Cowboys	Storm
-2024	26	Bulldogs	Sea Eagles
-2024	26	Panthers	Rabbitohs
-2024	26	Eels	Dragons
-2024	26	Dolphins	Broncos
-2024	26	Sharks	Warriors
-2024	26	Knights	Titans
-2024	26	Roosters	Raiders
-2024	27	Broncos	Storm
-2024	27	Wests Tigers	Eels
-2024	27	Rabbitohs	Roosters
-2024	27	Dragons	Raiders
-2024	27	Bulldogs	Cowboys
-2024	27	Panthers	Titans
-2024	27	Sea Eagles	Sharks
-2024	27	Knights	Dolphins
-2024	29	Sharks	Cowboys
-2024	29	Roosters	Sea Eagles
-2024	30	Storm	Roosters
-2024	30	Panthers	Sharks
-2024	31	Storm	Panthers
+Competition	Year	Round	Home	Away
+NRL	2014	1	Rabbitohs	Roosters
+NRL	2014	1	Bulldogs	Broncos
+NRL	2014	1	Panthers	Knights
+NRL	2014	1	Sea Eagles	Storm
+NRL	2014	1	Cowboys	Raiders
+NRL	2014	1	Dragons	Wests Tigers
+NRL	2014	1	Eels	Warriors
+NRL	2014	1	Sharks	Titans
+NRL	2014	2	Sea Eagles	Rabbitohs
+NRL	2014	2	Broncos	Cowboys
+NRL	2014	2	Warriors	Dragons
+NRL	2014	2	Storm	Panthers
+NRL	2014	2	Roosters	Eels
+NRL	2014	2	Titans	Wests Tigers
+NRL	2014	2	Knights	Raiders
+NRL	2014	2	Bulldogs	Sharks
+NRL	2014	3	Wests Tigers	Rabbitohs
+NRL	2014	3	Broncos	Roosters
+NRL	2014	3	Panthers	Bulldogs
+NRL	2014	3	Sharks	Dragons
+NRL	2014	3	Cowboys	Warriors
+NRL	2014	3	Sea Eagles	Eels
+NRL	2014	3	Raiders	Titans
+NRL	2014	3	Storm	Knights
+NRL	2014	4	Roosters	Sea Eagles
+NRL	2014	4	Dragons	Broncos
+NRL	2014	4	Warriors	Wests Tigers
+NRL	2014	4	Eels	Panthers
+NRL	2014	4	Bulldogs	Storm
+NRL	2014	4	Rabbitohs	Raiders
+NRL	2014	4	Knights	Sharks
+NRL	2014	4	Titans	Cowboys
+NRL	2014	5	Roosters	Bulldogs
+NRL	2014	5	Broncos	Eels
+NRL	2014	5	Sharks	Warriors
+NRL	2014	5	Panthers	Raiders
+NRL	2014	5	Dragons	Rabbitohs
+NRL	2014	5	Storm	Titans
+NRL	2014	5	Wests Tigers	Sea Eagles
+NRL	2014	5	Cowboys	Knights
+NRL	2014	6	Panthers	Rabbitohs
+NRL	2014	6	Titans	Broncos
+NRL	2014	6	Raiders	Knights
+NRL	2014	6	Eels	Roosters
+NRL	2014	6	Wests Tigers	Cowboys
+NRL	2014	6	Warriors	Bulldogs
+NRL	2014	6	Sea Eagles	Sharks
+NRL	2014	6	Storm	Dragons
+NRL	2014	7	Rabbitohs	Bulldogs
+NRL	2014	7	Knights	Broncos
+NRL	2014	7	Sea Eagles	Cowboys
+NRL	2014	7	Dragons	Warriors
+NRL	2014	7	Sharks	Roosters
+NRL	2014	7	Raiders	Storm
+NRL	2014	7	Eels	Wests Tigers
+NRL	2014	7	Panthers	Titans
+NRL	2014	8	Dragons	Roosters
+NRL	2014	8	Storm	Warriors
+NRL	2014	8	Broncos	Rabbitohs
+NRL	2014	8	Sharks	Panthers
+NRL	2014	8	Cowboys	Eels
+NRL	2014	8	Bulldogs	Knights
+NRL	2014	8	Sea Eagles	Raiders
+NRL	2014	8	Wests Tigers	Titans
+NRL	2014	9	Roosters	Wests Tigers
+NRL	2014	9	Cowboys	Broncos
+NRL	2014	9	Warriors	Raiders
+NRL	2014	9	Titans	Rabbitohs
+NRL	2014	9	Storm	Sea Eagles
+NRL	2014	9	Knights	Panthers
+NRL	2014	9	Dragons	Bulldogs
+NRL	2014	9	Eels	Sharks
+NRL	2014	10	Rabbitohs	Storm
+NRL	2014	10	Broncos	Titans
+NRL	2014	10	Eels	Dragons
+NRL	2014	10	Sharks	Wests Tigers
+NRL	2014	10	Cowboys	Roosters
+NRL	2014	10	Raiders	Panthers
+NRL	2014	10	Bulldogs	Warriors
+NRL	2014	10	Sea Eagles	Knights
+NRL	2014	11	Bulldogs	Roosters
+NRL	2014	11	Titans	Warriors
+NRL	2014	11	Wests Tigers	Broncos
+NRL	2014	11	Raiders	Cowboys
+NRL	2014	11	Sharks	Rabbitohs
+NRL	2014	12	Panthers	Eels
+NRL	2014	12	Roosters	Raiders
+NRL	2014	12	Cowboys	Storm
+NRL	2014	12	Warriors	Knights
+NRL	2014	12	Broncos	Sea Eagles
+NRL	2014	12	Rabbitohs	Dragons
+NRL	2014	13	Sea Eagles	Bulldogs
+NRL	2014	13	Eels	Cowboys
+NRL	2014	13	Titans	Panthers
+NRL	2014	13	Dragons	Sharks
+NRL	2014	13	Rabbitohs	Warriors
+NRL	2014	13	Knights	Wests Tigers
+NRL	2014	13	Storm	Roosters
+NRL	2014	13	Raiders	Broncos
+NRL	2014	14	Rabbitohs	Wests Tigers
+NRL	2014	14	Panthers	Dragons
+NRL	2014	14	Roosters	Knights
+NRL	2014	14	Bulldogs	Eels
+NRL	2014	14	Titans	Storm
+NRL	2014	15	Raiders	Bulldogs
+NRL	2014	15	Warriors	Broncos
+NRL	2014	15	Sharks	Sea Eagles
+NRL	2014	15	Storm	Eels
+NRL	2014	15	Titans	Dragons
+NRL	2014	15	Knights	Cowboys
+NRL	2014	16	Sea Eagles	Roosters
+NRL	2014	16	Broncos	Sharks
+NRL	2014	16	Wests Tigers	Raiders
+NRL	2014	16	Cowboys	Rabbitohs
+NRL	2014	16	Warriors	Panthers
+NRL	2014	16	Eels	Knights
+NRL	2014	16	Dragons	Storm
+NRL	2014	17	Bulldogs	Sea Eagles
+NRL	2014	17	Dragons	Cowboys
+NRL	2014	17	Roosters	Sharks
+NRL	2014	17	Wests Tigers	Panthers
+NRL	2014	17	Rabbitohs	Titans
+NRL	2014	18	Sea Eagles	Wests Tigers
+NRL	2014	18	Warriors	Eels
+NRL	2014	18	Storm	Bulldogs
+NRL	2014	18	Titans	Raiders
+NRL	2014	18	Sharks	Knights
+NRL	2014	18	Panthers	Broncos
+NRL	2014	19	Sharks	Cowboys
+NRL	2014	19	Eels	Rabbitohs
+NRL	2014	19	Roosters	Panthers
+NRL	2014	19	Storm	Raiders
+NRL	2014	19	Broncos	Warriors
+NRL	2014	19	Knights	Titans
+NRL	2014	19	Wests Tigers	Bulldogs
+NRL	2014	19	Dragons	Sea Eagles
+NRL	2014	20	Knights	Roosters
+NRL	2014	20	Broncos	Storm
+NRL	2014	20	Panthers	Sharks
+NRL	2014	20	Titans	Eels
+NRL	2014	20	Bulldogs	Cowboys
+NRL	2014	20	Warriors	Sea Eagles
+NRL	2014	20	Wests Tigers	Dragons
+NRL	2014	20	Raiders	Rabbitohs
+NRL	2014	21	Sea Eagles	Broncos
+NRL	2014	21	Bulldogs	Panthers
+NRL	2014	21	Sharks	Eels
+NRL	2014	21	Cowboys	Titans
+NRL	2014	21	Roosters	Dragons
+NRL	2014	21	Raiders	Warriors
+NRL	2014	21	Rabbitohs	Knights
+NRL	2014	21	Wests Tigers	Storm
+NRL	2014	22	Rabbitohs	Sea Eagles
+NRL	2014	22	Broncos	Bulldogs
+NRL	2014	22	Knights	Storm
+NRL	2014	22	Cowboys	Wests Tigers
+NRL	2014	22	Eels	Raiders
+NRL	2014	22	Warriors	Sharks
+NRL	2014	22	Dragons	Panthers
+NRL	2014	22	Roosters	Titans
+NRL	2014	23	Rabbitohs	Broncos
+NRL	2014	23	Eels	Bulldogs
+NRL	2014	23	Raiders	Dragons
+NRL	2014	23	Storm	Sharks
+NRL	2014	23	Wests Tigers	Roosters
+NRL	2014	23	Knights	Warriors
+NRL	2014	23	Titans	Sea Eagles
+NRL	2014	23	Panthers	Cowboys
+NRL	2014	24	Bulldogs	Wests Tigers
+NRL	2014	24	Eels	Sea Eagles
+NRL	2014	24	Broncos	Knights
+NRL	2014	24	Rabbitohs	Cowboys
+NRL	2014	24	Warriors	Roosters
+NRL	2014	24	Sharks	Raiders
+NRL	2014	24	Dragons	Titans
+NRL	2014	24	Panthers	Storm
+NRL	2014	25	Bulldogs	Rabbitohs
+NRL	2014	25	Broncos	Dragons
+NRL	2014	25	Knights	Eels
+NRL	2014	25	Raiders	Wests Tigers
+NRL	2014	25	Roosters	Storm
+NRL	2014	25	Warriors	Titans
+NRL	2014	25	Sea Eagles	Panthers
+NRL	2014	25	Cowboys	Sharks
+NRL	2014	26	Roosters	Rabbitohs
+NRL	2014	26	Storm	Broncos
+NRL	2014	26	Wests Tigers	Sharks
+NRL	2014	26	Raiders	Eels
+NRL	2014	26	Cowboys	Sea Eagles
+NRL	2014	26	Knights	Dragons
+NRL	2014	26	Titans	Bulldogs
+NRL	2014	26	Panthers	Warriors
+NRL	2014	finals-week-1	Sea Eagles	Rabbitohs
+NRL	2014	finals-week-1	Roosters	Panthers
+NRL	2014	finals-week-1	Cowboys	Broncos
+NRL	2014	finals-week-1	Storm	Bulldogs
+NRL	2014	finals-week-2	Roosters	Cowboys
+NRL	2014	finals-week-2	Sea Eagles	Bulldogs
+NRL	2014	finals-week-3	Rabbitohs	Roosters
+NRL	2014	finals-week-3	Panthers	Bulldogs
+NRL	2014	grand-final	Rabbitohs	Bulldogs
+NRL	2015	1	Broncos	Rabbitohs
+NRL	2015	1	Eels	Sea Eagles
+NRL	2015	1	Knights	Warriors
+NRL	2015	1	Titans	Wests Tigers
+NRL	2015	1	Cowboys	Roosters
+NRL	2015	1	Panthers	Bulldogs
+NRL	2015	1	Sharks	Raiders
+NRL	2015	1	Dragons	Storm
+NRL	2015	2	Bulldogs	Eels
+NRL	2015	2	Sharks	Broncos
+NRL	2015	2	Panthers	Titans
+NRL	2015	2	Sea Eagles	Storm
+NRL	2015	2	Cowboys	Knights
+NRL	2015	2	Rabbitohs	Roosters
+NRL	2015	2	Raiders	Warriors
+NRL	2015	2	Wests Tigers	Dragons
+NRL	2015	3	Sea Eagles	Bulldogs
+NRL	2015	3	Broncos	Cowboys
+NRL	2015	3	Warriors	Eels
+NRL	2015	3	Raiders	Dragons
+NRL	2015	3	Storm	Sharks
+NRL	2015	3	Rabbitohs	Wests Tigers
+NRL	2015	3	Titans	Knights
+NRL	2015	3	Roosters	Panthers
+NRL	2015	4	Eels	Rabbitohs
+NRL	2015	4	Wests Tigers	Bulldogs
+NRL	2015	4	Knights	Panthers
+NRL	2015	4	Sharks	Titans
+NRL	2015	4	Dragons	Sea Eagles
+NRL	2015	4	Warriors	Broncos
+NRL	2015	4	Roosters	Raiders
+NRL	2015	4	Cowboys	Storm
+NRL	2015	5	Bulldogs	Rabbitohs
+NRL	2015	5	Titans	Broncos
+NRL	2015	5	Sea Eagles	Raiders
+NRL	2015	5	Knights	Dragons
+NRL	2015	5	Roosters	Sharks
+NRL	2015	5	Eels	Wests Tigers
+NRL	2015	5	Storm	Warriors
+NRL	2015	5	Panthers	Cowboys
+NRL	2015	6	Broncos	Roosters
+NRL	2015	6	Sharks	Knights
+NRL	2015	6	Eels	Titans
+NRL	2015	6	Warriors	Wests Tigers
+NRL	2015	6	Panthers	Sea Eagles
+NRL	2015	6	Raiders	Storm
+NRL	2015	6	Dragons	Bulldogs
+NRL	2015	6	Rabbitohs	Cowboys
+NRL	2015	7	Bulldogs	Sea Eagles
+NRL	2015	7	Dragons	Broncos
+NRL	2015	7	Titans	Panthers
+NRL	2015	7	Cowboys	Warriors
+NRL	2015	7	Storm	Roosters
+NRL	2015	7	Wests Tigers	Raiders
+NRL	2015	7	Knights	Eels
+NRL	2015	7	Sharks	Rabbitohs
+NRL	2015	8	Bulldogs	Wests Tigers
+NRL	2015	8	Warriors	Titans
+NRL	2015	8	Knights	Cowboys
+NRL	2015	8	Roosters	Dragons
+NRL	2015	8	Storm	Sea Eagles
+NRL	2015	8	Broncos	Eels
+NRL	2015	8	Panthers	Sharks
+NRL	2015	8	Rabbitohs	Raiders
+NRL	2015	9	Broncos	Panthers
+NRL	2015	9	Roosters	Wests Tigers
+NRL	2015	9	Raiders	Titans
+NRL	2015	9	Sharks	Warriors
+NRL	2015	9	Cowboys	Bulldogs
+NRL	2015	9	Sea Eagles	Knights
+NRL	2015	9	Eels	Storm
+NRL	2015	9	Rabbitohs	Dragons
+NRL	2015	10	Bulldogs	Roosters
+NRL	2015	10	Cowboys	Broncos
+NRL	2015	10	Eels	Warriors
+NRL	2015	10	Titans	Sharks
+NRL	2015	10	Storm	Rabbitohs
+NRL	2015	10	Dragons	Raiders
+NRL	2015	10	Knights	Wests Tigers
+NRL	2015	10	Sea Eagles	Panthers
+NRL	2015	11	Rabbitohs	Eels
+NRL	2015	11	Wests Tigers	Cowboys
+NRL	2015	11	Raiders	Bulldogs
+NRL	2015	11	Knights	Broncos
+NRL	2015	12	Panthers	Eels
+NRL	2015	12	Titans	Rabbitohs
+NRL	2015	12	Raiders	Broncos
+NRL	2015	12	Cowboys	Sea Eagles
+NRL	2015	12	Warriors	Knights
+NRL	2015	12	Dragons	Sharks
+NRL	2015	12	Roosters	Storm
+NRL	2015	13	Broncos	Sea Eagles
+NRL	2015	13	Wests Tigers	Titans
+NRL	2015	13	Knights	Raiders
+NRL	2015	13	Rabbitohs	Warriors
+NRL	2015	13	Panthers	Storm
+NRL	2015	13	Sharks	Roosters
+NRL	2015	13	Bulldogs	Dragons
+NRL	2015	13	Eels	Cowboys
+NRL	2015	14	Wests Tigers	Rabbitohs
+NRL	2015	14	Warriors	Roosters
+NRL	2015	14	Titans	Bulldogs
+NRL	2015	14	Storm	Eels
+NRL	2015	15	Sea Eagles	Wests Tigers
+NRL	2015	15	Raiders	Cowboys
+NRL	2015	15	Titans	Warriors
+NRL	2015	15	Bulldogs	Panthers
+NRL	2015	15	Knights	Sharks
+NRL	2015	15	Storm	Broncos
+NRL	2015	15	Dragons	Roosters
+NRL	2015	16	Broncos	Knights
+NRL	2015	16	Rabbitohs	Sea Eagles
+NRL	2015	16	Warriors	Raiders
+NRL	2015	16	Cowboys	Sharks
+NRL	2015	16	Eels	Dragons
+NRL	2015	16	Roosters	Titans
+NRL	2015	16	Wests Tigers	Panthers
+NRL	2015	16	Bulldogs	Storm
+NRL	2015	17	Panthers	Rabbitohs
+NRL	2015	17	Dragons	Cowboys
+NRL	2015	17	Sea Eagles	Sharks
+NRL	2015	17	Wests Tigers	Eels
+NRL	2015	18	Raiders	Knights
+NRL	2015	18	Panthers	Roosters
+NRL	2015	18	Bulldogs	Broncos
+NRL	2015	18	Warriors	Storm
+NRL	2015	18	Sharks	Dragons
+NRL	2015	18	Titans	Sea Eagles
+NRL	2015	19	Eels	Bulldogs
+NRL	2015	19	Storm	Panthers
+NRL	2015	19	Raiders	Sharks
+NRL	2015	19	Knights	Titans
+NRL	2015	19	Dragons	Rabbitohs
+NRL	2015	19	Roosters	Warriors
+NRL	2015	19	Broncos	Wests Tigers
+NRL	2015	19	Sea Eagles	Cowboys
+NRL	2015	20	Broncos	Titans
+NRL	2015	20	Wests Tigers	Roosters
+NRL	2015	20	Warriors	Sea Eagles
+NRL	2015	20	Storm	Dragons
+NRL	2015	20	Rabbitohs	Knights
+NRL	2015	20	Panthers	Raiders
+NRL	2015	20	Bulldogs	Sharks
+NRL	2015	20	Cowboys	Eels
+NRL	2015	21	Roosters	Bulldogs
+NRL	2015	21	Wests Tigers	Storm
+NRL	2015	21	Warriors	Sharks
+NRL	2015	21	Cowboys	Raiders
+NRL	2015	21	Sea Eagles	Broncos
+NRL	2015	21	Dragons	Knights
+NRL	2015	21	Rabbitohs	Panthers
+NRL	2015	21	Titans	Eels
+NRL	2015	22	Broncos	Bulldogs
+NRL	2015	22	Sea Eagles	Rabbitohs
+NRL	2015	22	Warriors	Dragons
+NRL	2015	22	Sharks	Cowboys
+NRL	2015	22	Eels	Panthers
+NRL	2015	22	Storm	Titans
+NRL	2015	22	Knights	Roosters
+NRL	2015	22	Raiders	Wests Tigers
+NRL	2015	23	Cowboys	Rabbitohs
+NRL	2015	23	Broncos	Dragons
+NRL	2015	23	Wests Tigers	Knights
+NRL	2015	23	Panthers	Warriors
+NRL	2015	23	Roosters	Eels
+NRL	2015	23	Raiders	Sea Eagles
+NRL	2015	23	Bulldogs	Titans
+NRL	2015	23	Sharks	Storm
+NRL	2015	24	Dragons	Panthers
+NRL	2015	24	Rabbitohs	Bulldogs
+NRL	2015	24	Sharks	Wests Tigers
+NRL	2015	24	Warriors	Cowboys
+NRL	2015	24	Roosters	Broncos
+NRL	2015	24	Titans	Raiders
+NRL	2015	24	Sea Eagles	Eels
+NRL	2015	24	Storm	Knights
+NRL	2015	25	Rabbitohs	Broncos
+NRL	2015	25	Sea Eagles	Roosters
+NRL	2015	25	Eels	Sharks
+NRL	2015	25	Knights	Bulldogs
+NRL	2015	25	Storm	Cowboys
+NRL	2015	25	Wests Tigers	Warriors
+NRL	2015	25	Titans	Dragons
+NRL	2015	25	Raiders	Panthers
+NRL	2015	26	Broncos	Storm
+NRL	2015	26	Roosters	Rabbitohs
+NRL	2015	26	Panthers	Knights
+NRL	2015	26	Dragons	Wests Tigers
+NRL	2015	26	Cowboys	Titans
+NRL	2015	26	Eels	Raiders
+NRL	2015	26	Sharks	Sea Eagles
+NRL	2015	26	Bulldogs	Warriors
+NRL	2015	finals-week-1	Roosters	Storm
+NRL	2015	finals-week-1	Bulldogs	Dragons
+NRL	2015	finals-week-1	Broncos	Cowboys
+NRL	2015	finals-week-1	Sharks	Rabbitohs
+NRL	2015	finals-week-2	Roosters	Bulldogs
+NRL	2015	finals-week-2	Cowboys	Sharks
+NRL	2015	finals-week-3	Broncos	Roosters
+NRL	2015	finals-week-3	Storm	Cowboys
+NRL	2015	grand-final	Broncos	Cowboys
+NRL	2016	1	Eels	Broncos
+NRL	2016	1	Sea Eagles	Bulldogs
+NRL	2016	1	Raiders	Panthers
+NRL	2016	1	Wests Tigers	Warriors
+NRL	2016	1	Cowboys	Sharks
+NRL	2016	1	Roosters	Rabbitohs
+NRL	2016	1	Titans	Knights
+NRL	2016	1	Storm	Dragons
+NRL	2016	2	Panthers	Bulldogs
+NRL	2016	2	Broncos	Warriors
+NRL	2016	2	Raiders	Roosters
+NRL	2016	2	Rabbitohs	Knights
+NRL	2016	2	Eels	Cowboys
+NRL	2016	2	Sharks	Dragons
+NRL	2016	2	Storm	Titans
+NRL	2016	2	Wests Tigers	Sea Eagles
+NRL	2016	3	Cowboys	Roosters
+NRL	2016	3	Bulldogs	Eels
+NRL	2016	3	Knights	Raiders
+NRL	2016	3	Panthers	Broncos
+NRL	2016	3	Titans	Wests Tigers
+NRL	2016	3	Warriors	Storm
+NRL	2016	3	Dragons	Rabbitohs
+NRL	2016	3	Sea Eagles	Sharks
+NRL	2016	4	Rabbitohs	Bulldogs
+NRL	2016	4	Broncos	Cowboys
+NRL	2016	4	Raiders	Titans
+NRL	2016	4	Roosters	Sea Eagles
+NRL	2016	4	Dragons	Panthers
+NRL	2016	4	Warriors	Knights
+NRL	2016	4	Wests Tigers	Eels
+NRL	2016	4	Sharks	Storm
+NRL	2016	5	Sea Eagles	Rabbitohs
+NRL	2016	5	Titans	Broncos
+NRL	2016	5	Storm	Knights
+NRL	2016	5	Wests Tigers	Sharks
+NRL	2016	5	Cowboys	Dragons
+NRL	2016	5	Roosters	Warriors
+NRL	2016	5	Eels	Panthers
+NRL	2016	5	Bulldogs	Raiders
+NRL	2016	6	Broncos	Dragons
+NRL	2016	6	Rabbitohs	Roosters
+NRL	2016	6	Eels	Raiders
+NRL	2016	6	Warriors	Sea Eagles
+NRL	2016	6	Panthers	Cowboys
+NRL	2016	6	Sharks	Titans
+NRL	2016	6	Knights	Wests Tigers
+NRL	2016	6	Storm	Bulldogs
+NRL	2016	7	Sea Eagles	Eels
+NRL	2016	7	Cowboys	Rabbitohs
+NRL	2016	7	Titans	Dragons
+NRL	2016	7	Bulldogs	Warriors
+NRL	2016	7	Broncos	Knights
+NRL	2016	7	Raiders	Sharks
+NRL	2016	7	Wests Tigers	Storm
+NRL	2016	7	Roosters	Panthers
+NRL	2016	8	Broncos	Rabbitohs
+NRL	2016	8	Bulldogs	Titans
+NRL	2016	8	Raiders	Wests Tigers
+NRL	2016	8	Cowboys	Eels
+NRL	2016	8	Sharks	Panthers
+NRL	2016	8	Knights	Sea Eagles
+NRL	2016	8	Dragons	Roosters
+NRL	2016	8	Storm	Warriors
+NRL	2016	9	Rabbitohs	Wests Tigers
+NRL	2016	9	Eels	Bulldogs
+NRL	2016	9	Panthers	Raiders
+NRL	2016	9	Roosters	Knights
+NRL	2016	9	Sea Eagles	Cowboys
+NRL	2016	9	Warriors	Dragons
+NRL	2016	9	Titans	Storm
+NRL	2016	9	Sharks	Broncos
+NRL	2016	10	Dragons	Raiders
+NRL	2016	10	Eels	Rabbitohs
+NRL	2016	10	Panthers	Warriors
+NRL	2016	10	Storm	Cowboys
+NRL	2016	10	Sea Eagles	Broncos
+NRL	2016	10	Knights	Sharks
+NRL	2016	10	Wests Tigers	Bulldogs
+NRL	2016	10	Titans	Roosters
+NRL	2016	11	Rabbitohs	Dragons
+NRL	2016	11	Cowboys	Broncos
+NRL	2016	11	Wests Tigers	Knights
+NRL	2016	11	Warriors	Raiders
+NRL	2016	11	Sharks	Sea Eagles
+NRL	2016	11	Panthers	Titans
+NRL	2016	11	Bulldogs	Roosters
+NRL	2016	11	Eels	Storm
+NRL	2016	12	Broncos	Wests Tigers
+NRL	2016	12	Dragons	Cowboys
+NRL	2016	12	Raiders	Bulldogs
+NRL	2016	12	Knights	Eels
+NRL	2016	13	Raiders	Sea Eagles
+NRL	2016	13	Warriors	Broncos
+NRL	2016	13	Cowboys	Knights
+NRL	2016	13	Storm	Panthers
+NRL	2016	13	Roosters	Wests Tigers
+NRL	2016	13	Rabbitohs	Titans
+NRL	2016	13	Bulldogs	Sharks
+NRL	2016	14	Broncos	Raiders
+NRL	2016	14	Wests Tigers	Rabbitohs
+NRL	2016	14	Knights	Warriors
+NRL	2016	14	Eels	Titans
+NRL	2016	14	Roosters	Storm
+NRL	2016	14	Sea Eagles	Panthers
+NRL	2016	14	Dragons	Bulldogs
+NRL	2016	14	Sharks	Cowboys
+NRL	2016	15	Rabbitohs	Eels
+NRL	2016	15	Dragons	Storm
+NRL	2016	15	Warriors	Roosters
+NRL	2016	15	Titans	Sea Eagles
+NRL	2016	16	Panthers	Rabbitohs
+NRL	2016	16	Knights	Dragons
+NRL	2016	16	Sharks	Warriors
+NRL	2016	16	Bulldogs	Broncos
+NRL	2016	16	Titans	Raiders
+NRL	2016	16	Storm	Wests Tigers
+NRL	2016	16	Cowboys	Sea Eagles
+NRL	2016	17	Roosters	Bulldogs
+NRL	2016	17	Broncos	Storm
+NRL	2016	17	Warriors	Titans
+NRL	2016	17	Wests Tigers	Panthers
+NRL	2016	17	Sharks	Eels
+NRL	2016	17	Raiders	Knights
+NRL	2016	17	Rabbitohs	Cowboys
+NRL	2016	17	Sea Eagles	Dragons
+NRL	2016	18	Eels	Roosters
+NRL	2016	18	Bulldogs	Wests Tigers
+NRL	2016	18	Panthers	Sharks
+NRL	2016	18	Raiders	Cowboys
+NRL	2016	19	Dragons	Titans
+NRL	2016	19	Sea Eagles	Warriors
+NRL	2016	19	Rabbitohs	Broncos
+NRL	2016	19	Knights	Storm
+NRL	2016	19	Panthers	Eels
+NRL	2016	19	Roosters	Sharks
+NRL	2016	20	Cowboys	Bulldogs
+NRL	2016	20	Broncos	Panthers
+NRL	2016	20	Raiders	Warriors
+NRL	2016	20	Titans	Eels
+NRL	2016	20	Storm	Roosters
+NRL	2016	20	Sharks	Knights
+NRL	2016	20	Dragons	Wests Tigers
+NRL	2016	20	Rabbitohs	Sea Eagles
+NRL	2016	21	Roosters	Broncos
+NRL	2016	21	Bulldogs	Dragons
+NRL	2016	21	Warriors	Panthers
+NRL	2016	21	Eels	Wests Tigers
+NRL	2016	21	Cowboys	Storm
+NRL	2016	21	Rabbitohs	Raiders
+NRL	2016	21	Sea Eagles	Knights
+NRL	2016	21	Titans	Sharks
+NRL	2016	22	Dragons	Broncos
+NRL	2016	22	Eels	Sea Eagles
+NRL	2016	22	Knights	Bulldogs
+NRL	2016	22	Sharks	Raiders
+NRL	2016	22	Storm	Rabbitohs
+NRL	2016	22	Titans	Warriors
+NRL	2016	22	Wests Tigers	Cowboys
+NRL	2016	22	Panthers	Roosters
+NRL	2016	23	Bulldogs	Sea Eagles
+NRL	2016	23	Broncos	Eels
+NRL	2016	23	Wests Tigers	Titans
+NRL	2016	23	Warriors	Rabbitohs
+NRL	2016	23	Dragons	Sharks
+NRL	2016	23	Knights	Panthers
+NRL	2016	23	Roosters	Cowboys
+NRL	2016	23	Raiders	Storm
+NRL	2016	24	Broncos	Bulldogs
+NRL	2016	24	Panthers	Wests Tigers
+NRL	2016	24	Knights	Titans
+NRL	2016	24	Sea Eagles	Storm
+NRL	2016	24	Cowboys	Warriors
+NRL	2016	24	Raiders	Eels
+NRL	2016	24	Roosters	Dragons
+NRL	2016	24	Rabbitohs	Sharks
+NRL	2016	25	Bulldogs	Cowboys
+NRL	2016	25	Storm	Broncos
+NRL	2016	25	Sea Eagles	Raiders
+NRL	2016	25	Titans	Panthers
+NRL	2016	25	Sharks	Roosters
+NRL	2016	25	Warriors	Wests Tigers
+NRL	2016	25	Knights	Rabbitohs
+NRL	2016	25	Eels	Dragons
+NRL	2016	26	Broncos	Roosters
+NRL	2016	26	Bulldogs	Rabbitohs
+NRL	2016	26	Dragons	Knights
+NRL	2016	26	Cowboys	Titans
+NRL	2016	26	Storm	Sharks
+NRL	2016	26	Wests Tigers	Raiders
+NRL	2016	26	Warriors	Eels
+NRL	2016	26	Panthers	Sea Eagles
+NRL	2016	finals-week-1	Broncos	Titans
+NRL	2016	finals-week-1	Raiders	Sharks
+NRL	2016	finals-week-1	Storm	Cowboys
+NRL	2016	finals-week-1	Panthers	Bulldogs
+NRL	2016	finals-week-2	Cowboys	Broncos
+NRL	2016	finals-week-2	Raiders	Panthers
+NRL	2016	finals-week-3	Sharks	Cowboys
+NRL	2016	finals-week-3	Storm	Raiders
+NRL	2016	grand-final	Storm	Sharks
+NRL	2017	1	Sharks	Broncos
+NRL	2017	1	Bulldogs	Storm
+NRL	2017	1	Rabbitohs	Wests Tigers
+NRL	2017	1	Dragons	Panthers
+NRL	2017	1	Cowboys	Raiders
+NRL	2017	1	Titans	Roosters
+NRL	2017	1	Warriors	Knights
+NRL	2017	1	Sea Eagles	Eels
+NRL	2017	2	Roosters	Bulldogs
+NRL	2017	2	Warriors	Storm
+NRL	2017	2	Broncos	Cowboys
+NRL	2017	2	Knights	Titans
+NRL	2017	2	Sea Eagles	Rabbitohs
+NRL	2017	2	Raiders	Sharks
+NRL	2017	2	Wests Tigers	Panthers
+NRL	2017	2	Dragons	Eels
+NRL	2017	3	Storm	Broncos
+NRL	2017	3	Bulldogs	Warriors
+NRL	2017	3	Titans	Eels
+NRL	2017	3	Knights	Rabbitohs
+NRL	2017	3	Panthers	Roosters
+NRL	2017	3	Cowboys	Sea Eagles
+NRL	2017	3	Raiders	Wests Tigers
+NRL	2017	3	Sharks	Dragons
+NRL	2017	4	Rabbitohs	Roosters
+NRL	2017	4	Panthers	Knights
+NRL	2017	4	Broncos	Raiders
+NRL	2017	4	Sea Eagles	Bulldogs
+NRL	2017	4	Eels	Sharks
+NRL	2017	4	Titans	Cowboys
+NRL	2017	4	Wests Tigers	Storm
+NRL	2017	4	Dragons	Warriors
+NRL	2017	5	Bulldogs	Broncos
+NRL	2017	5	Roosters	Sea Eagles
+NRL	2017	5	Cowboys	Rabbitohs
+NRL	2017	5	Sharks	Knights
+NRL	2017	5	Raiders	Eels
+NRL	2017	5	Storm	Panthers
+NRL	2017	5	Warriors	Titans
+NRL	2017	5	Wests Tigers	Dragons
+NRL	2017	6	Broncos	Roosters
+NRL	2017	6	Knights	Bulldogs
+NRL	2017	6	Panthers	Rabbitohs
+NRL	2017	6	Sea Eagles	Dragons
+NRL	2017	6	Titans	Raiders
+NRL	2017	6	Cowboys	Wests Tigers
+NRL	2017	6	Warriors	Eels
+NRL	2017	6	Storm	Sharks
+NRL	2017	7	Bulldogs	Rabbitohs
+NRL	2017	7	Knights	Roosters
+NRL	2017	7	Broncos	Titans
+NRL	2017	7	Sea Eagles	Storm
+NRL	2017	7	Raiders	Warriors
+NRL	2017	7	Dragons	Cowboys
+NRL	2017	7	Panthers	Sharks
+NRL	2017	7	Eels	Wests Tigers
+NRL	2017	8	Raiders	Sea Eagles
+NRL	2017	8	Rabbitohs	Broncos
+NRL	2017	8	Eels	Panthers
+NRL	2017	8	Cowboys	Knights
+NRL	2017	8	Sharks	Titans
+NRL	2017	8	Wests Tigers	Bulldogs
+NRL	2017	8	Roosters	Dragons
+NRL	2017	8	Storm	Warriors
+NRL	2017	9	Broncos	Panthers
+NRL	2017	9	Rabbitohs	Sea Eagles
+NRL	2017	9	Cowboys	Eels
+NRL	2017	9	Titans	Knights
+NRL	2017	9	Bulldogs	Raiders
+NRL	2017	9	Wests Tigers	Sharks
+NRL	2017	9	Warriors	Roosters
+NRL	2017	9	Dragons	Storm
+NRL	2017	10	Bulldogs	Cowboys
+NRL	2017	10	Dragons	Sharks
+NRL	2017	10	Wests Tigers	Rabbitohs
+NRL	2017	10	Panthers	Warriors
+NRL	2017	10	Storm	Titans
+NRL	2017	10	Sea Eagles	Broncos
+NRL	2017	10	Knights	Raiders
+NRL	2017	10	Roosters	Eels
+NRL	2017	11	Sharks	Cowboys
+NRL	2017	11	Warriors	Dragons
+NRL	2017	11	Broncos	Wests Tigers
+NRL	2017	11	Titans	Sea Eagles
+NRL	2017	11	Eels	Raiders
+NRL	2017	11	Knights	Panthers
+NRL	2017	11	Bulldogs	Roosters
+NRL	2017	11	Rabbitohs	Storm
+NRL	2017	12	Rabbitohs	Eels
+NRL	2017	12	Warriors	Broncos
+NRL	2017	12	Sharks	Bulldogs
+NRL	2017	12	Raiders	Roosters
+NRL	2017	13	Storm	Knights
+NRL	2017	13	Eels	Warriors
+NRL	2017	13	Dragons	Wests Tigers
+NRL	2017	13	Roosters	Broncos
+NRL	2017	13	Cowboys	Titans
+NRL	2017	13	Sea Eagles	Raiders
+NRL	2017	13	Bulldogs	Panthers
+NRL	2017	14	Sharks	Storm
+NRL	2017	14	Sea Eagles	Knights
+NRL	2017	14	Broncos	Rabbitohs
+NRL	2017	14	Titans	Warriors
+NRL	2017	14	Panthers	Raiders
+NRL	2017	14	Eels	Cowboys
+NRL	2017	14	Wests Tigers	Roosters
+NRL	2017	14	Bulldogs	Dragons
+NRL	2017	15	Rabbitohs	Titans
+NRL	2017	15	Storm	Cowboys
+NRL	2017	15	Sharks	Wests Tigers
+NRL	2017	15	Eels	Dragons
+NRL	2017	16	Warriors	Bulldogs
+NRL	2017	16	Wests Tigers	Titans
+NRL	2017	16	Cowboys	Panthers
+NRL	2017	16	Raiders	Broncos
+NRL	2017	16	Roosters	Storm
+NRL	2017	16	Dragons	Knights
+NRL	2017	16	Sharks	Sea Eagles
+NRL	2017	17	Eels	Bulldogs
+NRL	2017	17	Titans	Dragons
+NRL	2017	17	Broncos	Storm
+NRL	2017	17	Roosters	Sharks
+NRL	2017	17	Sea Eagles	Warriors
+NRL	2017	17	Raiders	Cowboys
+NRL	2017	17	Knights	Wests Tigers
+NRL	2017	17	Rabbitohs	Panthers
+NRL	2017	18	Roosters	Rabbitohs
+NRL	2017	18	Panthers	Sea Eagles
+NRL	2017	18	Storm	Eels
+NRL	2017	18	Bulldogs	Knights
+NRL	2017	19	Warriors	Panthers
+NRL	2017	19	Raiders	Dragons
+NRL	2017	19	Knights	Broncos
+NRL	2017	19	Titans	Sharks
+NRL	2017	19	Sea Eagles	Wests Tigers
+NRL	2017	19	Rabbitohs	Cowboys
+NRL	2017	20	Broncos	Bulldogs
+NRL	2017	20	Roosters	Knights
+NRL	2017	20	Sharks	Rabbitohs
+NRL	2017	20	Panthers	Titans
+NRL	2017	20	Raiders	Storm
+NRL	2017	20	Cowboys	Warriors
+NRL	2017	20	Dragons	Sea Eagles
+NRL	2017	20	Wests Tigers	Eels
+NRL	2017	21	Panthers	Bulldogs
+NRL	2017	21	Warriors	Sharks
+NRL	2017	21	Eels	Broncos
+NRL	2017	21	Knights	Dragons
+NRL	2017	21	Rabbitohs	Raiders
+NRL	2017	21	Roosters	Cowboys
+NRL	2017	21	Storm	Sea Eagles
+NRL	2017	21	Titans	Wests Tigers
+NRL	2017	22	Bulldogs	Eels
+NRL	2017	22	Dragons	Rabbitohs
+NRL	2017	22	Cowboys	Storm
+NRL	2017	22	Knights	Warriors
+NRL	2017	22	Titans	Broncos
+NRL	2017	22	Sharks	Raiders
+NRL	2017	22	Sea Eagles	Roosters
+NRL	2017	22	Panthers	Wests Tigers
+NRL	2017	23	Rabbitohs	Bulldogs
+NRL	2017	23	Eels	Knights
+NRL	2017	23	Broncos	Sharks
+NRL	2017	23	Dragons	Titans
+NRL	2017	23	Storm	Roosters
+NRL	2017	23	Panthers	Cowboys
+NRL	2017	23	Warriors	Raiders
+NRL	2017	23	Wests Tigers	Sea Eagles
+NRL	2017	24	Eels	Titans
+NRL	2017	24	Rabbitohs	Warriors
+NRL	2017	24	Broncos	Dragons
+NRL	2017	24	Knights	Storm
+NRL	2017	24	Roosters	Wests Tigers
+NRL	2017	24	Cowboys	Sharks
+NRL	2017	24	Raiders	Panthers
+NRL	2017	24	Bulldogs	Sea Eagles
+NRL	2017	25	Broncos	Eels
+NRL	2017	25	Raiders	Knights
+NRL	2017	25	Wests Tigers	Cowboys
+NRL	2017	25	Titans	Bulldogs
+NRL	2017	25	Storm	Rabbitohs
+NRL	2017	25	Sharks	Roosters
+NRL	2017	25	Warriors	Sea Eagles
+NRL	2017	25	Panthers	Dragons
+NRL	2017	26	Cowboys	Broncos
+NRL	2017	26	Eels	Rabbitohs
+NRL	2017	26	Roosters	Titans
+NRL	2017	26	Sea Eagles	Panthers
+NRL	2017	26	Storm	Raiders
+NRL	2017	26	Knights	Sharks
+NRL	2017	26	Dragons	Bulldogs
+NRL	2017	26	Wests Tigers	Warriors
+NRL	2017	finals-week-1	Roosters	Broncos
+NRL	2017	finals-week-1	Storm	Eels
+NRL	2017	finals-week-1	Sea Eagles	Panthers
+NRL	2017	finals-week-1	Sharks	Cowboys
+NRL	2017	finals-week-2	Broncos	Panthers
+NRL	2017	finals-week-2	Eels	Cowboys
+NRL	2017	finals-week-3	Storm	Broncos
+NRL	2017	finals-week-3	Roosters	Cowboys
+NRL	2017	grand-final	Storm	Cowboys
+NRL	2018	1	Dragons	Broncos
+NRL	2018	1	Knights	Sea Eagles
+NRL	2018	1	Cowboys	Sharks
+NRL	2018	1	Wests Tigers	Roosters
+NRL	2018	1	Rabbitohs	Warriors
+NRL	2018	1	Bulldogs	Storm
+NRL	2018	1	Panthers	Eels
+NRL	2018	1	Titans	Raiders
+NRL	2018	2	Sharks	Dragons
+NRL	2018	2	Roosters	Bulldogs
+NRL	2018	2	Broncos	Cowboys
+NRL	2018	2	Warriors	Titans
+NRL	2018	2	Panthers	Rabbitohs
+NRL	2018	2	Storm	Wests Tigers
+NRL	2018	2	Sea Eagles	Eels
+NRL	2018	2	Raiders	Knights
+NRL	2018	3	Storm	Cowboys
+NRL	2018	3	Bulldogs	Panthers
+NRL	2018	3	Wests Tigers	Broncos
+NRL	2018	3	Raiders	Warriors
+NRL	2018	3	Rabbitohs	Sea Eagles
+NRL	2018	3	Eels	Sharks
+NRL	2018	3	Titans	Dragons
+NRL	2018	3	Roosters	Knights
+NRL	2018	4	Cowboys	Panthers
+NRL	2018	4	Rabbitohs	Bulldogs
+NRL	2018	4	Sharks	Storm
+NRL	2018	4	Roosters	Warriors
+NRL	2018	4	Sea Eagles	Raiders
+NRL	2018	4	Dragons	Knights
+NRL	2018	4	Broncos	Titans
+NRL	2018	4	Wests Tigers	Eels
+NRL	2018	5	Raiders	Bulldogs
+NRL	2018	5	Sharks	Roosters
+NRL	2018	5	Dragons	Rabbitohs
+NRL	2018	5	Wests Tigers	Storm
+NRL	2018	5	Warriors	Cowboys
+NRL	2018	5	Knights	Broncos
+NRL	2018	5	Titans	Sea Eagles
+NRL	2018	5	Eels	Panthers
+NRL	2018	6	Roosters	Rabbitohs
+NRL	2018	6	Storm	Knights
+NRL	2018	6	Dragons	Sharks
+NRL	2018	6	Warriors	Broncos
+NRL	2018	6	Cowboys	Bulldogs
+NRL	2018	6	Raiders	Eels
+NRL	2018	6	Panthers	Titans
+NRL	2018	6	Sea Eagles	Wests Tigers
+NRL	2018	7	Bulldogs	Roosters
+NRL	2018	7	Warriors	Dragons
+NRL	2018	7	Broncos	Storm
+NRL	2018	7	Rabbitohs	Raiders
+NRL	2018	7	Wests Tigers	Knights
+NRL	2018	7	Cowboys	Titans
+NRL	2018	7	Eels	Sea Eagles
+NRL	2018	7	Sharks	Panthers
+NRL	2018	8	Dragons	Roosters
+NRL	2018	8	Storm	Warriors
+NRL	2018	8	Rabbitohs	Broncos
+NRL	2018	8	Sea Eagles	Knights
+NRL	2018	8	Panthers	Bulldogs
+NRL	2018	8	Titans	Sharks
+NRL	2018	8	Cowboys	Raiders
+NRL	2018	8	Eels	Wests Tigers
+NRL	2018	9	Broncos	Bulldogs
+NRL	2018	9	Knights	Rabbitohs
+NRL	2018	9	Panthers	Cowboys
+NRL	2018	9	Raiders	Titans
+NRL	2018	9	Warriors	Wests Tigers
+NRL	2018	9	Sharks	Eels
+NRL	2018	9	Dragons	Storm
+NRL	2018	9	Roosters	Sea Eagles
+NRL	2018	10	Wests Tigers	Cowboys
+NRL	2018	10	Knights	Panthers
+NRL	2018	10	Bulldogs	Eels
+NRL	2018	10	Warriors	Roosters
+NRL	2018	10	Storm	Titans
+NRL	2018	10	Sea Eagles	Broncos
+NRL	2018	10	Rabbitohs	Dragons
+NRL	2018	10	Raiders	Sharks
+NRL	2018	11	Panthers	Wests Tigers
+NRL	2018	11	Eels	Warriors
+NRL	2018	11	Broncos	Roosters
+NRL	2018	11	Titans	Knights
+NRL	2018	11	Cowboys	Rabbitohs
+NRL	2018	11	Storm	Sea Eagles
+NRL	2018	11	Dragons	Raiders
+NRL	2018	11	Sharks	Bulldogs
+NRL	2018	12	Broncos	Eels
+NRL	2018	12	Raiders	Sea Eagles
+NRL	2018	12	Cowboys	Storm
+NRL	2018	12	Roosters	Titans
+NRL	2018	12	Warriors	Rabbitohs
+NRL	2018	12	Panthers	Dragons
+NRL	2018	12	Knights	Sharks
+NRL	2018	12	Wests Tigers	Bulldogs
+NRL	2018	13	Sea Eagles	Cowboys
+NRL	2018	13	Rabbitohs	Sharks
+NRL	2018	13	Eels	Knights
+NRL	2018	13	Roosters	Wests Tigers
+NRL	2018	14	Raiders	Panthers
+NRL	2018	14	Titans	Rabbitohs
+NRL	2018	14	Sea Eagles	Warriors
+NRL	2018	14	Knights	Roosters
+NRL	2018	14	Eels	Cowboys
+NRL	2018	14	Sharks	Wests Tigers
+NRL	2018	14	Storm	Broncos
+NRL	2018	14	Bulldogs	Dragons
+NRL	2018	15	Eels	Rabbitohs
+NRL	2018	15	Cowboys	Warriors
+NRL	2018	15	Roosters	Panthers
+NRL	2018	15	Bulldogs	Titans
+NRL	2018	15	Dragons	Sea Eagles
+NRL	2018	15	Sharks	Broncos
+NRL	2018	15	Knights	Storm
+NRL	2018	15	Wests Tigers	Raiders
+NRL	2018	16	Dragons	Eels
+NRL	2018	16	Warriors	Sharks
+NRL	2018	16	Roosters	Storm
+NRL	2018	16	Panthers	Sea Eagles
+NRL	2018	16	Knights	Bulldogs
+NRL	2018	16	Broncos	Raiders
+NRL	2018	16	Wests Tigers	Titans
+NRL	2018	16	Rabbitohs	Cowboys
+NRL	2018	17	Storm	Dragons
+NRL	2018	17	Panthers	Warriors
+NRL	2018	17	Bulldogs	Raiders
+NRL	2018	17	Titans	Broncos
+NRL	2018	18	Panthers	Sharks
+NRL	2018	18	Knights	Eels
+NRL	2018	18	Bulldogs	Rabbitohs
+NRL	2018	18	Sea Eagles	Storm
+NRL	2018	18	Raiders	Cowboys
+NRL	2018	18	Broncos	Warriors
+NRL	2018	18	Dragons	Wests Tigers
+NRL	2018	18	Titans	Roosters
+NRL	2018	19	Eels	Bulldogs
+NRL	2018	19	Sharks	Raiders
+NRL	2018	19	Broncos	Panthers
+NRL	2018	19	Knights	Titans
+NRL	2018	19	Wests Tigers	Rabbitohs
+NRL	2018	19	Cowboys	Dragons
+NRL	2018	19	Warriors	Storm
+NRL	2018	19	Sea Eagles	Roosters
+NRL	2018	20	Broncos	Sharks
+NRL	2018	20	Cowboys	Knights
+NRL	2018	20	Bulldogs	Wests Tigers
+NRL	2018	20	Sea Eagles	Panthers
+NRL	2018	20	Rabbitohs	Eels
+NRL	2018	20	Storm	Raiders
+NRL	2018	20	Titans	Warriors
+NRL	2018	20	Roosters	Dragons
+NRL	2018	21	Bulldogs	Broncos
+NRL	2018	21	Knights	Wests Tigers
+NRL	2018	21	Rabbitohs	Storm
+NRL	2018	21	Dragons	Warriors
+NRL	2018	21	Eels	Titans
+NRL	2018	21	Roosters	Cowboys
+NRL	2018	21	Sharks	Sea Eagles
+NRL	2018	21	Panthers	Raiders
+NRL	2018	22	Cowboys	Broncos
+NRL	2018	22	Warriors	Knights
+NRL	2018	22	Rabbitohs	Roosters
+NRL	2018	22	Titans	Panthers
+NRL	2018	22	Sea Eagles	Bulldogs
+NRL	2018	22	Eels	Dragons
+NRL	2018	22	Raiders	Wests Tigers
+NRL	2018	22	Storm	Sharks
+NRL	2018	23	Broncos	Rabbitohs
+NRL	2018	23	Sea Eagles	Titans
+NRL	2018	23	Storm	Eels
+NRL	2018	23	Panthers	Knights
+NRL	2018	23	Wests Tigers	Dragons
+NRL	2018	23	Sharks	Cowboys
+NRL	2018	23	Bulldogs	Warriors
+NRL	2018	23	Raiders	Roosters
+NRL	2018	24	Wests Tigers	Sea Eagles
+NRL	2018	24	Warriors	Panthers
+NRL	2018	24	Cowboys	Eels
+NRL	2018	24	Raiders	Rabbitohs
+NRL	2018	24	Titans	Storm
+NRL	2018	24	Roosters	Broncos
+NRL	2018	24	Sharks	Knights
+NRL	2018	24	Dragons	Bulldogs
+NRL	2018	25	Rabbitohs	Wests Tigers
+NRL	2018	25	Warriors	Raiders
+NRL	2018	25	Storm	Panthers
+NRL	2018	25	Knights	Dragons
+NRL	2018	25	Titans	Cowboys
+NRL	2018	25	Eels	Roosters
+NRL	2018	25	Bulldogs	Sharks
+NRL	2018	25	Broncos	Sea Eagles
+NRL	2018	finals-week-1	Storm	Rabbitohs
+NRL	2018	finals-week-1	Panthers	Warriors
+NRL	2018	finals-week-1	Roosters	Sharks
+NRL	2018	finals-week-1	Broncos	Dragons
+NRL	2018	finals-week-2	Sharks	Panthers
+NRL	2018	finals-week-2	Rabbitohs	Dragons
+NRL	2018	finals-week-3	Storm	Sharks
+NRL	2018	finals-week-3	Roosters	Rabbitohs
+NRL	2018	grand-final	Roosters	Storm
+NRL	2019	1	Storm	Broncos
+NRL	2019	1	Knights	Sharks
+NRL	2019	1	Roosters	Rabbitohs
+NRL	2019	1	Warriors	Bulldogs
+NRL	2019	1	Wests Tigers	Sea Eagles
+NRL	2019	1	Cowboys	Dragons
+NRL	2019	1	Panthers	Eels
+NRL	2019	1	Titans	Raiders
+NRL	2019	2	Dragons	Rabbitohs
+NRL	2019	2	Raiders	Storm
+NRL	2019	2	Broncos	Cowboys
+NRL	2019	2	Sharks	Titans
+NRL	2019	2	Knights	Panthers
+NRL	2019	2	Sea Eagles	Roosters
+NRL	2019	2	Bulldogs	Eels
+NRL	2019	2	Wests Tigers	Warriors
+NRL	2019	3	Broncos	Dragons
+NRL	2019	3	Raiders	Knights
+NRL	2019	3	Eels	Roosters
+NRL	2019	3	Sea Eagles	Warriors
+NRL	2019	3	Cowboys	Sharks
+NRL	2019	3	Panthers	Storm
+NRL	2019	3	Wests Tigers	Bulldogs
+NRL	2019	3	Rabbitohs	Titans
+NRL	2019	4	Roosters	Broncos
+NRL	2019	4	Warriors	Titans
+NRL	2019	4	Panthers	Wests Tigers
+NRL	2019	4	Sea Eagles	Rabbitohs
+NRL	2019	4	Cowboys	Raiders
+NRL	2019	4	Eels	Sharks
+NRL	2019	4	Storm	Bulldogs
+NRL	2019	4	Knights	Dragons
+NRL	2019	5	Broncos	Wests Tigers
+NRL	2019	5	Titans	Panthers
+NRL	2019	5	Cowboys	Storm
+NRL	2019	5	Rabbitohs	Warriors
+NRL	2019	5	Knights	Sea Eagles
+NRL	2019	5	Sharks	Roosters
+NRL	2019	5	Dragons	Bulldogs
+NRL	2019	5	Raiders	Eels
+NRL	2019	6	Sharks	Panthers
+NRL	2019	6	Bulldogs	Rabbitohs
+NRL	2019	6	Storm	Roosters
+NRL	2019	6	Warriors	Cowboys
+NRL	2019	6	Dragons	Sea Eagles
+NRL	2019	6	Titans	Knights
+NRL	2019	6	Raiders	Broncos
+NRL	2019	6	Eels	Wests Tigers
+NRL	2019	7	Roosters	Dragons
+NRL	2019	7	Storm	Warriors
+NRL	2019	7	Bulldogs	Cowboys
+NRL	2019	7	Panthers	Rabbitohs
+NRL	2019	7	Wests Tigers	Titans
+NRL	2019	7	Broncos	Sharks
+NRL	2019	7	Sea Eagles	Raiders
+NRL	2019	7	Knights	Eels
+NRL	2019	8	Rabbitohs	Broncos
+NRL	2019	8	Cowboys	Titans
+NRL	2019	8	Sharks	Storm
+NRL	2019	8	Raiders	Panthers
+NRL	2019	8	Sea Eagles	Bulldogs
+NRL	2019	8	Roosters	Wests Tigers
+NRL	2019	8	Warriors	Knights
+NRL	2019	8	Eels	Dragons
+NRL	2019	9	Titans	Sharks
+NRL	2019	9	Wests Tigers	Panthers
+NRL	2019	9	Sea Eagles	Broncos
+NRL	2019	9	Bulldogs	Knights
+NRL	2019	9	Warriors	Dragons
+NRL	2019	9	Storm	Eels
+NRL	2019	9	Roosters	Raiders
+NRL	2019	9	Rabbitohs	Cowboys
+NRL	2019	10	Storm	Wests Tigers
+NRL	2019	10	Panthers	Warriors
+NRL	2019	10	Broncos	Roosters
+NRL	2019	10	Titans	Bulldogs
+NRL	2019	10	Cowboys	Eels
+NRL	2019	10	Raiders	Rabbitohs
+NRL	2019	10	Dragons	Knights
+NRL	2019	10	Sharks	Sea Eagles
+NRL	2019	11	Eels	Panthers
+NRL	2019	11	Sea Eagles	Titans
+NRL	2019	11	Knights	Roosters
+NRL	2019	11	Raiders	Cowboys
+NRL	2019	11	Warriors	Broncos
+NRL	2019	11	Rabbitohs	Wests Tigers
+NRL	2019	11	Bulldogs	Storm
+NRL	2019	11	Dragons	Sharks
+NRL	2019	12	Panthers	Sea Eagles
+NRL	2019	12	Eels	Rabbitohs
+NRL	2019	12	Bulldogs	Raiders
+NRL	2019	12	Titans	Cowboys
+NRL	2019	13	Rabbitohs	Knights
+NRL	2019	13	Wests Tigers	Raiders
+NRL	2019	13	Warriors	Storm
+NRL	2019	13	Sharks	Eels
+NRL	2019	13	Cowboys	Sea Eagles
+NRL	2019	13	Broncos	Titans
+NRL	2019	13	Panthers	Roosters
+NRL	2019	13	Bulldogs	Dragons
+NRL	2019	14	Raiders	Sharks
+NRL	2019	14	Titans	Warriors
+NRL	2019	14	Cowboys	Wests Tigers
+NRL	2019	14	Storm	Knights
+NRL	2019	14	Rabbitohs	Panthers
+NRL	2019	14	Eels	Broncos
+NRL	2019	14	Sea Eagles	Dragons
+NRL	2019	14	Roosters	Bulldogs
+NRL	2019	15	Wests Tigers	Rabbitohs
+NRL	2019	15	Dragons	Cowboys
+NRL	2019	15	Roosters	Storm
+NRL	2019	15	Titans	Sea Eagles
+NRL	2019	15	Knights	Broncos
+NRL	2019	15	Eels	Raiders
+NRL	2019	15	Warriors	Panthers
+NRL	2019	15	Bulldogs	Sharks
+NRL	2019	16	Dragons	Storm
+NRL	2019	16	Wests Tigers	Roosters
+NRL	2019	16	Knights	Warriors
+NRL	2019	16	Sharks	Broncos
+NRL	2019	17	Panthers	Titans
+NRL	2019	17	Knights	Bulldogs
+NRL	2019	17	Rabbitohs	Sea Eagles
+NRL	2019	17	Broncos	Warriors
+NRL	2019	17	Storm	Sharks
+NRL	2019	17	Roosters	Cowboys
+NRL	2019	17	Wests Tigers	Eels
+NRL	2019	17	Dragons	Raiders
+NRL	2019	18	Broncos	Bulldogs
+NRL	2019	18	Warriors	Sharks
+NRL	2019	18	Panthers	Dragons
+NRL	2019	18	Roosters	Knights
+NRL	2019	18	Raiders	Wests Tigers
+NRL	2019	18	Cowboys	Rabbitohs
+NRL	2019	18	Titans	Storm
+NRL	2019	18	Sea Eagles	Eels
+NRL	2019	19	Sharks	Cowboys
+NRL	2019	19	Knights	Wests Tigers
+NRL	2019	19	Rabbitohs	Dragons
+NRL	2019	19	Eels	Warriors
+NRL	2019	19	Titans	Broncos
+NRL	2019	19	Storm	Sea Eagles
+NRL	2019	19	Bulldogs	Roosters
+NRL	2019	19	Panthers	Raiders
+NRL	2019	20	Wests Tigers	Cowboys
+NRL	2019	20	Warriors	Raiders
+NRL	2019	20	Broncos	Storm
+NRL	2019	20	Sea Eagles	Knights
+NRL	2019	20	Bulldogs	Panthers
+NRL	2019	20	Sharks	Rabbitohs
+NRL	2019	20	Roosters	Titans
+NRL	2019	20	Dragons	Eels
+NRL	2019	21	Cowboys	Broncos
+NRL	2019	21	Warriors	Sea Eagles
+NRL	2019	21	Panthers	Sharks
+NRL	2019	21	Dragons	Titans
+NRL	2019	21	Eels	Knights
+NRL	2019	21	Bulldogs	Wests Tigers
+NRL	2019	21	Raiders	Roosters
+NRL	2019	21	Rabbitohs	Storm
+NRL	2019	22	Sea Eagles	Wests Tigers
+NRL	2019	22	Titans	Eels
+NRL	2019	22	Broncos	Panthers
+NRL	2019	22	Knights	Cowboys
+NRL	2019	22	Storm	Raiders
+NRL	2019	22	Rabbitohs	Bulldogs
+NRL	2019	22	Roosters	Warriors
+NRL	2019	22	Sharks	Dragons
+NRL	2019	23	Eels	Bulldogs
+NRL	2019	23	Cowboys	Panthers
+NRL	2019	23	Broncos	Rabbitohs
+NRL	2019	23	Sharks	Warriors
+NRL	2019	23	Wests Tigers	Knights
+NRL	2019	23	Dragons	Roosters
+NRL	2019	23	Storm	Titans
+NRL	2019	23	Raiders	Sea Eagles
+NRL	2019	24	Cowboys	Bulldogs
+NRL	2019	24	Warriors	Rabbitohs
+NRL	2019	24	Broncos	Eels
+NRL	2019	24	Knights	Titans
+NRL	2019	24	Sea Eagles	Storm
+NRL	2019	24	Roosters	Panthers
+NRL	2019	24	Sharks	Raiders
+NRL	2019	24	Dragons	Wests Tigers
+NRL	2019	25	Rabbitohs	Roosters
+NRL	2019	25	Eels	Sea Eagles
+NRL	2019	25	Storm	Cowboys
+NRL	2019	25	Raiders	Warriors
+NRL	2019	25	Bulldogs	Broncos
+NRL	2019	25	Titans	Dragons
+NRL	2019	25	Wests Tigers	Sharks
+NRL	2019	25	Panthers	Knights
+NRL	2019	finals-week-1	Roosters	Rabbitohs
+NRL	2019	finals-week-1	Storm	Raiders
+NRL	2019	finals-week-1	Sea Eagles	Sharks
+NRL	2019	finals-week-1	Eels	Broncos
+NRL	2019	finals-week-2	Rabbitohs	Sea Eagles
+NRL	2019	finals-week-2	Storm	Eels
+NRL	2019	finals-week-3	Raiders	Rabbitohs
+NRL	2019	finals-week-3	Roosters	Storm
+NRL	2019	grand-final	Roosters	Raiders
+NRL	2020	1	Eels	Bulldogs
+NRL	2020	1	Raiders	Titans
+NRL	2020	1	Cowboys	Broncos
+NRL	2020	1	Knights	Warriors
+NRL	2020	1	Rabbitohs	Sharks
+NRL	2020	1	Panthers	Roosters
+NRL	2020	1	Sea Eagles	Storm
+NRL	2020	1	Dragons	Wests Tigers
+NRL	2020	2	Bulldogs	Cowboys
+NRL	2020	2	Dragons	Panthers
+NRL	2020	2	Broncos	Rabbitohs
+NRL	2020	2	Warriors	Raiders
+NRL	2020	2	Roosters	Sea Eagles
+NRL	2020	2	Sharks	Storm
+NRL	2020	2	Wests Tigers	Knights
+NRL	2020	2	Titans	Eels
+NRL	2020	3	Broncos	Eels
+NRL	2020	3	Cowboys	Titans
+NRL	2020	3	Roosters	Rabbitohs
+NRL	2020	3	Warriors	Dragons
+NRL	2020	3	Sharks	Wests Tigers
+NRL	2020	3	Storm	Raiders
+NRL	2020	3	Panthers	Knights
+NRL	2020	3	Sea Eagles	Bulldogs
+NRL	2020	4	Broncos	Roosters
+NRL	2020	4	Panthers	Warriors
+NRL	2020	4	Storm	Rabbitohs
+NRL	2020	4	Eels	Sea Eagles
+NRL	2020	4	Cowboys	Sharks
+NRL	2020	4	Raiders	Knights
+NRL	2020	4	Titans	Wests Tigers
+NRL	2020	4	Bulldogs	Dragons
+NRL	2020	5	Sea Eagles	Broncos
+NRL	2020	5	Warriors	Cowboys
+NRL	2020	5	Eels	Panthers
+NRL	2020	5	Rabbitohs	Titans
+NRL	2020	5	Knights	Storm
+NRL	2020	5	Wests Tigers	Raiders
+NRL	2020	5	Dragons	Sharks
+NRL	2020	5	Bulldogs	Roosters
+NRL	2020	6	Knights	Broncos
+NRL	2020	6	Rabbitohs	Warriors
+NRL	2020	6	Panthers	Storm
+NRL	2020	6	Titans	Dragons
+NRL	2020	6	Wests Tigers	Cowboys
+NRL	2020	6	Roosters	Eels
+NRL	2020	6	Raiders	Sea Eagles
+NRL	2020	6	Sharks	Bulldogs
+NRL	2020	7	Panthers	Rabbitohs
+NRL	2020	7	Storm	Warriors
+NRL	2020	7	Roosters	Dragons
+NRL	2020	7	Cowboys	Knights
+NRL	2020	7	Broncos	Titans
+NRL	2020	7	Eels	Raiders
+NRL	2020	7	Sea Eagles	Sharks
+NRL	2020	7	Bulldogs	Wests Tigers
+NRL	2020	8	Storm	Roosters
+NRL	2020	8	Raiders	Dragons
+NRL	2020	8	Eels	Cowboys
+NRL	2020	8	Titans	Sharks
+NRL	2020	8	Warriors	Broncos
+NRL	2020	8	Wests Tigers	Panthers
+NRL	2020	8	Sea Eagles	Knights
+NRL	2020	8	Bulldogs	Rabbitohs
+NRL	2020	9	Cowboys	Roosters
+NRL	2020	9	Titans	Warriors
+NRL	2020	9	Rabbitohs	Wests Tigers
+NRL	2020	9	Sharks	Panthers
+NRL	2020	9	Broncos	Bulldogs
+NRL	2020	9	Raiders	Storm
+NRL	2020	9	Knights	Eels
+NRL	2020	9	Dragons	Sea Eagles
+NRL	2020	10	Roosters	Raiders
+NRL	2020	10	Storm	Titans
+NRL	2020	10	Wests Tigers	Broncos
+NRL	2020	10	Dragons	Bulldogs
+NRL	2020	10	Rabbitohs	Knights
+NRL	2020	10	Sea Eagles	Eels
+NRL	2020	10	Warriors	Sharks
+NRL	2020	10	Panthers	Cowboys
+NRL	2020	11	Eels	Wests Tigers
+NRL	2020	11	Cowboys	Sea Eagles
+NRL	2020	11	Broncos	Storm
+NRL	2020	11	Warriors	Roosters
+NRL	2020	11	Sharks	Dragons
+NRL	2020	11	Raiders	Rabbitohs
+NRL	2020	11	Knights	Bulldogs
+NRL	2020	11	Titans	Panthers
+NRL	2020	12	Dragons	Rabbitohs
+NRL	2020	12	Wests Tigers	Warriors
+NRL	2020	12	Broncos	Sharks
+NRL	2020	12	Roosters	Titans
+NRL	2020	12	Cowboys	Raiders
+NRL	2020	12	Sea Eagles	Panthers
+NRL	2020	12	Bulldogs	Eels
+NRL	2020	12	Storm	Knights
+NRL	2020	13	Dragons	Roosters
+NRL	2020	13	Sea Eagles	Warriors
+NRL	2020	13	Rabbitohs	Broncos
+NRL	2020	13	Storm	Bulldogs
+NRL	2020	13	Knights	Wests Tigers
+NRL	2020	13	Panthers	Raiders
+NRL	2020	13	Titans	Cowboys
+NRL	2020	13	Sharks	Eels
+NRL	2020	14	Roosters	Storm
+NRL	2020	14	Warriors	Panthers
+NRL	2020	14	Eels	Dragons
+NRL	2020	14	Sharks	Titans
+NRL	2020	14	Cowboys	Rabbitohs
+NRL	2020	14	Raiders	Broncos
+NRL	2020	14	Knights	Sea Eagles
+NRL	2020	14	Wests Tigers	Bulldogs
+NRL	2020	15	Eels	Storm
+NRL	2020	15	Panthers	Sharks
+NRL	2020	15	Broncos	Dragons
+NRL	2020	15	Titans	Raiders
+NRL	2020	15	Wests Tigers	Roosters
+NRL	2020	15	Rabbitohs	Sea Eagles
+NRL	2020	15	Bulldogs	Warriors
+NRL	2020	15	Knights	Cowboys
+NRL	2020	16	Eels	Rabbitohs
+NRL	2020	16	Dragons	Titans
+NRL	2020	16	Roosters	Broncos
+NRL	2020	16	Warriors	Knights
+NRL	2020	16	Sharks	Cowboys
+NRL	2020	16	Panthers	Wests Tigers
+NRL	2020	16	Storm	Sea Eagles
+NRL	2020	16	Raiders	Bulldogs
+NRL	2020	17	Broncos	Panthers
+NRL	2020	17	Knights	Sharks
+NRL	2020	17	Rabbitohs	Storm
+NRL	2020	17	Bulldogs	Titans
+NRL	2020	17	Sea Eagles	Wests Tigers
+NRL	2020	17	Raiders	Roosters
+NRL	2020	17	Warriors	Eels
+NRL	2020	17	Cowboys	Dragons
+NRL	2020	18	Wests Tigers	Rabbitohs
+NRL	2020	18	Bulldogs	Sea Eagles
+NRL	2020	18	Panthers	Eels
+NRL	2020	18	Dragons	Raiders
+NRL	2020	18	Titans	Broncos
+NRL	2020	18	Roosters	Knights
+NRL	2020	18	Storm	Cowboys
+NRL	2020	18	Sharks	Warriors
+NRL	2020	19	Rabbitohs	Bulldogs
+NRL	2020	19	Cowboys	Panthers
+NRL	2020	19	Eels	Broncos
+NRL	2020	19	Sea Eagles	Titans
+NRL	2020	19	Storm	Wests Tigers
+NRL	2020	19	Roosters	Sharks
+NRL	2020	19	Raiders	Warriors
+NRL	2020	19	Knights	Dragons
+NRL	2020	20	Broncos	Cowboys
+NRL	2020	20	Titans	Knights
+NRL	2020	20	Rabbitohs	Roosters
+NRL	2020	20	Bulldogs	Panthers
+NRL	2020	20	Sharks	Raiders
+NRL	2020	20	Wests Tigers	Eels
+NRL	2020	20	Warriors	Sea Eagles
+NRL	2020	20	Dragons	Storm
+NRL	2020	finals-week-1	Panthers	Roosters
+NRL	2020	finals-week-1	Raiders	Sharks
+NRL	2020	finals-week-1	Storm	Eels
+NRL	2020	finals-week-1	Rabbitohs	Knights
+NRL	2020	finals-week-2	Roosters	Raiders
+NRL	2020	finals-week-2	Eels	Rabbitohs
+NRL	2020	finals-week-3	Storm	Raiders
+NRL	2020	finals-week-3	Panthers	Rabbitohs
+NRL	2020	grand-final	Panthers	Storm
+NRL	2021	1	Storm	Rabbitohs
+NRL	2021	1	Knights	Bulldogs
+NRL	2021	1	Broncos	Eels
+NRL	2021	1	Warriors	Titans
+NRL	2021	1	Roosters	Sea Eagles
+NRL	2021	1	Panthers	Cowboys
+NRL	2021	1	Raiders	Wests Tigers
+NRL	2021	1	Dragons	Sharks
+NRL	2021	2	Eels	Storm
+NRL	2021	2	Warriors	Knights
+NRL	2021	2	Titans	Broncos
+NRL	2021	2	Bulldogs	Panthers
+NRL	2021	2	Sea Eagles	Rabbitohs
+NRL	2021	2	Cowboys	Dragons
+NRL	2021	2	Wests Tigers	Roosters
+NRL	2021	2	Sharks	Raiders
+NRL	2021	3	Panthers	Storm
+NRL	2021	3	Dragons	Sea Eagles
+NRL	2021	3	Rabbitohs	Roosters
+NRL	2021	3	Raiders	Warriors
+NRL	2021	3	Broncos	Bulldogs
+NRL	2021	3	Eels	Sharks
+NRL	2021	3	Knights	Wests Tigers
+NRL	2021	3	Cowboys	Titans
+NRL	2021	4	Sea Eagles	Panthers
+NRL	2021	4	Bulldogs	Rabbitohs
+NRL	2021	4	Storm	Broncos
+NRL	2021	4	Sharks	Cowboys
+NRL	2021	4	Titans	Raiders
+NRL	2021	4	Knights	Dragons
+NRL	2021	4	Roosters	Warriors
+NRL	2021	4	Wests Tigers	Eels
+NRL	2021	5	Rabbitohs	Broncos
+NRL	2021	5	Warriors	Sea Eagles
+NRL	2021	5	Panthers	Raiders
+NRL	2021	5	Titans	Knights
+NRL	2021	5	Bulldogs	Storm
+NRL	2021	5	Roosters	Sharks
+NRL	2021	5	Wests Tigers	Cowboys
+NRL	2021	5	Eels	Dragons
+NRL	2021	6	Broncos	Panthers
+NRL	2021	6	Knights	Sharks
+NRL	2021	6	Storm	Roosters
+NRL	2021	6	Sea Eagles	Titans
+NRL	2021	6	Rabbitohs	Wests Tigers
+NRL	2021	6	Raiders	Eels
+NRL	2021	6	Dragons	Warriors
+NRL	2021	6	Cowboys	Bulldogs
+NRL	2021	7	Panthers	Knights
+NRL	2021	7	Titans	Rabbitohs
+NRL	2021	7	Eels	Broncos
+NRL	2021	7	Sharks	Bulldogs
+NRL	2021	7	Cowboys	Raiders
+NRL	2021	7	Wests Tigers	Sea Eagles
+NRL	2021	7	Roosters	Dragons
+NRL	2021	7	Storm	Warriors
+NRL	2021	8	Raiders	Rabbitohs
+NRL	2021	8	Storm	Sharks
+NRL	2021	8	Broncos	Titans
+NRL	2021	8	Panthers	Sea Eagles
+NRL	2021	8	Bulldogs	Eels
+NRL	2021	8	Knights	Roosters
+NRL	2021	8	Warriors	Cowboys
+NRL	2021	8	Dragons	Wests Tigers
+NRL	2021	9	Rabbitohs	Storm
+NRL	2021	9	Panthers	Sharks
+NRL	2021	9	Eels	Roosters
+NRL	2021	9	Raiders	Knights
+NRL	2021	9	Wests Tigers	Titans
+NRL	2021	9	Cowboys	Broncos
+NRL	2021	9	Sea Eagles	Warriors
+NRL	2021	9	Dragons	Bulldogs
+NRL	2021	10	Wests Tigers	Knights
+NRL	2021	10	Sea Eagles	Broncos
+NRL	2021	10	Bulldogs	Raiders
+NRL	2021	10	Sharks	Rabbitohs
+NRL	2021	10	Roosters	Cowboys
+NRL	2021	10	Warriors	Eels
+NRL	2021	10	Storm	Dragons
+NRL	2021	10	Titans	Panthers
+NRL	2021	11	Cowboys	Knights
+NRL	2021	11	Warriors	Wests Tigers
+NRL	2021	11	Sharks	Dragons
+NRL	2021	11	Titans	Bulldogs
+NRL	2021	11	Roosters	Broncos
+NRL	2021	11	Raiders	Storm
+NRL	2021	11	Rabbitohs	Panthers
+NRL	2021	11	Eels	Sea Eagles
+NRL	2021	12	Broncos	Storm
+NRL	2021	12	Cowboys	Warriors
+NRL	2021	12	Wests Tigers	Dragons
+NRL	2021	12	Panthers	Bulldogs
+NRL	2021	12	Rabbitohs	Eels
+NRL	2021	12	Roosters	Raiders
+NRL	2021	12	Sharks	Titans
+NRL	2021	12	Knights	Sea Eagles
+NRL	2021	13	Dragons	Broncos
+NRL	2021	13	Wests Tigers	Panthers
+NRL	2021	13	Storm	Titans
+NRL	2021	13	Knights	Eels
+NRL	2021	14	Sea Eagles	Cowboys
+NRL	2021	14	Sharks	Panthers
+NRL	2021	14	Titans	Roosters
+NRL	2021	14	Rabbitohs	Knights
+NRL	2021	14	Raiders	Broncos
+NRL	2021	14	Warriors	Storm
+NRL	2021	14	Eels	Wests Tigers
+NRL	2021	14	Bulldogs	Dragons
+NRL	2021	15	Broncos	Rabbitohs
+NRL	2021	15	Cowboys	Sharks
+NRL	2021	15	Panthers	Roosters
+NRL	2021	15	Knights	Warriors
+NRL	2021	15	Dragons	Raiders
+NRL	2021	15	Storm	Wests Tigers
+NRL	2021	15	Eels	Bulldogs
+NRL	2021	15	Titans	Sea Eagles
+NRL	2021	16	Roosters	Storm
+NRL	2021	16	Warriors	Dragons
+NRL	2021	16	Panthers	Eels
+NRL	2021	16	Bulldogs	Sea Eagles
+NRL	2021	16	Raiders	Titans
+NRL	2021	16	Knights	Cowboys
+NRL	2021	16	Broncos	Sharks
+NRL	2021	16	Wests Tigers	Rabbitohs
+NRL	2021	17	Sea Eagles	Raiders
+NRL	2021	17	Rabbitohs	Cowboys
+NRL	2021	17	Bulldogs	Roosters
+NRL	2021	17	Sharks	Warriors
+NRL	2021	18	Titans	Eels
+NRL	2021	18	Sea Eagles	Dragons
+NRL	2021	18	Cowboys	Roosters
+NRL	2021	18	Raiders	Sharks
+NRL	2021	18	Storm	Knights
+NRL	2021	18	Warriors	Panthers
+NRL	2021	18	Broncos	Wests Tigers
+NRL	2021	18	Rabbitohs	Bulldogs
+NRL	2021	19	Eels	Raiders
+NRL	2021	19	Roosters	Knights
+NRL	2021	19	Cowboys	Storm
+NRL	2021	19	Rabbitohs	Warriors
+NRL	2021	19	Sea Eagles	Wests Tigers
+NRL	2021	19	Panthers	Broncos
+NRL	2021	19	Dragons	Titans
+NRL	2021	19	Bulldogs	Sharks
+NRL	2021	20	Roosters	Eels
+NRL	2021	20	Wests Tigers	Warriors
+NRL	2021	20	Broncos	Cowboys
+NRL	2021	20	Knights	Raiders
+NRL	2021	20	Storm	Panthers
+NRL	2021	20	Dragons	Rabbitohs
+NRL	2021	20	Bulldogs	Titans
+NRL	2021	20	Sharks	Sea Eagles
+NRL	2021	21	Knights	Broncos
+NRL	2021	21	Raiders	Dragons
+NRL	2021	21	Eels	Rabbitohs
+NRL	2021	21	Warriors	Sharks
+NRL	2021	21	Roosters	Panthers
+NRL	2021	21	Sea Eagles	Storm
+NRL	2021	21	Bulldogs	Wests Tigers
+NRL	2021	21	Titans	Cowboys
+NRL	2021	22	Storm	Raiders
+NRL	2021	22	Dragons	Panthers
+NRL	2021	22	Broncos	Roosters
+NRL	2021	22	Rabbitohs	Titans
+NRL	2021	22	Cowboys	Wests Tigers
+NRL	2021	22	Sea Eagles	Eels
+NRL	2021	22	Warriors	Bulldogs
+NRL	2021	22	Sharks	Knights
+NRL	2021	23	Titans	Storm
+NRL	2021	23	Raiders	Sea Eagles
+NRL	2021	23	Panthers	Rabbitohs
+NRL	2021	23	Wests Tigers	Sharks
+NRL	2021	23	Bulldogs	Knights
+NRL	2021	23	Eels	Cowboys
+NRL	2021	23	Dragons	Roosters
+NRL	2021	23	Broncos	Warriors
+NRL	2021	24	Knights	Titans
+NRL	2021	24	Warriors	Raiders
+NRL	2021	24	Roosters	Rabbitohs
+NRL	2021	24	Dragons	Cowboys
+NRL	2021	24	Sharks	Broncos
+NRL	2021	24	Storm	Eels
+NRL	2021	24	Sea Eagles	Bulldogs
+NRL	2021	24	Panthers	Wests Tigers
+NRL	2021	25	Raiders	Roosters
+NRL	2021	25	Sharks	Storm
+NRL	2021	25	Eels	Panthers
+NRL	2021	25	Broncos	Knights
+NRL	2021	25	Cowboys	Sea Eagles
+NRL	2021	25	Rabbitohs	Dragons
+NRL	2021	25	Titans	Warriors
+NRL	2021	25	Wests Tigers	Bulldogs
+NRL	2021	finals-week-1	Storm	Sea Eagles
+NRL	2021	finals-week-1	Roosters	Titans
+NRL	2021	finals-week-1	Panthers	Rabbitohs
+NRL	2021	finals-week-1	Eels	Knights
+NRL	2021	finals-week-2	Sea Eagles	Roosters
+NRL	2021	finals-week-2	Panthers	Eels
+NRL	2021	finals-week-3	Rabbitohs	Sea Eagles
+NRL	2021	finals-week-3	Storm	Panthers
+NRL	2021	grand-final	Panthers	Rabbitohs
+NRL	2022	1	Panthers	Sea Eagles
+NRL	2022	1	Raiders	Sharks
+NRL	2022	1	Broncos	Rabbitohs
+NRL	2022	1	Roosters	Knights
+NRL	2022	1	Warriors	Dragons
+NRL	2022	1	Wests Tigers	Storm
+NRL	2022	1	Eels	Titans
+NRL	2022	1	Cowboys	Bulldogs
+NRL	2022	2	Storm	Rabbitohs
+NRL	2022	2	Dragons	Panthers
+NRL	2022	2	Roosters	Sea Eagles
+NRL	2022	2	Titans	Warriors
+NRL	2022	2	Sharks	Eels
+NRL	2022	2	Cowboys	Raiders
+NRL	2022	2	Knights	Wests Tigers
+NRL	2022	2	Bulldogs	Broncos
+NRL	2022	3	Dragons	Sharks
+NRL	2022	3	Wests Tigers	Warriors
+NRL	2022	3	Rabbitohs	Roosters
+NRL	2022	3	Panthers	Knights
+NRL	2022	3	Storm	Eels
+NRL	2022	3	Raiders	Titans
+NRL	2022	3	Broncos	Cowboys
+NRL	2022	3	Sea Eagles	Bulldogs
+NRL	2022	4	Titans	Wests Tigers
+NRL	2022	4	Sharks	Knights
+NRL	2022	4	Panthers	Rabbitohs
+NRL	2022	4	Warriors	Broncos
+NRL	2022	4	Sea Eagles	Raiders
+NRL	2022	4	Cowboys	Roosters
+NRL	2022	4	Storm	Bulldogs
+NRL	2022	4	Eels	Dragons
+NRL	2022	5	Knights	Sea Eagles
+NRL	2022	5	Warriors	Cowboys
+NRL	2022	5	Broncos	Roosters
+NRL	2022	5	Raiders	Storm
+NRL	2022	5	Rabbitohs	Dragons
+NRL	2022	5	Titans	Eels
+NRL	2022	5	Sharks	Wests Tigers
+NRL	2022	5	Bulldogs	Panthers
+NRL	2022	6	Raiders	Cowboys
+NRL	2022	6	Rabbitohs	Bulldogs
+NRL	2022	6	Panthers	Broncos
+NRL	2022	6	Sea Eagles	Titans
+NRL	2022	6	Storm	Sharks
+NRL	2022	6	Roosters	Warriors
+NRL	2022	6	Dragons	Knights
+NRL	2022	6	Eels	Wests Tigers
+NRL	2022	7	Sharks	Sea Eagles
+NRL	2022	7	Broncos	Bulldogs
+NRL	2022	7	Cowboys	Titans
+NRL	2022	7	Wests Tigers	Rabbitohs
+NRL	2022	7	Knights	Eels
+NRL	2022	7	Panthers	Raiders
+NRL	2022	7	Dragons	Roosters
+NRL	2022	7	Storm	Warriors
+NRL	2022	8	Broncos	Sharks
+NRL	2022	8	Titans	Panthers
+NRL	2022	8	Rabbitohs	Sea Eagles
+NRL	2022	8	Warriors	Raiders
+NRL	2022	8	Bulldogs	Roosters
+NRL	2022	8	Eels	Cowboys
+NRL	2022	8	Knights	Storm
+NRL	2022	8	Dragons	Wests Tigers
+NRL	2022	9	Rabbitohs	Broncos
+NRL	2022	9	Raiders	Bulldogs
+NRL	2022	9	Panthers	Eels
+NRL	2022	9	Sea Eagles	Wests Tigers
+NRL	2022	9	Roosters	Titans
+NRL	2022	9	Cowboys	Knights
+NRL	2022	9	Storm	Dragons
+NRL	2022	9	Sharks	Warriors
+NRL	2022	10	Bulldogs	Knights
+NRL	2022	10	Sea Eagles	Broncos
+NRL	2022	10	Warriors	Rabbitohs
+NRL	2022	10	Titans	Dragons
+NRL	2022	10	Storm	Panthers
+NRL	2022	10	Sharks	Raiders
+NRL	2022	10	Roosters	Eels
+NRL	2022	10	Wests Tigers	Cowboys
+NRL	2022	11	Knights	Broncos
+NRL	2022	11	Wests Tigers	Bulldogs
+NRL	2022	11	Eels	Sea Eagles
+NRL	2022	11	Dragons	Warriors
+NRL	2022	11	Cowboys	Storm
+NRL	2022	11	Roosters	Panthers
+NRL	2022	11	Rabbitohs	Raiders
+NRL	2022	11	Titans	Sharks
+NRL	2022	12	Storm	Sea Eagles
+NRL	2022	12	Panthers	Cowboys
+NRL	2022	12	Broncos	Titans
+NRL	2022	12	Warriors	Knights
+NRL	2022	12	Rabbitohs	Wests Tigers
+NRL	2022	12	Sharks	Roosters
+NRL	2022	12	Bulldogs	Dragons
+NRL	2022	12	Raiders	Eels
+NRL	2022	13	Titans	Cowboys
+NRL	2022	13	Panthers	Bulldogs
+NRL	2022	13	Sea Eagles	Warriors
+NRL	2022	13	Raiders	Roosters
+NRL	2022	14	Cowboys	Dragons
+NRL	2022	14	Titans	Rabbitohs
+NRL	2022	14	Roosters	Storm
+NRL	2022	14	Broncos	Raiders
+NRL	2022	14	Wests Tigers	Sea Eagles
+NRL	2022	14	Knights	Panthers
+NRL	2022	14	Warriors	Sharks
+NRL	2022	14	Bulldogs	Eels
+NRL	2022	15	Dragons	Rabbitohs
+NRL	2022	15	Sea Eagles	Cowboys
+NRL	2022	15	Storm	Broncos
+NRL	2022	15	Sharks	Titans
+NRL	2022	15	Warriors	Panthers
+NRL	2022	15	Eels	Roosters
+NRL	2022	15	Raiders	Knights
+NRL	2022	15	Bulldogs	Wests Tigers
+NRL	2022	16	Sea Eagles	Storm
+NRL	2022	16	Knights	Titans
+NRL	2022	16	Panthers	Roosters
+NRL	2022	16	Bulldogs	Sharks
+NRL	2022	16	Cowboys	Broncos
+NRL	2022	16	Rabbitohs	Eels
+NRL	2022	16	Warriors	Wests Tigers
+NRL	2022	16	Dragons	Raiders
+NRL	2022	17	Sharks	Storm
+NRL	2022	17	Knights	Rabbitohs
+NRL	2022	17	Wests Tigers	Eels
+NRL	2022	17	Broncos	Dragons
+NRL	2022	18	Cowboys	Sharks
+NRL	2022	18	Eels	Warriors
+NRL	2022	18	Roosters	Dragons
+NRL	2022	18	Sea Eagles	Knights
+NRL	2022	18	Titans	Broncos
+NRL	2022	18	Wests Tigers	Panthers
+NRL	2022	18	Storm	Raiders
+NRL	2022	18	Bulldogs	Rabbitohs
+NRL	2022	19	Eels	Broncos
+NRL	2022	19	Dragons	Sea Eagles
+NRL	2022	19	Knights	Roosters
+NRL	2022	19	Raiders	Warriors
+NRL	2022	19	Panthers	Sharks
+NRL	2022	19	Rabbitohs	Storm
+NRL	2022	19	Bulldogs	Titans
+NRL	2022	19	Cowboys	Wests Tigers
+NRL	2022	20	Sea Eagles	Roosters
+NRL	2022	20	Warriors	Storm
+NRL	2022	20	Eels	Panthers
+NRL	2022	20	Titans	Raiders
+NRL	2022	20	Sharks	Rabbitohs
+NRL	2022	20	Broncos	Wests Tigers
+NRL	2022	20	Knights	Bulldogs
+NRL	2022	20	Dragons	Cowboys
+NRL	2022	21	Roosters	Broncos
+NRL	2022	21	Storm	Titans
+NRL	2022	21	Sea Eagles	Eels
+NRL	2022	21	Rabbitohs	Warriors
+NRL	2022	21	Raiders	Panthers
+NRL	2022	21	Sharks	Dragons
+NRL	2022	21	Bulldogs	Cowboys
+NRL	2022	21	Wests Tigers	Knights
+NRL	2022	22	Panthers	Storm
+NRL	2022	22	Warriors	Bulldogs
+NRL	2022	22	Eels	Rabbitohs
+NRL	2022	22	Roosters	Cowboys
+NRL	2022	22	Wests Tigers	Sharks
+NRL	2022	22	Broncos	Knights
+NRL	2022	22	Raiders	Dragons
+NRL	2022	22	Titans	Sea Eagles
+NRL	2022	23	Rabbitohs	Panthers
+NRL	2022	23	Cowboys	Warriors
+NRL	2022	23	Broncos	Storm
+NRL	2022	23	Eels	Bulldogs
+NRL	2022	23	Sea Eagles	Sharks
+NRL	2022	23	Roosters	Wests Tigers
+NRL	2022	23	Dragons	Titans
+NRL	2022	23	Knights	Raiders
+NRL	2022	24	Broncos	Eels
+NRL	2022	24	Panthers	Warriors
+NRL	2022	24	Storm	Roosters
+NRL	2022	24	Raiders	Sea Eagles
+NRL	2022	24	Sharks	Bulldogs
+NRL	2022	24	Rabbitohs	Cowboys
+NRL	2022	24	Wests Tigers	Dragons
+NRL	2022	24	Titans	Knights
+NRL	2022	25	Eels	Storm
+NRL	2022	25	Bulldogs	Sea Eagles
+NRL	2022	25	Roosters	Rabbitohs
+NRL	2022	25	Warriors	Titans
+NRL	2022	25	Dragons	Broncos
+NRL	2022	25	Cowboys	Panthers
+NRL	2022	25	Knights	Sharks
+NRL	2022	25	Wests Tigers	Raiders
+NRL	2022	finals-week-1	Panthers	Eels
+NRL	2022	finals-week-1	Storm	Raiders
+NRL	2022	finals-week-1	Sharks	Cowboys
+NRL	2022	finals-week-1	Roosters	Rabbitohs
+NRL	2022	finals-week-2	Eels	Raiders
+NRL	2022	finals-week-2	Sharks	Rabbitohs
+NRL	2022	finals-week-3	Cowboys	Eels
+NRL	2022	finals-week-3	Panthers	Rabbitohs
+NRL	2022	grand-final	Panthers	Eels
+NRL	2023	1	Eels	Storm
+NRL	2023	1	Warriors	Knights
+NRL	2023	1	Panthers	Broncos
+NRL	2023	1	Sea Eagles	Bulldogs
+NRL	2023	1	Cowboys	Raiders
+NRL	2023	1	Sharks	Rabbitohs
+NRL	2023	1	Dolphins	Roosters
+NRL	2023	1	Wests Tigers	Titans
+NRL	2023	2	Panthers	Rabbitohs
+NRL	2023	2	Eels	Sharks
+NRL	2023	2	Broncos	Cowboys
+NRL	2023	2	Roosters	Warriors
+NRL	2023	2	Dolphins	Raiders
+NRL	2023	2	Storm	Bulldogs
+NRL	2023	2	Wests Tigers	Knights
+NRL	2023	2	Dragons	Titans
+NRL	2023	3	Sea Eagles	Eels
+NRL	2023	3	Knights	Dolphins
+NRL	2023	3	Roosters	Rabbitohs
+NRL	2023	3	Titans	Storm
+NRL	2023	3	Cowboys	Warriors
+NRL	2023	3	Broncos	Dragons
+NRL	2023	3	Bulldogs	Wests Tigers
+NRL	2023	3	Raiders	Sharks
+NRL	2023	4	Eels	Panthers
+NRL	2023	4	Storm	Wests Tigers
+NRL	2023	4	Dolphins	Broncos
+NRL	2023	4	Cowboys	Titans
+NRL	2023	4	Rabbitohs	Sea Eagles
+NRL	2023	4	Warriors	Bulldogs
+NRL	2023	4	Knights	Raiders
+NRL	2023	4	Dragons	Sharks
+NRL	2023	5	Roosters	Eels
+NRL	2023	5	Raiders	Panthers
+NRL	2023	5	Rabbitohs	Storm
+NRL	2023	5	Sea Eagles	Knights
+NRL	2023	5	Dragons	Dolphins
+NRL	2023	5	Broncos	Wests Tigers
+NRL	2023	5	Sharks	Warriors
+NRL	2023	5	Bulldogs	Cowboys
+NRL	2023	6	Storm	Roosters
+NRL	2023	6	Bulldogs	Rabbitohs
+NRL	2023	6	Cowboys	Dolphins
+NRL	2023	6	Panthers	Sea Eagles
+NRL	2023	6	Broncos	Raiders
+NRL	2023	6	Titans	Dragons
+NRL	2023	6	Knights	Warriors
+NRL	2023	6	Wests Tigers	Eels
+NRL	2023	7	Dolphins	Rabbitohs
+NRL	2023	7	Sharks	Roosters
+NRL	2023	7	Sea Eagles	Storm
+NRL	2023	7	Warriors	Cowboys
+NRL	2023	7	Knights	Panthers
+NRL	2023	7	Titans	Broncos
+NRL	2023	7	Raiders	Dragons
+NRL	2023	7	Eels	Bulldogs
+NRL	2023	8	Rabbitohs	Panthers
+NRL	2023	8	Eels	Broncos
+NRL	2023	8	Bulldogs	Sharks
+NRL	2023	8	Cowboys	Knights
+NRL	2023	8	Dolphins	Titans
+NRL	2023	8	Wests Tigers	Sea Eagles
+NRL	2023	8	Roosters	Dragons
+NRL	2023	8	Storm	Warriors
+NRL	2023	9	Sharks	Cowboys
+NRL	2023	9	Eels	Knights
+NRL	2023	9	Broncos	Rabbitohs
+NRL	2023	9	Raiders	Dolphins
+NRL	2023	9	Sea Eagles	Titans
+NRL	2023	9	Panthers	Wests Tigers
+NRL	2023	9	Warriors	Roosters
+NRL	2023	9	Dragons	Bulldogs
+NRL	2023	10	Bulldogs	Raiders
+NRL	2023	10	Sea Eagles	Broncos
+NRL	2023	10	Warriors	Panthers
+NRL	2023	10	Sharks	Dolphins
+NRL	2023	10	Storm	Rabbitohs
+NRL	2023	10	Wests Tigers	Dragons
+NRL	2023	10	Roosters	Cowboys
+NRL	2023	10	Titans	Eels
+NRL	2023	11	Storm	Broncos
+NRL	2023	11	Bulldogs	Warriors
+NRL	2023	11	Panthers	Roosters
+NRL	2023	11	Rabbitohs	Wests Tigers
+NRL	2023	11	Cowboys	Dragons
+NRL	2023	11	Raiders	Eels
+NRL	2023	11	Knights	Titans
+NRL	2023	11	Sea Eagles	Sharks
+NRL	2023	12	Broncos	Panthers
+NRL	2023	12	Dragons	Roosters
+NRL	2023	12	Rabbitohs	Eels
+NRL	2023	12	Sharks	Knights
+NRL	2023	12	Wests Tigers	Cowboys
+NRL	2023	12	Dolphins	Storm
+NRL	2023	12	Bulldogs	Titans
+NRL	2023	12	Raiders	Sea Eagles
+NRL	2023	13	Dolphins	Dragons
+NRL	2023	13	Eels	Cowboys
+NRL	2023	13	Warriors	Broncos
+NRL	2023	13	Rabbitohs	Raiders
+NRL	2023	13	Knights	Sea Eagles
+NRL	2023	14	Wests Tigers	Raiders
+NRL	2023	14	Warriors	Dolphins
+NRL	2023	14	Titans	Rabbitohs
+NRL	2023	14	Sharks	Broncos
+NRL	2023	14	Roosters	Bulldogs
+NRL	2023	14	Cowboys	Storm
+NRL	2023	14	Panthers	Dragons
+NRL	2023	15	Titans	Wests Tigers
+NRL	2023	15	Raiders	Warriors
+NRL	2023	15	Sea Eagles	Dolphins
+NRL	2023	15	Dragons	Rabbitohs
+NRL	2023	15	Broncos	Knights
+NRL	2023	15	Roosters	Panthers
+NRL	2023	15	Storm	Sharks
+NRL	2023	15	Bulldogs	Eels
+NRL	2023	16	Cowboys	Panthers
+NRL	2023	16	Knights	Roosters
+NRL	2023	16	Eels	Sea Eagles
+NRL	2023	16	Wests Tigers	Storm
+NRL	2023	16	Sharks	Bulldogs
+NRL	2023	17	Dragons	Warriors
+NRL	2023	17	Dolphins	Eels
+NRL	2023	17	Panthers	Knights
+NRL	2023	17	Storm	Sea Eagles
+NRL	2023	17	Broncos	Titans
+NRL	2023	17	Rabbitohs	Cowboys
+NRL	2023	17	Roosters	Raiders
+NRL	2023	18	Sharks	Dragons
+NRL	2023	18	Warriors	Rabbitohs
+NRL	2023	18	Storm	Panthers
+NRL	2023	18	Raiders	Titans
+NRL	2023	18	Cowboys	Wests Tigers
+NRL	2023	18	Broncos	Dolphins
+NRL	2023	18	Bulldogs	Knights
+NRL	2023	18	Sea Eagles	Roosters
+NRL	2023	19	Wests Tigers	Sharks
+NRL	2023	19	Dragons	Raiders
+NRL	2023	19	Eels	Warriors
+NRL	2023	19	Rabbitohs	Bulldogs
+NRL	2023	19	Titans	Dolphins
+NRL	2023	20	Knights	Wests Tigers
+NRL	2023	20	Bulldogs	Broncos
+NRL	2023	20	Sea Eagles	Cowboys
+NRL	2023	20	Roosters	Storm
+NRL	2023	20	Warriors	Sharks
+NRL	2023	20	Dolphins	Panthers
+NRL	2023	20	Eels	Titans
+NRL	2023	21	Dragons	Wests Tigers
+NRL	2023	21	Warriors	Raiders
+NRL	2023	21	Rabbitohs	Broncos
+NRL	2023	21	Titans	Roosters
+NRL	2023	21	Knights	Storm
+NRL	2023	21	Cowboys	Eels
+NRL	2023	21	Panthers	Bulldogs
+NRL	2023	21	Sharks	Sea Eagles
+NRL	2023	22	Broncos	Roosters
+NRL	2023	22	Wests Tigers	Rabbitohs
+NRL	2023	22	Storm	Eels
+NRL	2023	22	Raiders	Knights
+NRL	2023	22	Dragons	Sea Eagles
+NRL	2023	22	Panthers	Sharks
+NRL	2023	22	Bulldogs	Dolphins
+NRL	2023	22	Titans	Cowboys
+NRL	2023	23	Roosters	Sea Eagles
+NRL	2023	23	Titans	Warriors
+NRL	2023	23	Panthers	Storm
+NRL	2023	23	Cowboys	Broncos
+NRL	2023	23	Dolphins	Knights
+NRL	2023	23	Rabbitohs	Sharks
+NRL	2023	23	Eels	Dragons
+NRL	2023	23	Raiders	Wests Tigers
+NRL	2023	24	Sea Eagles	Panthers
+NRL	2023	24	Sharks	Titans
+NRL	2023	24	Broncos	Eels
+NRL	2023	24	Rabbitohs	Dragons
+NRL	2023	24	Wests Tigers	Warriors
+NRL	2023	24	Roosters	Dolphins
+NRL	2023	24	Storm	Raiders
+NRL	2023	24	Knights	Bulldogs
+NRL	2023	25	Cowboys	Sharks
+NRL	2023	25	Warriors	Sea Eagles
+NRL	2023	25	Eels	Roosters
+NRL	2023	25	Wests Tigers	Dolphins
+NRL	2023	25	Titans	Panthers
+NRL	2023	25	Dragons	Storm
+NRL	2023	25	Knights	Rabbitohs
+NRL	2023	25	Raiders	Bulldogs
+NRL	2023	26	Panthers	Eels
+NRL	2023	26	Warriors	Dragons
+NRL	2023	26	Dolphins	Cowboys
+NRL	2023	26	Storm	Titans
+NRL	2023	26	Roosters	Wests Tigers
+NRL	2023	26	Raiders	Broncos
+NRL	2023	26	Bulldogs	Sea Eagles
+NRL	2023	26	Knights	Sharks
+NRL	2023	27	Broncos	Storm
+NRL	2023	27	Sea Eagles	Wests Tigers
+NRL	2023	27	Rabbitohs	Roosters
+NRL	2023	27	Dolphins	Warriors
+NRL	2023	27	Panthers	Cowboys
+NRL	2023	27	Dragons	Knights
+NRL	2023	27	Titans	Bulldogs
+NRL	2023	27	Sharks	Raiders
+NRL	2023	finals-week-1	Broncos	Storm
+NRL	2023	finals-week-1	Panthers	Warriors
+NRL	2023	finals-week-1	Sharks	Roosters
+NRL	2023	finals-week-1	Knights	Raiders
+NRL	2023	finals-week-2	Storm	Roosters
+NRL	2023	finals-week-2	Warriors	Knights
+NRL	2023	finals-week-3	Panthers	Storm
+NRL	2023	finals-week-3	Broncos	Warriors
+NRL	2023	grand-final	Panthers	Broncos
+NRL	2024	1	Sea Eagles	Rabbitohs
+NRL	2024	1	Roosters	Broncos
+NRL	2024	1	Knights	Raiders
+NRL	2024	1	Warriors	Sharks
+NRL	2024	1	Storm	Panthers
+NRL	2024	1	Eels	Bulldogs
+NRL	2024	1	Titans	Dragons
+NRL	2024	1	Dolphins	Cowboys
+NRL	2024	2	Broncos	Rabbitohs
+NRL	2024	2	Sharks	Bulldogs
+NRL	2024	2	Panthers	Eels
+NRL	2024	2	Raiders	Wests Tigers
+NRL	2024	2	Cowboys	Knights
+NRL	2024	2	Storm	Warriors
+NRL	2024	2	Sea Eagles	Roosters
+NRL	2024	2	Dolphins	Dragons
+NRL	2024	3	Panthers	Broncos
+NRL	2024	3	Warriors	Raiders
+NRL	2024	3	Roosters	Rabbitohs
+NRL	2024	3	Bulldogs	Titans
+NRL	2024	3	Dragons	Cowboys
+NRL	2024	3	Wests Tigers	Sharks
+NRL	2024	3	Eels	Sea Eagles
+NRL	2024	3	Knights	Storm
+NRL	2024	4	Roosters	Panthers
+NRL	2024	4	Rabbitohs	Bulldogs
+NRL	2024	4	Broncos	Cowboys
+NRL	2024	4	Dragons	Sea Eagles
+NRL	2024	4	Titans	Dolphins
+NRL	2024	4	Warriors	Knights
+NRL	2024	4	Sharks	Raiders
+NRL	2024	4	Eels	Wests Tigers
+NRL	2024	5	Storm	Broncos
+NRL	2024	5	Bulldogs	Roosters
+NRL	2024	5	Knights	Dragons
+NRL	2024	5	Rabbitohs	Warriors
+NRL	2024	5	Sea Eagles	Panthers
+NRL	2024	5	Dolphins	Wests Tigers
+NRL	2024	5	Cowboys	Titans
+NRL	2024	5	Raiders	Eels
+NRL	2024	6	Knights	Roosters
+NRL	2024	6	Storm	Bulldogs
+NRL	2024	6	Broncos	Dolphins
+NRL	2024	6	Warriors	Sea Eagles
+NRL	2024	6	Eels	Cowboys
+NRL	2024	6	Rabbitohs	Sharks
+NRL	2024	6	Wests Tigers	Dragons
+NRL	2024	6	Raiders	Titans
+NRL	2024	7	Roosters	Storm
+NRL	2024	7	Dragons	Warriors
+NRL	2024	7	Eels	Dolphins
+NRL	2024	7	Panthers	Wests Tigers
+NRL	2024	7	Titans	Sea Eagles
+NRL	2024	7	Broncos	Raiders
+NRL	2024	7	Bulldogs	Knights
+NRL	2024	7	Sharks	Cowboys
+NRL	2024	8	Warriors	Titans
+NRL	2024	8	Dragons	Roosters
+NRL	2024	8	Storm	Rabbitohs
+NRL	2024	8	Sea Eagles	Eels
+NRL	2024	8	Wests Tigers	Broncos
+NRL	2024	8	Cowboys	Panthers
+NRL	2024	8	Dolphins	Knights
+NRL	2024	8	Raiders	Sharks
+NRL	2024	9	Rabbitohs	Panthers
+NRL	2024	9	Sea Eagles	Raiders
+NRL	2024	9	Broncos	Roosters
+NRL	2024	9	Bulldogs	Wests Tigers
+NRL	2024	9	Titans	Storm
+NRL	2024	9	Cowboys	Dolphins
+NRL	2024	9	Knights	Warriors
+NRL	2024	9	Sharks	Dragons
+NRL	2024	10	Dolphins	Sea Eagles
+NRL	2024	10	Panthers	Bulldogs
+NRL	2024	10	Eels	Broncos
+NRL	2024	10	Wests Tigers	Knights
+NRL	2024	10	Dragons	Rabbitohs
+NRL	2024	10	Storm	Sharks
+NRL	2024	10	Roosters	Warriors
+NRL	2024	10	Titans	Cowboys
+NRL	2024	11	Raiders	Bulldogs
+NRL	2024	11	Sea Eagles	Broncos
+NRL	2024	11	Titans	Knights
+NRL	2024	11	Sharks	Roosters
+NRL	2024	11	Rabbitohs	Cowboys
+NRL	2024	11	Warriors	Panthers
+NRL	2024	11	Storm	Eels
+NRL	2024	11	Wests Tigers	Dolphins
+NRL	2024	12	Bulldogs	Dragons
+NRL	2024	12	Cowboys	Wests Tigers
+NRL	2024	12	Sea Eagles	Storm
+NRL	2024	12	Raiders	Roosters
+NRL	2024	12	Sharks	Panthers
+NRL	2024	12	Rabbitohs	Eels
+NRL	2024	12	Broncos	Titans
+NRL	2024	12	Warriors	Dolphins
+NRL	2024	13	Eels	Sharks
+NRL	2024	13	Knights	Bulldogs
+NRL	2024	13	Panthers	Dragons
+NRL	2024	13	Dolphins	Raiders
+NRL	2024	13	Roosters	Cowboys
+NRL	2024	14	Dragons	Wests Tigers
+NRL	2024	14	Titans	Rabbitohs
+NRL	2024	14	Cowboys	Warriors
+NRL	2024	14	Broncos	Sharks
+NRL	2024	14	Storm	Knights
+NRL	2024	14	Panthers	Sea Eagles
+NRL	2024	14	Bulldogs	Eels
+NRL	2024	15	Sharks	Dolphins
+NRL	2024	15	Raiders	Cowboys
+NRL	2024	15	Rabbitohs	Broncos
+NRL	2024	15	Wests Tigers	Titans
+NRL	2024	15	Warriors	Storm
+NRL	2024	15	Eels	Roosters
+NRL	2024	15	Sea Eagles	Dragons
+NRL	2024	15	Knights	Panthers
+NRL	2024	16	Dolphins	Storm
+NRL	2024	16	Titans	Warriors
+NRL	2024	16	Roosters	Bulldogs
+NRL	2024	16	Rabbitohs	Sea Eagles
+NRL	2024	16	Wests Tigers	Raiders
+NRL	2024	17	Bulldogs	Sharks
+NRL	2024	17	Warriors	Broncos
+NRL	2024	17	Knights	Eels
+NRL	2024	17	Storm	Raiders
+NRL	2024	17	Dragons	Dolphins
+NRL	2024	17	Panthers	Cowboys
+NRL	2024	17	Roosters	Wests Tigers
+NRL	2024	18	Eels	Rabbitohs
+NRL	2024	18	Sharks	Titans
+NRL	2024	18	Broncos	Panthers
+NRL	2024	18	Bulldogs	Warriors
+NRL	2024	18	Wests Tigers	Storm
+NRL	2024	18	Cowboys	Sea Eagles
+NRL	2024	18	Roosters	Dragons
+NRL	2024	18	Raiders	Knights
+NRL	2024	19	Dolphins	Rabbitohs
+NRL	2024	19	Sharks	Wests Tigers
+NRL	2024	19	Titans	Eels
+NRL	2024	19	Broncos	Dragons
+NRL	2024	19	Sea Eagles	Knights
+NRL	2024	20	Raiders	Warriors
+NRL	2024	20	Rabbitohs	Wests Tigers
+NRL	2024	20	Knights	Broncos
+NRL	2024	20	Storm	Roosters
+NRL	2024	20	Panthers	Dolphins
+NRL	2024	20	Sea Eagles	Titans
+NRL	2024	20	Cowboys	Bulldogs
+NRL	2024	21	Warriors	Wests Tigers
+NRL	2024	21	Eels	Storm
+NRL	2024	21	Broncos	Bulldogs
+NRL	2024	21	Cowboys	Sharks
+NRL	2024	21	Roosters	Sea Eagles
+NRL	2024	21	Dragons	Panthers
+NRL	2024	21	Dolphins	Titans
+NRL	2024	21	Raiders	Rabbitohs
+NRL	2024	22	Wests Tigers	Cowboys
+NRL	2024	22	Warriors	Eels
+NRL	2024	22	Dolphins	Roosters
+NRL	2024	22	Titans	Broncos
+NRL	2024	22	Storm	Dragons
+NRL	2024	22	Sharks	Rabbitohs
+NRL	2024	22	Panthers	Knights
+NRL	2024	22	Bulldogs	Raiders
+NRL	2024	23	Rabbitohs	Storm
+NRL	2024	23	Titans	Sharks
+NRL	2024	23	Eels	Panthers
+NRL	2024	23	Raiders	Sea Eagles
+NRL	2024	23	Cowboys	Broncos
+NRL	2024	23	Dragons	Bulldogs
+NRL	2024	23	Dolphins	Warriors
+NRL	2024	23	Knights	Wests Tigers
+NRL	2024	24	Panthers	Storm
+NRL	2024	24	Sea Eagles	Warriors
+NRL	2024	24	Roosters	Eels
+NRL	2024	24	Bulldogs	Dolphins
+NRL	2024	24	Cowboys	Raiders
+NRL	2024	24	Wests Tigers	Rabbitohs
+NRL	2024	24	Dragons	Titans
+NRL	2024	24	Sharks	Knights
+NRL	2024	25	Wests Tigers	Sea Eagles
+NRL	2024	25	Warriors	Bulldogs
+NRL	2024	25	Broncos	Eels
+NRL	2024	25	Raiders	Panthers
+NRL	2024	25	Storm	Dolphins
+NRL	2024	25	Rabbitohs	Knights
+NRL	2024	25	Titans	Roosters
+NRL	2024	25	Dragons	Sharks
+NRL	2024	26	Cowboys	Storm
+NRL	2024	26	Bulldogs	Sea Eagles
+NRL	2024	26	Panthers	Rabbitohs
+NRL	2024	26	Eels	Dragons
+NRL	2024	26	Dolphins	Broncos
+NRL	2024	26	Sharks	Warriors
+NRL	2024	26	Knights	Titans
+NRL	2024	26	Roosters	Raiders
+NRL	2024	27	Broncos	Storm
+NRL	2024	27	Wests Tigers	Eels
+NRL	2024	27	Rabbitohs	Roosters
+NRL	2024	27	Dragons	Raiders
+NRL	2024	27	Bulldogs	Cowboys
+NRL	2024	27	Panthers	Titans
+NRL	2024	27	Sea Eagles	Sharks
+NRL	2024	27	Knights	Dolphins
+NRL	2024	finals-week-1	Panthers	Roosters
+NRL	2024	finals-week-1	Storm	Sharks
+NRL	2024	finals-week-1	Cowboys	Knights
+NRL	2024	finals-week-1	Bulldogs	Sea Eagles
+NRL	2024	finals-week-2	Sharks	Cowboys
+NRL	2024	finals-week-2	Roosters	Sea Eagles
+NRL	2024	finals-week-3	Storm	Roosters
+NRL	2024	finals-week-3	Panthers	Sharks
+NRL	2024	grand-final	Storm	Panthers

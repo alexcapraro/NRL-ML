@@ -39,6 +39,14 @@ NRL	2014	5	Dragons vs Rabbitohs	Saturday 5th April	Dragons	6	Rabbitohs	26	Sydney
 NRL	2014	5	Storm vs Titans	Sunday 6th April	Storm	26	Titans	28	AAMI Park, Melbourne
 NRL	2014	5	Wests Tigers vs Sea Eagles	Sunday 6th April	Wests Tigers	34	Sea Eagles	18	Leichhardt Oval, Sydney
 NRL	2014	5	Cowboys vs Knights	Monday 7th April	Cowboys	28	Knights	2	1300SMILES Stadium, Townsville
+NRL	2014	6	Panthers vs Rabbitohs	Friday 11th April	Panthers	2	Rabbitohs	18	Panthers Stadium, Penrith
+NRL	2014	6	Titans vs Broncos	Friday 11th April	Titans	12	Broncos	8	Cbus Super Stadium, Gold Coast
+NRL	2014	6	Raiders vs Knights	Saturday 12th April	Raiders	12	Knights	26	GIO Stadium, Canberra
+NRL	2014	6	Eels vs Roosters	Saturday 12th April	Eels	14	Roosters	12	Bankwest Stadium, Sydney
+NRL	2014	6	Wests Tigers vs Cowboys	Saturday 12th April	Wests Tigers	16	Cowboys	4	Campbelltown Stadium, Sydney
+NRL	2014	6	Warriors vs Bulldogs	Sunday 13th April	Warriors	20	Bulldogs	21	Eden Park, Auckland
+NRL	2014	6	Sea Eagles vs Sharks	Sunday 13th April	Sea Eagles	24	Sharks	4	Lottoland, Sydney
+NRL	2014	6	Storm vs Dragons	Monday 14th April	Storm	28	Dragons	24	AAMI Park, Melbourne
 NRL	2014	7	Rabbitohs vs Bulldogs	Friday 18th April	Rabbitohs	14	Bulldogs	15	ANZ Stadium, Sydney
 NRL	2014	7	Knights vs Broncos	Friday 18th April	Knights	6	Broncos	32	McDonald Jones Stadium, Newcastle
 NRL	2014	7	Sea Eagles vs Cowboys	Friday 18th April	Sea Eagles	26	Cowboys	21	Central Coast Stadium, Central Coast
@@ -63,11 +71,25 @@ NRL	2014	9	Storm vs Sea Eagles	Saturday 10th May	Storm	22	Sea Eagles	19	AAMI Par
 NRL	2014	9	Knights vs Panthers	Sunday 11th May	Knights	10	Panthers	32	McDonald Jones Stadium, Newcastle
 NRL	2014	9	Dragons vs Bulldogs	Sunday 11th May	Dragons	6	Bulldogs	38	ANZ Stadium, Sydney
 NRL	2014	9	Eels vs Sharks	Monday 12th May	Eels	42	Sharks	24	Bankwest Stadium, Sydney
+NRL	2014	10	Rabbitohs vs Storm	Friday 16th May	Rabbitohs	14	Storm	27	ANZ Stadium, Sydney
+NRL	2014	10	Broncos vs Titans	Friday 16th May	Broncos	22	Titans	8	Suncorp Stadium, Brisbane
+NRL	2014	10	Eels vs Dragons	Saturday 17th May	Eels	36	Dragons	0	Bankwest Stadium, Sydney
+NRL	2014	10	Sharks vs Wests Tigers	Saturday 17th May	Sharks	20	Wests Tigers	22	PointsBet Stadium, Sydney
+NRL	2014	10	Cowboys vs Roosters	Saturday 17th May	Cowboys	42	Roosters	10	1300SMILES Stadium, Townsville
+NRL	2014	10	Raiders vs Panthers	Sunday 18th May	Raiders	20	Panthers	26	GIO Stadium, Canberra
+NRL	2014	10	Bulldogs vs Warriors	Sunday 18th May	Bulldogs	16	Warriors	12	FMG Stadium Waikato, Hamilton
+NRL	2014	10	Sea Eagles vs Knights	Monday 19th May	Sea Eagles	15	Knights	14	Lottoland, Sydney
 NRL	2014	11	Bulldogs vs Roosters	Friday 23rd May	Bulldogs	12	Roosters	32	ANZ Stadium, Sydney
 NRL	2014	11	Titans vs Warriors	Saturday 24th May	Titans	16	Warriors	24	Cbus Super Stadium, Gold Coast
 NRL	2014	11	Wests Tigers vs Broncos	Saturday 24th May	Wests Tigers	14	Broncos	16	Campbelltown Stadium, Sydney
 NRL	2014	11	Raiders vs Cowboys	Sunday 25th May	Raiders	42	Cowboys	12	GIO Stadium, Canberra
 NRL	2014	11	Sharks vs Rabbitohs	Monday 26th May	Sharks	0	Rabbitohs	18	PointsBet Stadium, Sydney
+NRL	2014	12	Panthers vs Eels	Friday 30th May	Panthers	38	Eels	12	Panthers Stadium, Penrith
+NRL	2014	12	Roosters vs Raiders	Saturday 31st May	Roosters	26	Raiders	12	Allianz Stadium, Sydney
+NRL	2014	12	Cowboys vs Storm	Saturday 31st May	Cowboys	22	Storm	0	1300SMILES Stadium, Townsville
+NRL	2014	12	Warriors vs Knights	Sunday 1st June	Warriors	38	Knights	18	Mt Smart Stadium, Auckland
+NRL	2014	12	Broncos vs Sea Eagles	Sunday 1st June	Broncos	36	Sea Eagles	10	Suncorp Stadium, Brisbane
+NRL	2014	12	Rabbitohs vs Dragons	Monday 2nd June	Rabbitohs	29	Dragons	10	ANZ Stadium, Sydney
 NRL	2014	13	Sea Eagles vs Bulldogs	Friday 6th June	Sea Eagles	32	Bulldogs	10	Lottoland, Sydney
 NRL	2014	13	Eels vs Cowboys	Friday 6th June	Eels	18	Cowboys	16	Bankwest Stadium, Sydney
 NRL	2014	13	Titans vs Panthers	Saturday 7th June	Titans	14	Panthers	36	Cbus Super Stadium, Gold Coast
@@ -87,6 +109,18 @@ NRL	2014	15	Sharks vs Sea Eagles	Saturday 21st June	Sharks	0	Sea Eagles	26	Point
 NRL	2014	15	Storm vs Eels	Sunday 22nd June	Storm	46	Eels	20	AAMI Park, Melbourne
 NRL	2014	15	Titans vs Dragons	Sunday 22nd June	Titans	18	Dragons	19	Cbus Super Stadium, Gold Coast
 NRL	2014	15	Knights vs Cowboys	Monday 23rd June	Knights	36	Cowboys	28	McDonald Jones Stadium, Newcastle
+NRL	2014	16	Sea Eagles vs Roosters	Friday 27th June	Sea Eagles	24	Roosters	16	Lottoland, Sydney
+NRL	2014	16	Broncos vs Sharks	Friday 27th June	Broncos	22	Sharks	24	Suncorp Stadium, Brisbane
+NRL	2014	16	Wests Tigers vs Raiders	Saturday 28th June	Wests Tigers	19	Raiders	18	Campbelltown Stadium, Sydney
+NRL	2014	16	Cowboys vs Rabbitohs	Saturday 28th June	Cowboys	20	Rabbitohs	18	1300SMILES Stadium, Townsville
+NRL	2014	16	Warriors vs Panthers	Sunday 29th June	Warriors	30	Panthers	20	Mt Smart Stadium, Auckland
+NRL	2014	16	Eels vs Knights	Sunday 29th June	Eels	10	Knights	16	Bankwest Stadium, Sydney
+NRL	2014	16	Dragons vs Storm	Monday 30th June	Dragons	24	Storm	12	WIN Stadium, Wollongong
+NRL	2014	17	Bulldogs vs Sea Eagles	Friday 4th July	Bulldogs	23	Sea Eagles	16	ANZ Stadium, Sydney
+NRL	2014	17	Dragons vs Cowboys	Saturday 5th July	Dragons	27	Cowboys	24	Netstrata Jubilee Stadium, Sydney
+NRL	2014	17	Roosters vs Sharks	Saturday 5th July	Roosters	28	Sharks	30	Allianz Stadium, Sydney
+NRL	2014	17	Wests Tigers vs Panthers	Sunday 6th July	Wests Tigers	10	Panthers	26	Leichhardt Oval, Sydney
+NRL	2014	17	Rabbitohs vs Titans	Monday 7th July	Rabbitohs	10	Titans	14	ANZ Stadium, Sydney
 NRL	2014	18	Sea Eagles vs Wests Tigers	Friday 11th July	Sea Eagles	40	Wests Tigers	8	Lottoland, Sydney
 NRL	2014	18	Warriors vs Eels	Saturday 12th July	Warriors	48	Eels	0	Mt Smart Stadium, Auckland
 NRL	2014	18	Storm vs Bulldogs	Saturday 12th July	Storm	4	Bulldogs	6	AAMI Park, Melbourne
@@ -101,6 +135,14 @@ NRL	2014	19	Broncos vs Warriors	Saturday 19th July	Broncos	28	Warriors	22	Suncor
 NRL	2014	19	Knights vs Titans	Sunday 20th July	Knights	8	Titans	22	McDonald Jones Stadium, Newcastle
 NRL	2014	19	Wests Tigers vs Bulldogs	Sunday 20th July	Wests Tigers	46	Bulldogs	18	ANZ Stadium, Sydney
 NRL	2014	19	Dragons vs Sea Eagles	Monday 21st July	Dragons	12	Sea Eagles	21	Netstrata Jubilee Stadium, Sydney
+NRL	2014	20	Knights vs Roosters	Friday 25th July	Knights	16	Roosters	12	McDonald Jones Stadium, Newcastle
+NRL	2014	20	Broncos vs Storm	Friday 25th July	Broncos	8	Storm	30	Suncorp Stadium, Brisbane
+NRL	2014	20	Panthers vs Sharks	Saturday 26th July	Panthers	16	Sharks	18	Carrington Park, Bathurst
+NRL	2014	20	Titans vs Eels	Saturday 26th July	Titans	18	Eels	24	Cbus Super Stadium, Gold Coast
+NRL	2014	20	Bulldogs vs Cowboys	Saturday 26th July	Bulldogs	12	Cowboys	20	ANZ Stadium, Sydney
+NRL	2014	20	Warriors vs Sea Eagles	Sunday 27th July	Warriors	12	Sea Eagles	22	Mt Smart Stadium, Auckland
+NRL	2014	20	Wests Tigers vs Dragons	Sunday 27th July	Wests Tigers	12	Dragons	28	ANZ Stadium, Sydney
+NRL	2014	20	Raiders vs Rabbitohs	Monday 28th July	Raiders	18	Rabbitohs	34	GIO Stadium, Canberra
 NRL	2014	21	Sea Eagles vs Broncos	Friday 1st August	Sea Eagles	16	Broncos	4	Lottoland, Sydney
 NRL	2014	21	Bulldogs vs Panthers	Friday 1st August	Bulldogs	16	Panthers	22	ANZ Stadium, Sydney
 NRL	2014	21	Sharks vs Eels	Saturday 2nd August	Sharks	12	Eels	32	PointsBet Stadium, Sydney
@@ -133,6 +175,14 @@ NRL	2014	24	Warriors vs Roosters	Sunday 24th August	Warriors	12	Roosters	46	Mt S
 NRL	2014	24	Sharks vs Raiders	Sunday 24th August	Sharks	12	Raiders	22	PointsBet Stadium, Sydney
 NRL	2014	24	Dragons vs Titans	Sunday 24th August	Dragons	34	Titans	6	Netstrata Jubilee Stadium, Sydney
 NRL	2014	24	Panthers vs Storm	Monday 25th August	Panthers	10	Storm	24	Panthers Stadium, Penrith
+NRL	2014	25	Bulldogs vs Rabbitohs	Thursday 28th August	Bulldogs	14	Rabbitohs	21	ANZ Stadium, Sydney
+NRL	2014	25	Broncos vs Dragons	Friday 29th August	Broncos	30	Dragons	22	Suncorp Stadium, Brisbane
+NRL	2014	25	Knights vs Eels	Saturday 30th August	Knights	42	Eels	12	McDonald Jones Stadium, Newcastle
+NRL	2014	25	Raiders vs Wests Tigers	Saturday 30th August	Raiders	27	Wests Tigers	12	GIO Stadium, Canberra
+NRL	2014	25	Roosters vs Storm	Saturday 30th August	Roosters	24	Storm	12	Allianz Stadium, Sydney
+NRL	2014	25	Warriors vs Titans	Sunday 31st August	Warriors	42	Titans	0	Mt Smart Stadium, Auckland
+NRL	2014	25	Sea Eagles vs Panthers	Sunday 31st August	Sea Eagles	26	Panthers	25	Lottoland, Sydney
+NRL	2014	25	Cowboys vs Sharks	Monday 1st September	Cowboys	20	Sharks	19	1300SMILES Stadium, Townsville
 NRL	2014	26	Roosters vs Rabbitohs	Thursday 4th September	Roosters	22	Rabbitohs	18	Allianz Stadium, Sydney
 NRL	2014	26	Storm vs Broncos	Friday 5th September	Storm	22	Broncos	12	AAMI Park, Melbourne
 NRL	2014	26	Wests Tigers vs Sharks	Saturday 6th September	Wests Tigers	26	Sharks	10	Leichhardt Oval, Sydney
@@ -150,7 +200,6 @@ NRL	2014	28	Sea Eagles vs Bulldogs	Saturday 20th September	Sea Eagles	17	Bulldog
 NRL	2014	29	Rabbitohs vs Roosters	Friday 26th September	Rabbitohs	32	Roosters	22	ANZ Stadium, Sydney
 NRL	2014	29	Panthers vs Bulldogs	Saturday 27th September	Panthers	12	Bulldogs	18	ANZ Stadium, Sydney
 NRL	2014	30	Rabbitohs vs Bulldogs	Sunday 5th October	Rabbitohs	30	Bulldogs	6	ANZ Stadium, Sydney
-NRL	2014	31	Rabbitohs vs Bulldogs	Sunday 5th October	Rabbitohs	30	Bulldogs	6	ANZ Stadium, Sydney
 NRL	2015	1	Broncos vs Rabbitohs	Thursday 5th March	Broncos	6	Rabbitohs	36	Suncorp Stadium, Brisbane
 NRL	2015	1	Eels vs Sea Eagles	Friday 6th March	Eels	42	Sea Eagles	12	CommBank Stadium, Sydney
 NRL	2015	1	Knights vs Warriors	Saturday 7th March	Knights	24	Warriors	14	McDonald Jones Stadium, Newcastle
@@ -159,6 +208,14 @@ NRL	2015	1	Cowboys vs Roosters	Saturday 7th March	Cowboys	4	Roosters	28	1300SMIL
 NRL	2015	1	Panthers vs Bulldogs	Sunday 8th March	Panthers	24	Bulldogs	18	BlueBet Stadium, Penrith
 NRL	2015	1	Sharks vs Raiders	Sunday 8th March	Sharks	20	Raiders	24	PointsBet Stadium, Sydney
 NRL	2015	1	Dragons vs Storm	Monday 9th March	Dragons	4	Storm	12	Netstrata Jubilee Stadium, Sydney
+NRL	2015	2	Bulldogs vs Eels	Friday 13th March	Bulldogs	32	Eels	12	Accor Stadium, Sydney
+NRL	2015	2	Sharks vs Broncos	Friday 13th March	Sharks	2	Broncos	10	PointsBet Stadium, Sydney
+NRL	2015	2	Panthers vs Titans	Saturday 14th March	Panthers	40	Titans	0	Carrington Park, Bathurst
+NRL	2015	2	Sea Eagles vs Storm	Saturday 14th March	Sea Eagles	24	Storm	22	4 Pines Park, Sydney
+NRL	2015	2	Cowboys vs Knights	Saturday 14th March	Cowboys	14	Knights	16	1300SMILES Stadium, Townsville
+NRL	2015	2	Rabbitohs vs Roosters	Sunday 15th March	Rabbitohs	34	Roosters	26	Accor Stadium, Sydney
+NRL	2015	2	Raiders vs Warriors	Sunday 15th March	Raiders	6	Warriors	18	GIO Stadium, Canberra
+NRL	2015	2	Wests Tigers vs Dragons	Monday 16th March	Wests Tigers	22	Dragons	4	Campbelltown Sports Stadium, Sydney
 NRL	2015	3	Sea Eagles vs Bulldogs	Friday 20th March	Sea Eagles	12	Bulldogs	16	4 Pines Park, Sydney
 NRL	2015	3	Broncos vs Cowboys	Friday 20th March	Broncos	44	Cowboys	22	Suncorp Stadium, Brisbane
 NRL	2015	3	Warriors vs Eels	Saturday 21st March	Warriors	29	Eels	16	Go Media Stadium, Auckland
@@ -344,7 +401,6 @@ NRL	2015	28	Cowboys vs Sharks	Saturday 19th September	Cowboys	39	Sharks	0	1300SM
 NRL	2015	29	Broncos vs Roosters	Friday 25th September	Broncos	31	Roosters	12	Suncorp Stadium, Brisbane
 NRL	2015	29	Storm vs Cowboys	Saturday 26th September	Storm	12	Cowboys	32	AAMI Park, Melbourne
 NRL	2015	30	Broncos vs Cowboys	Sunday 4th October	Broncos	16	Cowboys	17	Accor Stadium, Sydney
-NRL	2015	31	Broncos vs Cowboys	Sunday 4th October	Broncos	16	Cowboys	17	Accor Stadium, Sydney
 NRL	2016	1	Eels vs Broncos	Thursday 3rd March	Eels	4	Broncos	17	CommBank Stadium, Sydney
 NRL	2016	1	Sea Eagles vs Bulldogs	Friday 4th March	Sea Eagles	6	Bulldogs	28	4 Pines Park, Sydney
 NRL	2016	1	Raiders vs Panthers	Saturday 5th March	Raiders	30	Panthers	22	GIO Stadium, Canberra
@@ -361,6 +417,14 @@ NRL	2016	2	Eels vs Cowboys	Saturday 12th March	Eels	20	Cowboys	16	CommBank Stadi
 NRL	2016	2	Sharks vs Dragons	Sunday 13th March	Sharks	30	Dragons	2	PointsBet Stadium, Sydney
 NRL	2016	2	Storm vs Titans	Sunday 13th March	Storm	34	Titans	16	AAMI Park, Melbourne
 NRL	2016	2	Wests Tigers vs Sea Eagles	Monday 14th March	Wests Tigers	36	Sea Eagles	22	Leichhardt Oval, Sydney
+NRL	2016	3	Cowboys vs Roosters	Thursday 17th March	Cowboys	40	Roosters	0	1300SMILES Stadium, Townsville
+NRL	2016	3	Bulldogs vs Eels	Friday 18th March	Bulldogs	6	Eels	20	Accor Stadium, Sydney
+NRL	2016	3	Knights vs Raiders	Saturday 19th March	Knights	24	Raiders	24	McDonald Jones Stadium, Newcastle
+NRL	2016	3	Panthers vs Broncos	Saturday 19th March	Panthers	23	Broncos	22	BlueBet Stadium, Penrith
+NRL	2016	3	Titans vs Wests Tigers	Saturday 19th March	Titans	30	Wests Tigers	18	Cbus Super Stadium, Gold Coast
+NRL	2016	3	Warriors vs Storm	Sunday 20th March	Warriors	14	Storm	21	Go Media Stadium, Auckland
+NRL	2016	3	Dragons vs Rabbitohs	Sunday 20th March	Dragons	8	Rabbitohs	6	Sydney Cricket Ground, Sydney
+NRL	2016	3	Sea Eagles vs Sharks	Monday 21st March	Sea Eagles	22	Sharks	12	4 Pines Park, Sydney
 NRL	2016	4	Rabbitohs vs Bulldogs	Friday 25th March	Rabbitohs	12	Bulldogs	42	Accor Stadium, Sydney
 NRL	2016	4	Broncos vs Cowboys	Friday 25th March	Broncos	21	Cowboys	20	Suncorp Stadium, Brisbane
 NRL	2016	4	Raiders vs Titans	Saturday 26th March	Raiders	20	Titans	24	GIO Stadium, Canberra
@@ -393,6 +457,14 @@ NRL	2016	7	Broncos vs Knights	Saturday 16th April	Broncos	53	Knights	0	Suncorp S
 NRL	2016	7	Raiders vs Sharks	Sunday 17th April	Raiders	16	Sharks	40	GIO Stadium, Canberra
 NRL	2016	7	Wests Tigers vs Storm	Sunday 17th April	Wests Tigers	18	Storm	19	Leichhardt Oval, Sydney
 NRL	2016	7	Roosters vs Panthers	Monday 18th April	Roosters	16	Panthers	20	Allianz Stadium, Sydney
+NRL	2016	8	Broncos vs Rabbitohs	Friday 22nd April	Broncos	30	Rabbitohs	8	Suncorp Stadium, Brisbane
+NRL	2016	8	Bulldogs vs Titans	Saturday 23rd April	Bulldogs	21	Titans	20	Accor Stadium, Sydney
+NRL	2016	8	Raiders vs Wests Tigers	Saturday 23rd April	Raiders	60	Wests Tigers	6	GIO Stadium, Canberra
+NRL	2016	8	Cowboys vs Eels	Saturday 23rd April	Cowboys	32	Eels	16	1300SMILES Stadium, Townsville
+NRL	2016	8	Sharks vs Panthers	Sunday 24th April	Sharks	20	Panthers	18	PointsBet Stadium, Sydney
+NRL	2016	8	Knights vs Sea Eagles	Monday 25th April	Knights	10	Sea Eagles	26	McDonald Jones Stadium, Newcastle
+NRL	2016	8	Dragons vs Roosters	Monday 25th April	Dragons	20	Roosters	18	Allianz Stadium, Sydney
+NRL	2016	8	Storm vs Warriors	Monday 25th April	Storm	42	Warriors	0	AAMI Park, Melbourne
 NRL	2016	9	Rabbitohs vs Wests Tigers	Thursday 28th April	Rabbitohs	22	Wests Tigers	30	Accor Stadium, Sydney
 NRL	2016	9	Eels vs Bulldogs	Friday 29th April	Eels	20	Bulldogs	12	Accor Stadium, Sydney
 NRL	2016	9	Panthers vs Raiders	Saturday 30th April	Panthers	19	Raiders	18	Carrington Park, Bathurst
@@ -421,6 +493,13 @@ NRL	2016	12	Broncos vs Wests Tigers	Friday 27th May	Broncos	18	Wests Tigers	19	S
 NRL	2016	12	Dragons vs Cowboys	Saturday 28th May	Dragons	14	Cowboys	10	WIN Stadium, Wollongong
 NRL	2016	12	Raiders vs Bulldogs	Sunday 29th May	Raiders	32	Bulldogs	20	GIO Stadium, Canberra
 NRL	2016	12	Knights vs Eels	Monday 30th May	Knights	18	Eels	20	McDonald Jones Stadium, Newcastle
+NRL	2016	13	Raiders vs Sea Eagles	Friday 3rd June	Raiders	30	Sea Eagles	18	GIO Stadium, Canberra
+NRL	2016	13	Warriors vs Broncos	Saturday 4th June	Warriors	36	Broncos	18	Go Media Stadium, Auckland
+NRL	2016	13	Cowboys vs Knights	Saturday 4th June	Cowboys	46	Knights	16	1300SMILES Stadium, Townsville
+NRL	2016	13	Storm vs Panthers	Saturday 4th June	Storm	24	Panthers	6	AAMI Park, Melbourne
+NRL	2016	13	Roosters vs Wests Tigers	Sunday 5th June	Roosters	32	Wests Tigers	18	Allianz Stadium, Sydney
+NRL	2016	13	Rabbitohs vs Titans	Sunday 5th June	Rabbitohs	28	Titans	29	HBF Park, Perth
+NRL	2016	13	Bulldogs vs Sharks	Monday 6th June	Bulldogs	18	Sharks	20	Accor Stadium, Sydney
 NRL	2016	14	Broncos vs Raiders	Thursday 9th June	Broncos	26	Raiders	18	Suncorp Stadium, Brisbane
 NRL	2016	14	Wests Tigers vs Rabbitohs	Friday 10th June	Wests Tigers	30	Rabbitohs	14	Accor Stadium, Sydney
 NRL	2016	14	Knights vs Warriors	Saturday 11th June	Knights	14	Warriors	50	McDonald Jones Stadium, Newcastle
@@ -514,10 +593,15 @@ NRL	2016	26	Storm vs Sharks	Saturday 3rd September	Storm	26	Sharks	6	AAMI Park, 
 NRL	2016	26	Wests Tigers vs Raiders	Sunday 4th September	Wests Tigers	10	Raiders	52	Leichhardt Oval, Sydney
 NRL	2016	26	Warriors vs Eels	Sunday 4th September	Warriors	18	Eels	40	Go Media Stadium, Auckland
 NRL	2016	26	Panthers vs Sea Eagles	Sunday 4th September	Panthers	36	Sea Eagles	6	BlueBet Stadium, Penrith
+NRL	2016	27	Broncos vs Titans	Friday 9th September	Broncos	44	Titans	28	Suncorp Stadium, Brisbane
+NRL	2016	27	Raiders vs Sharks	Saturday 10th September	Raiders	14	Sharks	16	GIO Stadium, Canberra
+NRL	2016	27	Storm vs Cowboys	Saturday 10th September	Storm	16	Cowboys	10	AAMI Park, Melbourne
+NRL	2016	27	Panthers vs Bulldogs	Sunday 11th September	Panthers	28	Bulldogs	12	Allianz Stadium, Sydney
+NRL	2016	28	Cowboys vs Broncos	Friday 16th September	Cowboys	26	Broncos	20	1300SMILES Stadium, Townsville
+NRL	2016	28	Raiders vs Panthers	Saturday 17th September	Raiders	22	Panthers	12	GIO Stadium, Canberra
 NRL	2016	29	Sharks vs Cowboys	Friday 23rd September	Sharks	32	Cowboys	20	Allianz Stadium, Sydney
 NRL	2016	29	Storm vs Raiders	Saturday 24th September	Storm	14	Raiders	12	AAMI Park, Melbourne
 NRL	2016	30	Storm vs Sharks	Sunday 2nd October	Storm	12	Sharks	14	Accor Stadium, Sydney
-NRL	2016	31	Storm vs Sharks	Sunday 2nd October	Storm	12	Sharks	14	Accor Stadium, Sydney
 NRL	2017	1	Sharks vs Broncos	Thursday 2nd March	Sharks	18	Broncos	26	PointsBet Stadium, Sydney
 NRL	2017	1	Bulldogs vs Storm	Friday 3rd March	Bulldogs	6	Storm	12	Belmore Sports Ground, Sydney
 NRL	2017	1	Rabbitohs vs Wests Tigers	Friday 3rd March	Rabbitohs	18	Wests Tigers	34	Accor Stadium, Sydney
@@ -550,6 +634,14 @@ NRL	2017	4	Eels vs Sharks	Saturday 25th March	Eels	6	Sharks	20	Accor Stadium, Sy
 NRL	2017	4	Titans vs Cowboys	Saturday 25th March	Titans	26	Cowboys	32	Cbus Super Stadium, Gold Coast
 NRL	2017	4	Wests Tigers vs Storm	Sunday 26th March	Wests Tigers	14	Storm	22	Leichhardt Oval, Sydney
 NRL	2017	4	Dragons vs Warriors	Sunday 26th March	Dragons	26	Warriors	12	Netstrata Jubilee Stadium, Sydney
+NRL	2017	5	Bulldogs vs Broncos	Thursday 30th March	Bulldogs	10	Broncos	7	Accor Stadium, Sydney
+NRL	2017	5	Roosters vs Sea Eagles	Friday 31st March	Roosters	12	Sea Eagles	18	Allianz Stadium, Sydney
+NRL	2017	5	Cowboys vs Rabbitohs	Friday 31st March	Cowboys	20	Rabbitohs	6	1300SMILES Stadium, Townsville
+NRL	2017	5	Sharks vs Knights	Saturday 1st April	Sharks	19	Knights	18	PointsBet Stadium, Sydney
+NRL	2017	5	Raiders vs Eels	Saturday 1st April	Raiders	30	Eels	18	GIO Stadium, Canberra
+NRL	2017	5	Storm vs Panthers	Saturday 1st April	Storm	28	Panthers	6	AAMI Park, Melbourne
+NRL	2017	5	Warriors vs Titans	Sunday 2nd April	Warriors	28	Titans	22	Go Media Stadium, Auckland
+NRL	2017	5	Wests Tigers vs Dragons	Sunday 2nd April	Wests Tigers	6	Dragons	28	Accor Stadium, Sydney
 NRL	2017	6	Broncos vs Roosters	Thursday 6th April	Broncos	32	Roosters	8	Suncorp Stadium, Brisbane
 NRL	2017	6	Knights vs Bulldogs	Friday 7th April	Knights	12	Bulldogs	22	McDonald Jones Stadium, Newcastle
 NRL	2017	6	Panthers vs Rabbitohs	Friday 7th April	Panthers	20	Rabbitohs	21	BlueBet Stadium, Penrith
@@ -566,6 +658,22 @@ NRL	2017	7	Raiders vs Warriors	Saturday 15th April	Raiders	20	Warriors	8	GIO Sta
 NRL	2017	7	Dragons vs Cowboys	Saturday 15th April	Dragons	28	Cowboys	22	WIN Stadium, Wollongong
 NRL	2017	7	Panthers vs Sharks	Sunday 16th April	Panthers	2	Sharks	28	BlueBet Stadium, Penrith
 NRL	2017	7	Eels vs Wests Tigers	Monday 17th April	Eels	26	Wests Tigers	22	Accor Stadium, Sydney
+NRL	2017	8	Raiders vs Sea Eagles	Friday 21st April	Raiders	18	Sea Eagles	20	GIO Stadium, Canberra
+NRL	2017	8	Rabbitohs vs Broncos	Friday 21st April	Rabbitohs	24	Broncos	25	Accor Stadium, Sydney
+NRL	2017	8	Eels vs Panthers	Saturday 22nd April	Eels	18	Panthers	12	Accor Stadium, Sydney
+NRL	2017	8	Cowboys vs Knights	Saturday 22nd April	Cowboys	24	Knights	12	1300SMILES Stadium, Townsville
+NRL	2017	8	Sharks vs Titans	Saturday 22nd April	Sharks	12	Titans	16	Southern Cross Stadium, Sydney
+NRL	2017	8	Wests Tigers vs Bulldogs	Sunday 23rd April	Wests Tigers	18	Bulldogs	12	Accor Stadium, Sydney
+NRL	2017	8	Roosters vs Dragons	Tuesday 25th April	Roosters	13	Dragons	12	Allianz Stadium, Sydney
+NRL	2017	8	Storm vs Warriors	Tuesday 25th April	Storm	20	Warriors	14	AAMI Park, Melbourne
+NRL	2017	9	Broncos vs Panthers	Thursday 27th April	Broncos	32	Panthers	18	Suncorp Stadium, Brisbane
+NRL	2017	9	Rabbitohs vs Sea Eagles	Friday 28th April	Rabbitohs	8	Sea Eagles	46	Allianz Stadium, Sydney
+NRL	2017	9	Cowboys vs Eels	Friday 28th April	Cowboys	6	Eels	26	1300SMILES Stadium, Townsville
+NRL	2017	9	Titans vs Knights	Saturday 29th April	Titans	38	Knights	8	Cbus Super Stadium, Gold Coast
+NRL	2017	9	Bulldogs vs Raiders	Saturday 29th April	Bulldogs	16	Raiders	10	Accor Stadium, Sydney
+NRL	2017	9	Wests Tigers vs Sharks	Saturday 29th April	Wests Tigers	16	Sharks	22	Leichhardt Oval, Sydney
+NRL	2017	9	Warriors vs Roosters	Sunday 30th April	Warriors	14	Roosters	13	Go Media Stadium, Auckland
+NRL	2017	9	Dragons vs Storm	Sunday 30th April	Dragons	22	Storm	34	WIN Stadium, Wollongong
 NRL	2017	10	Bulldogs vs Cowboys	Thursday 11th May	Bulldogs	14	Cowboys	30	Accor Stadium, Sydney
 NRL	2017	10	Dragons vs Sharks	Friday 12th May	Dragons	14	Sharks	18	Netstrata Jubilee Stadium, Sydney
 NRL	2017	10	Wests Tigers vs Rabbitohs	Friday 12th May	Wests Tigers	8	Rabbitohs	28	Accor Stadium, Sydney
@@ -586,6 +694,13 @@ NRL	2017	12	Rabbitohs vs Eels	Friday 26th May	Rabbitohs	16	Eels	22	Accor Stadium
 NRL	2017	12	Warriors vs Broncos	Saturday 27th May	Warriors	28	Broncos	10	Go Media Stadium, Auckland
 NRL	2017	12	Sharks vs Bulldogs	Saturday 27th May	Sharks	9	Bulldogs	8	Southern Cross Stadium, Sydney
 NRL	2017	12	Raiders vs Roosters	Sunday 28th May	Raiders	24	Roosters	16	GIO Stadium, Canberra
+NRL	2017	13	Storm vs Knights	Friday 2nd June	Storm	40	Knights	12	AAMI Park, Melbourne
+NRL	2017	13	Eels vs Warriors	Friday 2nd June	Eels	32	Warriors	24	Accor Stadium, Sydney
+NRL	2017	13	Dragons vs Wests Tigers	Saturday 3rd June	Dragons	16	Wests Tigers	12	Accor Stadium, Sydney
+NRL	2017	13	Roosters vs Broncos	Saturday 3rd June	Roosters	18	Broncos	16	Allianz Stadium, Sydney
+NRL	2017	13	Cowboys vs Titans	Saturday 3rd June	Cowboys	20	Titans	8	1300SMILES Stadium, Townsville
+NRL	2017	13	Sea Eagles vs Raiders	Sunday 4th June	Sea Eagles	21	Raiders	20	4 Pines Park, Sydney
+NRL	2017	13	Bulldogs vs Panthers	Sunday 4th June	Bulldogs	0	Panthers	38	Accor Stadium, Sydney
 NRL	2017	14	Sharks vs Storm	Thursday 8th June	Sharks	13	Storm	18	PointsBet Stadium, Sydney
 NRL	2017	14	Sea Eagles vs Knights	Friday 9th June	Sea Eagles	18	Knights	14	4 Pines Park, Sydney
 NRL	2017	14	Broncos vs Rabbitohs	Friday 9th June	Broncos	24	Rabbitohs	18	Suncorp Stadium, Brisbane
@@ -687,6 +802,7 @@ NRL	2017	28	Broncos vs Panthers	Friday 15th September	Broncos	13	Panthers	6	Sunc
 NRL	2017	28	Eels vs Cowboys	Saturday 16th September	Eels	16	Cowboys	24	Accor Stadium, Sydney
 NRL	2017	29	Storm vs Broncos	Friday 22nd September	Storm	30	Broncos	0	AAMI Park, Melbourne
 NRL	2017	29	Roosters vs Cowboys	Saturday 23rd September	Roosters	16	Cowboys	29	Allianz Stadium, Sydney
+NRL	2017	30	Storm vs Cowboys	Sunday 1st October	Storm	34	Cowboys	6	Accor Stadium, Sydney
 NRL	2018	1	Dragons vs Broncos	Thursday 8th March	Dragons	34	Broncos	12	Netstrata Jubilee Stadium, Sydney
 NRL	2018	1	Knights vs Sea Eagles	Friday 9th March	Knights	19	Sea Eagles	18	McDonald Jones Stadium, Newcastle
 NRL	2018	1	Cowboys vs Sharks	Friday 9th March	Cowboys	20	Sharks	14	1300SMILES Stadium, Townsville
@@ -703,6 +819,14 @@ NRL	2018	2	Panthers vs Rabbitohs	Saturday 17th March	Panthers	18	Rabbitohs	14	Bl
 NRL	2018	2	Storm vs Wests Tigers	Saturday 17th March	Storm	8	Wests Tigers	10	AAMI Park, Melbourne
 NRL	2018	2	Sea Eagles vs Eels	Sunday 18th March	Sea Eagles	54	Eels	0	4 Pines Park, Sydney
 NRL	2018	2	Raiders vs Knights	Sunday 18th March	Raiders	28	Knights	30	GIO Stadium, Canberra
+NRL	2018	3	Storm vs Cowboys	Thursday 22nd March	Storm	30	Cowboys	14	AAMI Park, Melbourne
+NRL	2018	3	Bulldogs vs Panthers	Friday 23rd March	Bulldogs	20	Panthers	18	Accor Stadium, Sydney
+NRL	2018	3	Wests Tigers vs Broncos	Friday 23rd March	Wests Tigers	7	Broncos	9	Campbelltown Sports Stadium, Sydney
+NRL	2018	3	Raiders vs Warriors	Saturday 24th March	Raiders	19	Warriors	20	GIO Stadium, Canberra
+NRL	2018	3	Rabbitohs vs Sea Eagles	Saturday 24th March	Rabbitohs	34	Sea Eagles	6	Accor Stadium, Sydney
+NRL	2018	3	Eels vs Sharks	Saturday 24th March	Eels	4	Sharks	14	Accor Stadium, Sydney
+NRL	2018	3	Titans vs Dragons	Sunday 25th March	Titans	8	Dragons	54	Clive Berghofer Stadium, Toowoomba
+NRL	2018	3	Roosters vs Knights	Sunday 25th March	Roosters	38	Knights	8	Allianz Stadium, Sydney
 NRL	2018	4	Cowboys vs Panthers	Thursday 29th March	Cowboys	14	Panthers	33	1300SMILES Stadium, Townsville
 NRL	2018	4	Rabbitohs vs Bulldogs	Friday 30th March	Rabbitohs	20	Bulldogs	16	Accor Stadium, Sydney
 NRL	2018	4	Sharks vs Storm	Friday 30th March	Sharks	14	Storm	4	PointsBet Stadium, Sydney
@@ -751,6 +875,14 @@ NRL	2018	9	Warriors vs Wests Tigers	Saturday 5th May	Warriors	26	Wests Tigers	4	
 NRL	2018	9	Sharks vs Eels	Saturday 5th May	Sharks	22	Eels	20	PointsBet Stadium, Sydney
 NRL	2018	9	Dragons vs Storm	Sunday 6th May	Dragons	34	Storm	14	Netstrata Jubilee Stadium, Sydney
 NRL	2018	9	Roosters vs Sea Eagles	Sunday 6th May	Roosters	22	Sea Eagles	20	Allianz Stadium, Sydney
+NRL	2018	10	Wests Tigers vs Cowboys	Thursday 10th May	Wests Tigers	20	Cowboys	12	Leichhardt Oval, Sydney
+NRL	2018	10	Knights vs Panthers	Friday 11th May	Knights	18	Panthers	29	McDonald Jones Stadium, Newcastle
+NRL	2018	10	Bulldogs vs Eels	Friday 11th May	Bulldogs	20	Eels	12	Accor Stadium, Sydney
+NRL	2018	10	Warriors vs Roosters	Saturday 12th May	Warriors	0	Roosters	32	Go Media Stadium, Auckland
+NRL	2018	10	Storm vs Titans	Saturday 12th May	Storm	28	Titans	14	Suncorp Stadium, Brisbane
+NRL	2018	10	Sea Eagles vs Broncos	Saturday 12th May	Sea Eagles	38	Broncos	24	Suncorp Stadium, Brisbane
+NRL	2018	10	Rabbitohs vs Dragons	Sunday 13th May	Rabbitohs	24	Dragons	10	Accor Stadium, Sydney
+NRL	2018	10	Raiders vs Sharks	Sunday 13th May	Raiders	16	Sharks	24	GIO Stadium, Canberra
 NRL	2018	11	Panthers vs Wests Tigers	Thursday 17th May	Panthers	16	Wests Tigers	2	BlueBet Stadium, Penrith
 NRL	2018	11	Eels vs Warriors	Friday 18th May	Eels	14	Warriors	24	Accor Stadium, Sydney
 NRL	2018	11	Broncos vs Roosters	Friday 18th May	Broncos	28	Roosters	22	Suncorp Stadium, Brisbane
@@ -759,10 +891,26 @@ NRL	2018	11	Cowboys vs Rabbitohs	Saturday 19th May	Cowboys	19	Rabbitohs	20	1300S
 NRL	2018	11	Storm vs Sea Eagles	Saturday 19th May	Storm	4	Sea Eagles	24	AAMI Park, Melbourne
 NRL	2018	11	Dragons vs Raiders	Sunday 20th May	Dragons	25	Raiders	18	Glen Willow Oval, Mudgee
 NRL	2018	11	Sharks vs Bulldogs	Sunday 20th May	Sharks	22	Bulldogs	16	PointsBet Stadium, Sydney
+NRL	2018	12	Broncos vs Eels	Thursday 24th May	Broncos	18	Eels	10	Suncorp Stadium, Brisbane
+NRL	2018	12	Raiders vs Sea Eagles	Friday 25th May	Raiders	21	Sea Eagles	20	GIO Stadium, Canberra
+NRL	2018	12	Cowboys vs Storm	Friday 25th May	Cowboys	6	Storm	7	1300SMILES Stadium, Townsville
+NRL	2018	12	Roosters vs Titans	Saturday 26th May	Roosters	34	Titans	14	Industree Group Stadium, Gosford
+NRL	2018	12	Warriors vs Rabbitohs	Saturday 26th May	Warriors	10	Rabbitohs	30	Go Media Stadium, Auckland
+NRL	2018	12	Panthers vs Dragons	Saturday 26th May	Panthers	28	Dragons	2	BlueBet Stadium, Penrith
+NRL	2018	12	Knights vs Sharks	Sunday 27th May	Knights	10	Sharks	48	McDonald Jones Stadium, Newcastle
+NRL	2018	12	Wests Tigers vs Bulldogs	Sunday 27th May	Wests Tigers	14	Bulldogs	10	Accor Stadium, Sydney
 NRL	2018	13	Sea Eagles vs Cowboys	Thursday 31st May	Sea Eagles	12	Cowboys	26	4 Pines Park, Sydney
 NRL	2018	13	Rabbitohs vs Sharks	Friday 1st June	Rabbitohs	22	Sharks	14	Accor Stadium, Sydney
 NRL	2018	13	Eels vs Knights	Saturday 2nd June	Eels	4	Knights	30	Accor Stadium, Sydney
 NRL	2018	13	Roosters vs Wests Tigers	Sunday 3rd June	Roosters	16	Wests Tigers	14	Allianz Stadium, Sydney
+NRL	2018	14	Raiders vs Panthers	Friday 8th June	Raiders	22	Panthers	23	GIO Stadium, Canberra
+NRL	2018	14	Titans vs Rabbitohs	Friday 8th June	Titans	16	Rabbitohs	18	Cbus Super Stadium, Gold Coast
+NRL	2018	14	Sea Eagles vs Warriors	Saturday 9th June	Sea Eagles	14	Warriors	34	Christchurch Stadium, Christchurch
+NRL	2018	14	Knights vs Roosters	Saturday 9th June	Knights	16	Roosters	18	McDonald Jones Stadium, Newcastle
+NRL	2018	14	Eels vs Cowboys	Saturday 9th June	Eels	20	Cowboys	14	TIO Stadium, Darwin
+NRL	2018	14	Sharks vs Wests Tigers	Sunday 10th June	Sharks	24	Wests Tigers	16	PointsBet Stadium, Sydney
+NRL	2018	14	Storm vs Broncos	Sunday 10th June	Storm	32	Broncos	16	AAMI Park, Melbourne
+NRL	2018	14	Bulldogs vs Dragons	Monday 11th June	Bulldogs	16	Dragons	18	Accor Stadium, Sydney
 NRL	2018	15	Eels vs Rabbitohs	Thursday 14th June	Eels	24	Rabbitohs	42	Accor Stadium, Sydney
 NRL	2018	15	Cowboys vs Warriors	Friday 15th June	Cowboys	16	Warriors	23	1300SMILES Stadium, Townsville
 NRL	2018	15	Roosters vs Panthers	Friday 15th June	Roosters	32	Panthers	6	Allianz Stadium, Sydney
@@ -815,6 +963,22 @@ NRL	2018	21	Eels vs Titans	Saturday 4th August	Eels	28	Titans	12	Accor Stadium, 
 NRL	2018	21	Roosters vs Cowboys	Saturday 4th August	Roosters	26	Cowboys	20	Allianz Stadium, Sydney
 NRL	2018	21	Sharks vs Sea Eagles	Sunday 5th August	Sharks	32	Sea Eagles	33	PointsBet Stadium, Sydney
 NRL	2018	21	Panthers vs Raiders	Sunday 5th August	Panthers	40	Raiders	31	BlueBet Stadium, Penrith
+NRL	2018	22	Cowboys vs Broncos	Thursday 9th August	Cowboys	34	Broncos	30	1300SMILES Stadium, Townsville
+NRL	2018	22	Warriors vs Knights	Friday 10th August	Warriors	20	Knights	4	Go Media Stadium, Auckland
+NRL	2018	22	Rabbitohs vs Roosters	Friday 10th August	Rabbitohs	14	Roosters	18	Accor Stadium, Sydney
+NRL	2018	22	Titans vs Panthers	Saturday 11th August	Titans	16	Panthers	17	Cbus Super Stadium, Gold Coast
+NRL	2018	22	Sea Eagles vs Bulldogs	Saturday 11th August	Sea Eagles	18	Bulldogs	6	4 Pines Park, Sydney
+NRL	2018	22	Eels vs Dragons	Saturday 11th August	Eels	40	Dragons	4	Accor Stadium, Sydney
+NRL	2018	22	Raiders vs Wests Tigers	Sunday 12th August	Raiders	20	Wests Tigers	22	GIO Stadium, Canberra
+NRL	2018	22	Storm vs Sharks	Sunday 12th August	Storm	14	Sharks	17	AAMI Park, Melbourne
+NRL	2018	23	Broncos vs Rabbitohs	Thursday 16th August	Broncos	38	Rabbitohs	18	Suncorp Stadium, Brisbane
+NRL	2018	23	Sea Eagles vs Titans	Friday 17th August	Sea Eagles	34	Titans	42	4 Pines Park, Sydney
+NRL	2018	23	Storm vs Eels	Friday 17th August	Storm	20	Eels	4	AAMI Park, Melbourne
+NRL	2018	23	Panthers vs Knights	Saturday 18th August	Panthers	12	Knights	20	BlueBet Stadium, Penrith
+NRL	2018	23	Wests Tigers vs Dragons	Saturday 18th August	Wests Tigers	10	Dragons	20	Leichhardt Oval, Sydney
+NRL	2018	23	Sharks vs Cowboys	Saturday 18th August	Sharks	28	Cowboys	16	PointsBet Stadium, Sydney
+NRL	2018	23	Bulldogs vs Warriors	Sunday 19th August	Bulldogs	27	Warriors	26	Accor Stadium, Sydney
+NRL	2018	23	Raiders vs Roosters	Sunday 19th August	Raiders	14	Roosters	12	GIO Stadium, Canberra
 NRL	2018	24	Wests Tigers vs Sea Eagles	Thursday 23rd August	Wests Tigers	22	Sea Eagles	20	Campbelltown Sports Stadium, Sydney
 NRL	2018	24	Warriors vs Panthers	Friday 24th August	Warriors	36	Panthers	16	Go Media Stadium, Auckland
 NRL	2018	24	Cowboys vs Eels	Friday 24th August	Cowboys	44	Eels	6	1300SMILES Stadium, Townsville
@@ -840,8 +1004,6 @@ NRL	2018	27	Rabbitohs vs Dragons	Saturday 15th September	Rabbitohs	13	Dragons	12
 NRL	2018	28	Storm vs Sharks	Friday 21st September	Storm	22	Sharks	6	AAMI Park, Melbourne
 NRL	2018	28	Roosters vs Rabbitohs	Saturday 22nd September	Roosters	12	Rabbitohs	4	Allianz Stadium, Sydney
 NRL	2018	29	Roosters vs Storm	Sunday 30th September	Roosters	21	Storm	6	Accor Stadium, Sydney
-NRL	2018	30	Roosters vs Storm	Sunday 30th September	Roosters	21	Storm	6	Accor Stadium, Sydney
-NRL	2018	31	Roosters vs Storm	Sunday 30th September	Roosters	21	Storm	6	Accor Stadium, Sydney
 NRL	2019	1	Storm vs Broncos	Thursday 14th March	Storm	22	Broncos	12	AAMI Park, Melbourne
 NRL	2019	1	Knights vs Sharks	Friday 15th March	Knights	14	Sharks	8	McDonald Jones Stadium, Newcastle
 NRL	2019	1	Roosters vs Rabbitohs	Friday 15th March	Roosters	16	Rabbitohs	26	Sydney Cricket Ground, Sydney
@@ -914,6 +1076,14 @@ NRL	2019	9	Warriors vs Dragons	Saturday 11th May	Warriors	26	Dragons	18	Suncorp 
 NRL	2019	9	Storm vs Eels	Saturday 11th May	Storm	64	Eels	10	Suncorp Stadium, Brisbane
 NRL	2019	9	Roosters vs Raiders	Sunday 12th May	Roosters	30	Raiders	24	Suncorp Stadium, Brisbane
 NRL	2019	9	Rabbitohs vs Cowboys	Sunday 12th May	Rabbitohs	32	Cowboys	16	Suncorp Stadium, Brisbane
+NRL	2019	10	Storm vs Wests Tigers	Thursday 16th May	Storm	24	Wests Tigers	22	AAMI Park, Melbourne
+NRL	2019	10	Panthers vs Warriors	Friday 17th May	Panthers	10	Warriors	30	BlueBet Stadium, Penrith
+NRL	2019	10	Broncos vs Roosters	Friday 17th May	Broncos	15	Roosters	10	Suncorp Stadium, Brisbane
+NRL	2019	10	Titans vs Bulldogs	Saturday 18th May	Titans	16	Bulldogs	22	Cbus Super Stadium, Gold Coast
+NRL	2019	10	Cowboys vs Eels	Saturday 18th May	Cowboys	17	Eels	10	1300SMILES Stadium, Townsville
+NRL	2019	10	Raiders vs Rabbitohs	Saturday 18th May	Raiders	12	Rabbitohs	16	GIO Stadium, Canberra
+NRL	2019	10	Dragons vs Knights	Sunday 19th May	Dragons	12	Knights	45	Glen Willow Oval, Mudgee
+NRL	2019	10	Sharks vs Sea Eagles	Sunday 19th May	Sharks	14	Sea Eagles	24	PointsBet Stadium, Sydney
 NRL	2019	11	Eels vs Panthers	Thursday 23rd May	Eels	10	Panthers	16	CommBank Stadium, Sydney
 NRL	2019	11	Sea Eagles vs Titans	Friday 24th May	Sea Eagles	18	Titans	36	Lottoland, Sydney
 NRL	2019	11	Knights vs Roosters	Friday 24th May	Knights	38	Roosters	12	McDonald Jones Stadium, Newcastle
@@ -922,6 +1092,10 @@ NRL	2019	11	Warriors vs Broncos	Saturday 25th May	Warriors	2	Broncos	8	Go Media 
 NRL	2019	11	Rabbitohs vs Wests Tigers	Saturday 25th May	Rabbitohs	32	Wests Tigers	16	Accor Stadium, Sydney
 NRL	2019	11	Bulldogs vs Storm	Sunday 26th May	Bulldogs	6	Storm	28	Belmore Sports Ground, Sydney
 NRL	2019	11	Dragons vs Sharks	Sunday 26th May	Dragons	9	Sharks	22	WIN Stadium, Wollongong
+NRL	2019	12	Panthers vs Sea Eagles	Thursday 30th May	Panthers	15	Sea Eagles	12	BlueBet Stadium, Penrith
+NRL	2019	12	Eels vs Rabbitohs	Friday 31st May	Eels	26	Rabbitohs	14	CommBank Stadium, Sydney
+NRL	2019	12	Bulldogs vs Raiders	Saturday 1st June	Bulldogs	10	Raiders	12	Accor Stadium, Sydney
+NRL	2019	12	Titans vs Cowboys	Sunday 2nd June	Titans	4	Cowboys	6	Cbus Super Stadium, Gold Coast
 NRL	2019	13	Rabbitohs vs Knights	Friday 7th June	Rabbitohs	12	Knights	20	Accor Stadium, Sydney
 NRL	2019	13	Wests Tigers vs Raiders	Friday 7th June	Wests Tigers	0	Raiders	28	CommBank Stadium, Sydney
 NRL	2019	13	Warriors vs Storm	Saturday 8th June	Warriors	10	Storm	32	Go Media Stadium, Auckland
@@ -1039,6 +1213,22 @@ NRL	2020	1	Rabbitohs vs Sharks	Saturday 14th March	Rabbitohs	22	Sharks	18	Accor 
 NRL	2020	1	Panthers vs Roosters	Saturday 14th March	Panthers	20	Roosters	14	BlueBet Stadium, Penrith
 NRL	2020	1	Sea Eagles vs Storm	Sunday 15th March	Sea Eagles	4	Storm	18	4 Pines Park, Sydney
 NRL	2020	1	Dragons vs Wests Tigers	Sunday 15th March	Dragons	14	Wests Tigers	24	WIN Stadium, Wollongong
+NRL	2020	2	Bulldogs vs Cowboys	Thursday 19th March	Bulldogs	16	Cowboys	24	Accor Stadium, Sydney
+NRL	2020	2	Dragons vs Panthers	Friday 20th March	Dragons	28	Panthers	32	Netstrata Jubilee Stadium, Sydney
+NRL	2020	2	Broncos vs Rabbitohs	Friday 20th March	Broncos	22	Rabbitohs	18	Suncorp Stadium, Brisbane
+NRL	2020	2	Warriors vs Raiders	Saturday 21st March	Warriors	6	Raiders	20	Cbus Super Stadium, Gold Coast
+NRL	2020	2	Roosters vs Sea Eagles	Saturday 21st March	Roosters	8	Sea Eagles	9	Leichhardt Oval, Sydney
+NRL	2020	2	Sharks vs Storm	Saturday 21st March	Sharks	10	Storm	12	Netstrata Jubilee Stadium, Sydney
+NRL	2020	2	Wests Tigers vs Knights	Sunday 22nd March	Wests Tigers	24	Knights	42	Leichhardt Oval, Sydney
+NRL	2020	2	Titans vs Eels	Sunday 22nd March	Titans	6	Eels	46	Cbus Super Stadium, Gold Coast
+NRL	2020	3	Broncos vs Eels	Thursday 28th May	Broncos	6	Eels	34	Suncorp Stadium, Brisbane
+NRL	2020	3	Cowboys vs Titans	Friday 29th May	Cowboys	36	Titans	6	Queensland Country Bank Stadium, Townsville
+NRL	2020	3	Roosters vs Rabbitohs	Friday 29th May	Roosters	28	Rabbitohs	12	CommBank Stadium, Sydney
+NRL	2020	3	Warriors vs Dragons	Saturday 30th May	Warriors	18	Dragons	0	Industree Group Stadium, Gosford
+NRL	2020	3	Sharks vs Wests Tigers	Saturday 30th May	Sharks	16	Wests Tigers	28	CommBank Stadium, Sydney
+NRL	2020	3	Storm vs Raiders	Saturday 30th May	Storm	6	Raiders	22	AAMI Park, Melbourne
+NRL	2020	3	Panthers vs Knights	Sunday 31st May	Panthers	14	Knights	14	Campbelltown Sports Stadium, Sydney
+NRL	2020	3	Sea Eagles vs Bulldogs	Sunday 31st May	Sea Eagles	32	Bulldogs	6	Industree Group Stadium, Gosford
 NRL	2020	4	Broncos vs Roosters	Thursday 4th June	Broncos	0	Roosters	59	Suncorp Stadium, Brisbane
 NRL	2020	4	Panthers vs Warriors	Friday 5th June	Panthers	26	Warriors	0	Campbelltown Sports Stadium, Sydney
 NRL	2020	4	Storm vs Rabbitohs	Friday 5th June	Storm	22	Rabbitohs	8	AAMI Park, Melbourne
@@ -1063,6 +1253,14 @@ NRL	2020	6	Wests Tigers vs Cowboys	Saturday 20th June	Wests Tigers	36	Cowboys	20
 NRL	2020	6	Roosters vs Eels	Saturday 20th June	Roosters	24	Eels	10	CommBank Stadium, Sydney
 NRL	2020	6	Raiders vs Sea Eagles	Sunday 21st June	Raiders	6	Sea Eagles	14	Campbelltown Sports Stadium, Sydney
 NRL	2020	6	Sharks vs Bulldogs	Sunday 21st June	Sharks	20	Bulldogs	18	CommBank Stadium, Sydney
+NRL	2020	7	Panthers vs Rabbitohs	Thursday 25th June	Panthers	20	Rabbitohs	12	Netstrata Jubilee Stadium, Sydney
+NRL	2020	7	Storm vs Warriors	Friday 26th June	Storm	50	Warriors	6	Netstrata Jubilee Stadium, Sydney
+NRL	2020	7	Roosters vs Dragons	Friday 26th June	Roosters	26	Dragons	12	CommBank Stadium, Sydney
+NRL	2020	7	Cowboys vs Knights	Saturday 27th June	Cowboys	32	Knights	20	Queensland Country Bank Stadium, Townsville
+NRL	2020	7	Broncos vs Titans	Saturday 27th June	Broncos	12	Titans	30	Suncorp Stadium, Brisbane
+NRL	2020	7	Eels vs Raiders	Saturday 27th June	Eels	25	Raiders	24	CommBank Stadium, Sydney
+NRL	2020	7	Sea Eagles vs Sharks	Sunday 28th June	Sea Eagles	22	Sharks	40	Industree Group Stadium, Gosford
+NRL	2020	7	Bulldogs vs Wests Tigers	Sunday 28th June	Bulldogs	6	Wests Tigers	34	CommBank Stadium, Sydney
 NRL	2020	8	Storm vs Roosters	Thursday 2nd July	Storm	27	Roosters	25	Suncorp Stadium, Brisbane
 NRL	2020	8	Raiders vs Dragons	Friday 3rd July	Raiders	22	Dragons	16	GIO Stadium, Canberra
 NRL	2020	8	Eels vs Cowboys	Friday 3rd July	Eels	42	Cowboys	4	CommBank Stadium, Sydney
@@ -1176,11 +1374,6 @@ NRL	2020	22	Eels vs Rabbitohs	Saturday 10th October	Eels	24	Rabbitohs	38	CommBan
 NRL	2020	23	Storm vs Raiders	Friday 16th October	Storm	30	Raiders	10	Suncorp Stadium, Brisbane
 NRL	2020	23	Panthers vs Rabbitohs	Saturday 17th October	Panthers	20	Rabbitohs	16	Accor Stadium, Sydney
 NRL	2020	24	Panthers vs Storm	Sunday 25th October	Panthers	20	Storm	26	Accor Stadium, Sydney
-NRL	2020	25	Panthers vs Storm	Sunday 25th October	Panthers	20	Storm	26	Accor Stadium, Sydney
-NRL	2020	26	Panthers vs Storm	Sunday 25th October	Panthers	20	Storm	26	Accor Stadium, Sydney
-NRL	2020	29	Panthers vs Storm	Sunday 25th October	Panthers	20	Storm	26	Accor Stadium, Sydney
-NRL	2020	30	Panthers vs Storm	Sunday 25th October	Panthers	20	Storm	26	Accor Stadium, Sydney
-NRL	2020	31	Panthers vs Storm	Sunday 25th October	Panthers	20	Storm	26	Accor Stadium, Sydney
 NRL	2021	1	Storm vs Rabbitohs	Thursday 11th March	Storm	26	Rabbitohs	18	AAMI Park, Melbourne
 NRL	2021	1	Knights vs Bulldogs	Friday 12th March	Knights	32	Bulldogs	16	McDonald Jones Stadium, Newcastle
 NRL	2021	1	Broncos vs Eels	Friday 12th March	Broncos	16	Eels	24	Suncorp Stadium, Brisbane
@@ -1261,6 +1454,14 @@ NRL	2021	10	Roosters vs Cowboys	Saturday 15th May	Roosters	30	Cowboys	16	Suncorp
 NRL	2021	10	Warriors vs Eels	Sunday 16th May	Warriors	18	Eels	34	Suncorp Stadium, Brisbane
 NRL	2021	10	Storm vs Dragons	Sunday 16th May	Storm	44	Dragons	18	Suncorp Stadium, Brisbane
 NRL	2021	10	Titans vs Panthers	Sunday 16th May	Titans	12	Panthers	48	Suncorp Stadium, Brisbane
+NRL	2021	11	Cowboys vs Knights	Thursday 20th May	Cowboys	36	Knights	20	Queensland Country Bank Stadium, Townsville
+NRL	2021	11	Warriors vs Wests Tigers	Friday 21st May	Warriors	30	Wests Tigers	26	Industree Group Stadium, Gosford
+NRL	2021	11	Sharks vs Dragons	Friday 21st May	Sharks	13	Dragons	12	Netstrata Jubilee Stadium, Sydney
+NRL	2021	11	Titans vs Bulldogs	Saturday 22nd May	Titans	30	Bulldogs	20	Cbus Super Stadium, Gold Coast
+NRL	2021	11	Roosters vs Broncos	Saturday 22nd May	Roosters	16	Broncos	34	Sydney Cricket Ground*, Sydney
+NRL	2021	11	Raiders vs Storm	Saturday 22nd May	Raiders	10	Storm	34	GIO Stadium, Canberra
+NRL	2021	11	Rabbitohs vs Panthers	Sunday 23rd May	Rabbitohs	12	Panthers	56	Apex Oval, Dubbo
+NRL	2021	11	Eels vs Sea Eagles	Sunday 23rd May	Eels	6	Sea Eagles	28	CommBank Stadium, Sydney
 NRL	2021	12	Broncos vs Storm	Thursday 27th May	Broncos	12	Storm	40	Suncorp Stadium, Brisbane
 NRL	2021	12	Cowboys vs Warriors	Friday 28th May	Cowboys	29	Warriors	28	Queensland Country Bank Stadium, Townsville
 NRL	2021	12	Wests Tigers vs Dragons	Friday 28th May	Wests Tigers	34	Dragons	18	CommBank Stadium, Sydney
@@ -1281,6 +1482,14 @@ NRL	2021	14	Raiders vs Broncos	Saturday 12th June	Raiders	38	Broncos	16	GIO Stad
 NRL	2021	14	Warriors vs Storm	Sunday 13th June	Warriors	16	Storm	42	Industree Group Stadium, Gosford
 NRL	2021	14	Eels vs Wests Tigers	Sunday 13th June	Eels	40	Wests Tigers	12	CommBank Stadium, Sydney
 NRL	2021	14	Bulldogs vs Dragons	Monday 14th June	Bulldogs	28	Dragons	6	Accor Stadium, Sydney
+NRL	2021	15	Broncos vs Rabbitohs	Thursday 17th June	Broncos	0	Rabbitohs	46	Suncorp Stadium, Brisbane
+NRL	2021	15	Cowboys vs Sharks	Friday 18th June	Cowboys	24	Sharks	26	Queensland Country Bank Stadium, Townsville
+NRL	2021	15	Panthers vs Roosters	Friday 18th June	Panthers	38	Roosters	12	BlueBet Stadium, Penrith
+NRL	2021	15	Knights vs Warriors	Saturday 19th June	Knights	10	Warriors	6	McDonald Jones Stadium, Newcastle
+NRL	2021	15	Dragons vs Raiders	Saturday 19th June	Dragons	22	Raiders	20	WIN Stadium, Wollongong
+NRL	2021	15	Storm vs Wests Tigers	Saturday 19th June	Storm	66	Wests Tigers	16	Sunshine Coast Stadium, Sunshine Coast
+NRL	2021	15	Eels vs Bulldogs	Sunday 20th June	Eels	36	Bulldogs	10	CommBank Stadium, Sydney
+NRL	2021	15	Titans vs Sea Eagles	Sunday 20th June	Titans	24	Sea Eagles	56	Cbus Super Stadium, Gold Coast
 NRL	2021	16	Roosters vs Storm	Thursday 1st July	Roosters	0	Storm	46	McDonald Jones Stadium, Newcastle
 NRL	2021	16	Warriors vs Dragons	Friday 2nd July	Warriors	18	Dragons	19	Industree Group Stadium, Gosford
 NRL	2021	16	Panthers vs Eels	Friday 2nd July	Panthers	13	Eels	12	BlueBet Stadium, Penrith
@@ -1317,6 +1526,14 @@ NRL	2021	20	Storm vs Panthers	Sunday 1st August	Storm	37	Panthers	10	Suncorp Sta
 NRL	2021	20	Dragons vs Rabbitohs	Sunday 1st August	Dragons	14	Rabbitohs	50	Suncorp Stadium, Brisbane
 NRL	2021	20	Bulldogs vs Titans	Monday 2nd August	Bulldogs	6	Titans	34	Suncorp Stadium, Brisbane
 NRL	2021	20	Sharks vs Sea Eagles	Monday 2nd August	Sharks	22	Sea Eagles	40	Suncorp Stadium, Brisbane
+NRL	2021	21	Knights vs Broncos	Thursday 5th August	Knights	28	Broncos	20	Suncorp Stadium, Brisbane
+NRL	2021	21	Raiders vs Dragons	Friday 6th August	Raiders	20	Dragons	12	Cbus Super Stadium, Gold Coast
+NRL	2021	21	Eels vs Rabbitohs	Friday 6th August	Eels	12	Rabbitohs	40	Cbus Super Stadium, Gold Coast
+NRL	2021	21	Warriors vs Sharks	Saturday 7th August	Warriors	18	Sharks	16	Cbus Super Stadium, Gold Coast
+NRL	2021	21	Roosters vs Panthers	Saturday 7th August	Roosters	14	Panthers	20	Suncorp Stadium, Brisbane
+NRL	2021	21	Sea Eagles vs Storm	Saturday 7th August	Sea Eagles	18	Storm	28	Suncorp Stadium, Brisbane
+NRL	2021	21	Bulldogs vs Wests Tigers	Sunday 8th August	Bulldogs	16	Wests Tigers	28	Cbus Super Stadium, Gold Coast
+NRL	2021	21	Titans vs Cowboys	Sunday 8th August	Titans	36	Cowboys	14	Cbus Super Stadium, Gold Coast
 NRL	2021	22	Storm vs Raiders	Thursday 12th August	Storm	26	Raiders	16	Sunshine Coast Stadium, Sunshine Coast
 NRL	2021	22	Dragons vs Panthers	Friday 13th August	Dragons	16	Panthers	34	Suncorp Stadium, Brisbane
 NRL	2021	22	Broncos vs Roosters	Friday 13th August	Broncos	20	Roosters	21	Suncorp Stadium, Brisbane
@@ -1358,8 +1575,6 @@ NRL	2021	27	Panthers vs Eels	Saturday 18th September	Panthers	8	Eels	6	BB Print 
 NRL	2021	28	Rabbitohs vs Sea Eagles	Friday 24th September	Rabbitohs	36	Sea Eagles	16	Suncorp Stadium, Brisbane
 NRL	2021	28	Storm vs Panthers	Saturday 25th September	Storm	6	Panthers	10	Suncorp Stadium, Brisbane
 NRL	2021	29	Panthers vs Rabbitohs	Sunday 3rd October	Panthers	14	Rabbitohs	12	Suncorp Stadium, Brisbane
-NRL	2021	30	Panthers vs Rabbitohs	Sunday 3rd October	Panthers	14	Rabbitohs	12	Suncorp Stadium, Brisbane
-NRL	2021	31	Panthers vs Rabbitohs	Sunday 3rd October	Panthers	14	Rabbitohs	12	Suncorp Stadium, Brisbane
 NRL	2022	1	Panthers vs Sea Eagles	Thursday 10th March	Panthers	28	Sea Eagles	6	Penrith Park, Penrith
 NRL	2022	1	Raiders vs Sharks	Friday 11th March	Raiders	24	Sharks	19	GIO Stadium, Canberra
 NRL	2022	1	Broncos vs Rabbitohs	Friday 11th March	Broncos	11	Rabbitohs	4	Suncorp Stadium, Brisbane
@@ -1368,6 +1583,14 @@ NRL	2022	1	Warriors vs Dragons	Saturday 12th March	Warriors	16	Dragons	28	Sunshi
 NRL	2022	1	Wests Tigers vs Storm	Saturday 12th March	Wests Tigers	16	Storm	26	CommBank Stadium, Sydney
 NRL	2022	1	Eels vs Titans	Sunday 13th March	Eels	32	Titans	28	CommBank Stadium, Sydney
 NRL	2022	1	Cowboys vs Bulldogs	Sunday 13th March	Cowboys	4	Bulldogs	6	Queensland Country Bank Stadium, Townsville
+NRL	2022	2	Storm vs Rabbitohs	Thursday 17th March	Storm	15	Rabbitohs	14	AAMI Park, Melbourne
+NRL	2022	2	Dragons vs Panthers	Friday 18th March	Dragons	16	Panthers	20	Netstrata Jubilee Stadium, Sydney
+NRL	2022	2	Roosters vs Sea Eagles	Friday 18th March	Roosters	26	Sea Eagles	12	Sydney Cricket Ground, Sydney
+NRL	2022	2	Titans vs Warriors	Saturday 19th March	Titans	20	Warriors	18	Cbus Super Stadium, Gold Coast
+NRL	2022	2	Sharks vs Eels	Saturday 19th March	Sharks	18	Eels	16	PointsBet Stadium, Sydney
+NRL	2022	2	Cowboys vs Raiders	Saturday 19th March	Cowboys	26	Raiders	6	Queensland Country Bank Stadium, Townsville
+NRL	2022	2	Knights vs Wests Tigers	Sunday 20th March	Knights	26	Wests Tigers	4	McDonald Jones Stadium, Newcastle
+NRL	2022	2	Bulldogs vs Broncos	Sunday 20th March	Bulldogs	10	Broncos	16	Accor Stadium, Sydney
 NRL	2022	3	Dragons vs Sharks	Thursday 24th March	Dragons	12	Sharks	36	WIN Stadium, Wollongong
 NRL	2022	3	Wests Tigers vs Warriors	Friday 25th March	Wests Tigers	12	Warriors	16	Campbelltown Sports Stadium, Sydney
 NRL	2022	3	Rabbitohs vs Roosters	Friday 25th March	Rabbitohs	28	Roosters	16	Accor Stadium, Sydney
@@ -1400,6 +1623,14 @@ NRL	2022	6	Storm vs Sharks	Saturday 16th April	Storm	34	Sharks	18	AAMI Park, Mel
 NRL	2022	6	Roosters vs Warriors	Sunday 17th April	Roosters	22	Warriors	14	Sydney Cricket Ground, Sydney
 NRL	2022	6	Dragons vs Knights	Sunday 17th April	Dragons	21	Knights	16	WIN Stadium, Wollongong
 NRL	2022	6	Eels vs Wests Tigers	Monday 18th April	Eels	20	Wests Tigers	21	CommBank Stadium, Sydney
+NRL	2022	7	Sharks vs Sea Eagles	Thursday 21st April	Sharks	34	Sea Eagles	22	PointsBet Stadium, Sydney
+NRL	2022	7	Broncos vs Bulldogs	Friday 22nd April	Broncos	34	Bulldogs	14	Suncorp Stadium, Brisbane
+NRL	2022	7	Cowboys vs Titans	Saturday 23rd April	Cowboys	30	Titans	4	Queensland Country Bank Stadium, Townsville
+NRL	2022	7	Wests Tigers vs Rabbitohs	Saturday 23rd April	Wests Tigers	23	Rabbitohs	22	CommBank Stadium, Sydney
+NRL	2022	7	Knights vs Eels	Sunday 24th April	Knights	2	Eels	39	McDonald Jones Stadium, Newcastle
+NRL	2022	7	Panthers vs Raiders	Sunday 24th April	Panthers	36	Raiders	6	Penrith Park, Penrith
+NRL	2022	7	Dragons vs Roosters	Monday 25th April	Dragons	14	Roosters	12	Sydney Cricket Ground, Sydney
+NRL	2022	7	Storm vs Warriors	Monday 25th April	Storm	70	Warriors	10	AAMI Park, Melbourne
 NRL	2022	8	Broncos vs Sharks	Thursday 28th April	Broncos	16	Sharks	7	Suncorp Stadium, Brisbane
 NRL	2022	8	Titans vs Panthers	Friday 29th April	Titans	4	Panthers	18	Cbus Super Stadium, Gold Coast
 NRL	2022	8	Rabbitohs vs Sea Eagles	Friday 29th April	Rabbitohs	40	Sea Eagles	22	Industree Group Stadium, Gosford
@@ -1540,11 +1771,11 @@ NRL	2022	26	Panthers vs Eels	Friday 9th September	Panthers	27	Eels	8	Penrith Par
 NRL	2022	26	Storm vs Raiders	Saturday 10th September	Storm	20	Raiders	28	AAMI Park, Melbourne
 NRL	2022	26	Sharks vs Cowboys	Saturday 10th September	Sharks	30	Cowboys	32	PointsBet Stadium, Sydney
 NRL	2022	26	Roosters vs Rabbitohs	Sunday 11th September	Roosters	14	Rabbitohs	30	Allianz Stadium, Sydney
+NRL	2022	27	Eels vs Raiders	Friday 16th September	Eels	40	Raiders	4	CommBank Stadium, Sydney
+NRL	2022	27	Sharks vs Rabbitohs	Saturday 17th September	Sharks	12	Rabbitohs	38	Allianz Stadium, Sydney
 NRL	2022	28	Cowboys vs Eels	Friday 23rd September	Cowboys	20	Eels	24	Queensland Country Bank Stadium, Townsville
 NRL	2022	28	Panthers vs Rabbitohs	Saturday 24th September	Panthers	32	Rabbitohs	12	Accor Stadium, Sydney
 NRL	2022	29	Panthers vs Eels	Sunday 2nd October	Panthers	28	Eels	12	Accor Stadium, Sydney
-NRL	2022	30	Panthers vs Eels	Sunday 2nd October	Panthers	28	Eels	12	Accor Stadium, Sydney
-NRL	2022	31	Panthers vs Eels	Sunday 2nd October	Panthers	28	Eels	12	Accor Stadium, Sydney
 NRL	2023	1	Eels vs Storm	Thursday 2nd March	Eels	12	Storm	16	CommBank Stadium, Sydney
 NRL	2023	1	Warriors vs Knights	Friday 3rd March	Warriors	20	Knights	12	Sky Stadium, Wellington
 NRL	2023	1	Panthers vs Broncos	Friday 3rd March	Panthers	12	Broncos	13	BlueBet Stadium, Penrith
@@ -1585,6 +1816,14 @@ NRL	2023	5	Dragons vs Dolphins	Saturday 1st April	Dragons	38	Dolphins	12	WIN Sta
 NRL	2023	5	Broncos vs Wests Tigers	Saturday 1st April	Broncos	46	Wests Tigers	12	Suncorp Stadium, Brisbane
 NRL	2023	5	Sharks vs Warriors	Sunday 2nd April	Sharks	30	Warriors	32	PointsBet Stadium, Sydney
 NRL	2023	5	Bulldogs vs Cowboys	Sunday 2nd April	Bulldogs	15	Cowboys	14	Accor Stadium, Sydney
+NRL	2023	6	Storm vs Roosters	Thursday 6th April	Storm	28	Roosters	8	AAMI Park, Melbourne
+NRL	2023	6	Bulldogs vs Rabbitohs	Friday 7th April	Bulldogs	16	Rabbitohs	50	Accor Stadium, Sydney
+NRL	2023	6	Cowboys vs Dolphins	Friday 7th April	Cowboys	22	Dolphins	32	Queensland Country Bank Stadium, Townsville
+NRL	2023	6	Panthers vs Sea Eagles	Saturday 8th April	Panthers	44	Sea Eagles	12	BlueBet Stadium, Penrith
+NRL	2023	6	Broncos vs Raiders	Saturday 8th April	Broncos	14	Raiders	20	Suncorp Stadium, Brisbane
+NRL	2023	6	Titans vs Dragons	Sunday 9th April	Titans	20	Dragons	18	Cbus Super Stadium, Gold Coast
+NRL	2023	6	Knights vs Warriors	Sunday 9th April	Knights	34	Warriors	24	McDonald Jones Stadium, Newcastle
+NRL	2023	6	Wests Tigers vs Eels	Monday 10th April	Wests Tigers	22	Eels	28	Accor Stadium, Sydney
 NRL	2023	7	Dolphins vs Rabbitohs	Thursday 13th April	Dolphins	14	Rabbitohs	36	Suncorp Stadium, Brisbane
 NRL	2023	7	Sharks vs Roosters	Friday 14th April	Sharks	22	Roosters	12	PointsBet Stadium, Sydney
 NRL	2023	7	Sea Eagles vs Storm	Friday 14th April	Sea Eagles	18	Storm	8	4 Pines Park, Sydney
@@ -1601,6 +1840,14 @@ NRL	2023	8	Dolphins vs Titans	Sunday 23rd April	Dolphins	28	Titans	26	Suncorp St
 NRL	2023	8	Wests Tigers vs Sea Eagles	Sunday 23rd April	Wests Tigers	16	Sea Eagles	22	Campbelltown Sports Stadium, Sydney
 NRL	2023	8	Roosters vs Dragons	Tuesday 25th April	Roosters	27	Dragons	26	Allianz Stadium, Sydney
 NRL	2023	8	Storm vs Warriors	Tuesday 25th April	Storm	30	Warriors	22	AAMI Park, Melbourne
+NRL	2023	9	Sharks vs Cowboys	Thursday 27th April	Sharks	44	Cowboys	6	PointsBet Stadium, Sydney
+NRL	2023	9	Eels vs Knights	Friday 28th April	Eels	43	Knights	12	CommBank Stadium, Sydney
+NRL	2023	9	Broncos vs Rabbitohs	Friday 28th April	Broncos	6	Rabbitohs	32	Suncorp Stadium, Brisbane
+NRL	2023	9	Raiders vs Dolphins	Saturday 29th April	Raiders	31	Dolphins	30	McDonalds Park, Wagga Wagga
+NRL	2023	9	Sea Eagles vs Titans	Saturday 29th April	Sea Eagles	10	Titans	26	4 Pines Park, Sydney
+NRL	2023	9	Panthers vs Wests Tigers	Saturday 29th April	Panthers	8	Wests Tigers	12	Carrington Park, Bathurst
+NRL	2023	9	Warriors vs Roosters	Sunday 30th April	Warriors	0	Roosters	14	Go Media Stadium, Auckland
+NRL	2023	9	Dragons vs Bulldogs	Sunday 30th April	Dragons	16	Bulldogs	18	WIN Stadium, Wollongong
 NRL	2023	10	Bulldogs vs Raiders	Friday 5th May	Bulldogs	30	Raiders	34	Suncorp Stadium, Brisbane
 NRL	2023	10	Sea Eagles vs Broncos	Friday 5th May	Sea Eagles	6	Broncos	32	Suncorp Stadium, Brisbane
 NRL	2023	10	Warriors vs Panthers	Saturday 6th May	Warriors	6	Panthers	18	Suncorp Stadium, Brisbane
@@ -1617,6 +1864,14 @@ NRL	2023	11	Cowboys vs Dragons	Saturday 13th May	Cowboys	42	Dragons	22	Queenslan
 NRL	2023	11	Raiders vs Eels	Saturday 13th May	Raiders	26	Eels	18	GIO Stadium, Canberra
 NRL	2023	11	Knights vs Titans	Sunday 14th May	Knights	46	Titans	26	McDonald Jones Stadium, Newcastle
 NRL	2023	11	Sea Eagles vs Sharks	Sunday 14th May	Sea Eagles	14	Sharks	20	4 Pines Park, Sydney
+NRL	2023	12	Broncos vs Panthers	Thursday 18th May	Broncos	4	Panthers	15	Suncorp Stadium, Brisbane
+NRL	2023	12	Dragons vs Roosters	Friday 19th May	Dragons	24	Roosters	22	Netstrata Jubilee Stadium, Sydney
+NRL	2023	12	Rabbitohs vs Eels	Friday 19th May	Rabbitohs	16	Eels	36	Allianz Stadium, Sydney
+NRL	2023	12	Sharks vs Knights	Saturday 20th May	Sharks	26	Knights	6	C.ex Coffs International Stadium, Coffs Harbour
+NRL	2023	12	Wests Tigers vs Cowboys	Saturday 20th May	Wests Tigers	66	Cowboys	18	Leichhardt Oval, Sydney
+NRL	2023	12	Dolphins vs Storm	Saturday 20th May	Dolphins	16	Storm	24	Suncorp Stadium, Brisbane
+NRL	2023	12	Bulldogs vs Titans	Sunday 21st May	Bulldogs	20	Titans	18	Accor Stadium, Sydney
+NRL	2023	12	Raiders vs Sea Eagles	Sunday 21st May	Raiders	14	Sea Eagles	42	GIO Stadium, Canberra
 NRL	2023	13	Dolphins vs Dragons	Thursday 25th May	Dolphins	26	Dragons	12	Kayo Stadium, Redcliffe
 NRL	2023	13	Eels vs Cowboys	Friday 26th May	Eels	24	Cowboys	16	CommBank Stadium, Sydney
 NRL	2023	13	Warriors vs Broncos	Saturday 27th May	Warriors	22	Broncos	26	McLean Park, Napier
@@ -1642,6 +1897,21 @@ NRL	2023	16	Knights vs Roosters	Saturday 17th June	Knights	16	Roosters	18	McDona
 NRL	2023	16	Eels vs Sea Eagles	Saturday 17th June	Eels	34	Sea Eagles	4	CommBank Stadium, Sydney
 NRL	2023	16	Wests Tigers vs Storm	Saturday 17th June	Wests Tigers	6	Storm	28	Campbelltown Sports Stadium, Sydney
 NRL	2023	16	Sharks vs Bulldogs	Sunday 18th June	Sharks	48	Bulldogs	10	PointsBet Stadium, Sydney
+NRL	2023	17	Dragons vs Warriors	Friday 23rd June	Dragons	18	Warriors	48	WIN Stadium, Wollongong
+NRL	2023	17	Dolphins vs Eels	Saturday 24th June	Dolphins	20	Eels	48	Sunshine Coast Stadium, Sunshine Coast
+NRL	2023	17	Panthers vs Knights	Saturday 24th June	Panthers	20	Knights	12	BlueBet Stadium, Penrith
+NRL	2023	17	Storm vs Sea Eagles	Saturday 24th June	Storm	24	Sea Eagles	6	AAMI Park, Melbourne
+NRL	2023	17	Broncos vs Titans	Sunday 25th June	Broncos	12	Titans	18	Suncorp Stadium, Brisbane
+NRL	2023	17	Rabbitohs vs Cowboys	Sunday 25th June	Rabbitohs	6	Cowboys	31	Accor Stadium, Sydney
+NRL	2023	17	Roosters vs Raiders	Sunday 25th June	Roosters	18	Raiders	20	Allianz Stadium, Sydney
+NRL	2023	18	Sharks vs Dragons	Thursday 29th June	Sharks	52	Dragons	16	PointsBet Stadium, Sydney
+NRL	2023	18	Warriors vs Rabbitohs	Friday 30th June	Warriors	6	Rabbitohs	28	Go Media Stadium, Auckland
+NRL	2023	18	Storm vs Panthers	Friday 30th June	Storm	16	Panthers	34	Marvel Stadium, Melbourne
+NRL	2023	18	Raiders vs Titans	Saturday 1st July	Raiders	26	Titans	22	GIO Stadium, Canberra
+NRL	2023	18	Cowboys vs Wests Tigers	Saturday 1st July	Cowboys	74	Wests Tigers	0	Queensland Country Bank Stadium, Townsville
+NRL	2023	18	Broncos vs Dolphins	Saturday 1st July	Broncos	24	Dolphins	16	The Gabba, Brisbane
+NRL	2023	18	Bulldogs vs Knights	Sunday 2nd July	Bulldogs	0	Knights	66	Accor Stadium, Sydney
+NRL	2023	18	Sea Eagles vs Roosters	Sunday 2nd July	Sea Eagles	18	Roosters	16	4 Pines Park, Sydney
 NRL	2023	19	Wests Tigers vs Sharks	Thursday 6th July	Wests Tigers	12	Sharks	36	CommBank Stadium, Sydney
 NRL	2023	19	Dragons vs Raiders	Friday 7th July	Dragons	26	Raiders	36	WIN Stadium, Wollongong
 NRL	2023	19	Eels vs Warriors	Saturday 8th July	Eels	10	Warriors	46	CommBank Stadium, Sydney
@@ -1714,6 +1984,8 @@ NRL	2023	28	Broncos vs Storm	Friday 8th September	Broncos	26	Storm	0	Suncorp Sta
 NRL	2023	28	Panthers vs Warriors	Saturday 9th September	Panthers	32	Warriors	6	BlueBet Stadium, Penrith
 NRL	2023	28	Sharks vs Roosters	Saturday 9th September	Sharks	12	Roosters	13	PointsBet Stadium, Sydney
 NRL	2023	28	Knights vs Raiders	Sunday 10th September	Knights	30	Raiders	28	McDonald Jones Stadium, Newcastle
+NRL	2023	29	Storm vs Roosters	Friday 15th September	Storm	18	Roosters	13	AAMI Park, Melbourne
+NRL	2023	29	Warriors vs Knights	Saturday 16th September	Warriors	40	Knights	10	Go Media Stadium, Auckland
 NRL	2023	30	Panthers vs Storm	Friday 22nd September	Panthers	38	Storm	4	Accor Stadium, Sydney
 NRL	2023	30	Broncos vs Warriors	Saturday 23rd September	Broncos	42	Warriors	12	Suncorp Stadium, Brisbane
 NRL	2023	31	Panthers vs Broncos	Sunday 1st October	Panthers	26	Broncos	24	Accor Stadium, Sydney
@@ -1818,6 +2090,13 @@ NRL	2024	13	Knights vs Bulldogs	Friday 31st May	Knights	2	Bulldogs	32	McDonald J
 NRL	2024	13	Panthers vs Dragons	Saturday 1st June	Panthers	10	Dragons	22	BlueBet Stadium, Penrith
 NRL	2024	13	Dolphins vs Raiders	Saturday 1st June	Dolphins	25	Raiders	26	Kayo Stadium, Redcliffe
 NRL	2024	13	Roosters vs Cowboys	Sunday 2nd June	Roosters	16	Cowboys	18	Allianz Stadium, Sydney
+NRL	2024	14	Dragons vs Wests Tigers	Friday 7th June	Dragons	56	Wests Tigers	14	WIN Stadium, Wollongong
+NRL	2024	14	Titans vs Rabbitohs	Saturday 8th June	Titans	12	Rabbitohs	46	Cbus Super Stadium, Gold Coast
+NRL	2024	14	Cowboys vs Warriors	Saturday 8th June	Cowboys	12	Warriors	42	Queensland Country Bank Stadium, Townsville
+NRL	2024	14	Broncos vs Sharks	Saturday 8th June	Broncos	12	Sharks	22	Suncorp Stadium, Brisbane
+NRL	2024	14	Storm vs Knights	Sunday 9th June	Storm	36	Knights	28	AAMI Park, Melbourne
+NRL	2024	14	Panthers vs Sea Eagles	Sunday 9th June	Panthers	32	Sea Eagles	22	BlueBet Stadium, Penrith
+NRL	2024	14	Bulldogs vs Eels	Monday 10th June	Bulldogs	22	Eels	18	Accor Stadium, Sydney
 NRL	2024	15	Sharks vs Dolphins	Thursday 13th June	Sharks	28	Dolphins	30	PointsBet Stadium, Sydney
 NRL	2024	15	Raiders vs Cowboys	Friday 14th June	Raiders	16	Cowboys	34	GIO Stadium, Canberra
 NRL	2024	15	Rabbitohs vs Broncos	Friday 14th June	Rabbitohs	22	Broncos	12	Accor Stadium, Sydney
@@ -1831,6 +2110,21 @@ NRL	2024	16	Titans vs Warriors	Saturday 22nd June	Titans	66	Warriors	6	Cbus Supe
 NRL	2024	16	Roosters vs Bulldogs	Saturday 22nd June	Roosters	26	Bulldogs	8	Industree Group Stadium, Gosford
 NRL	2024	16	Rabbitohs vs Sea Eagles	Saturday 22nd June	Rabbitohs	14	Sea Eagles	0	Accor Stadium, Sydney
 NRL	2024	16	Wests Tigers vs Raiders	Sunday 23rd June	Wests Tigers	48	Raiders	24	Campbelltown Sports Stadium, Sydney
+NRL	2024	17	Bulldogs vs Sharks	Friday 28th June	Bulldogs	15	Sharks	14	Accor Stadium, Sydney
+NRL	2024	17	Warriors vs Broncos	Saturday 29th June	Warriors	32	Broncos	16	Go Media Stadium, Auckland
+NRL	2024	17	Knights vs Eels	Saturday 29th June	Knights	34	Eels	26	McDonald Jones Stadium, Newcastle
+NRL	2024	17	Storm vs Raiders	Saturday 29th June	Storm	16	Raiders	6	AAMI Park, Melbourne
+NRL	2024	17	Dragons vs Dolphins	Sunday 30th June	Dragons	26	Dolphins	6	Netstrata Jubilee Stadium, Sydney
+NRL	2024	17	Panthers vs Cowboys	Sunday 30th June	Panthers	6	Cowboys	16	BlueBet Stadium, Penrith
+NRL	2024	17	Roosters vs Wests Tigers	Sunday 30th June	Roosters	40	Wests Tigers	6	Allianz Stadium, Sydney
+NRL	2024	18	Eels vs Rabbitohs	Thursday 4th July	Eels	16	Rabbitohs	32	CommBank Stadium, Sydney
+NRL	2024	18	Sharks vs Titans	Friday 5th July	Sharks	16	Titans	20	C.ex Coffs International Stadium, Coffs Harbour
+NRL	2024	18	Broncos vs Panthers	Friday 5th July	Broncos	6	Panthers	14	Suncorp Stadium, Brisbane
+NRL	2024	18	Bulldogs vs Warriors	Saturday 6th July	Bulldogs	13	Warriors	12	Accor Stadium, Sydney
+NRL	2024	18	Wests Tigers vs Storm	Saturday 6th July	Wests Tigers	28	Storm	40	Leichhardt Oval, Sydney
+NRL	2024	18	Cowboys vs Sea Eagles	Saturday 6th July	Cowboys	20	Sea Eagles	21	Queensland Country Bank Stadium, Townsville
+NRL	2024	18	Roosters vs Dragons	Sunday 7th July	Roosters	42	Dragons	12	Allianz Stadium, Sydney
+NRL	2024	18	Raiders vs Knights	Sunday 7th July	Raiders	12	Knights	16	GIO Stadium, Canberra
 NRL	2024	19	Dolphins vs Rabbitohs	Thursday 11th July	Dolphins	36	Rabbitohs	28	Kayo Stadium, Redcliffe
 NRL	2024	19	Sharks vs Wests Tigers	Friday 12th July	Sharks	58	Wests Tigers	6	PointsBet Stadium, Sydney
 NRL	2024	19	Titans vs Eels	Saturday 13th July	Titans	24	Eels	16	Cbus Super Stadium, Gold Coast
@@ -1899,6 +2193,10 @@ NRL	2024	27	Bulldogs vs Cowboys	Saturday 7th September	Bulldogs	6	Cowboys	44	Acc
 NRL	2024	27	Panthers vs Titans	Saturday 7th September	Panthers	18	Titans	12	BlueBet Stadium, Penrith
 NRL	2024	27	Sea Eagles vs Sharks	Sunday 8th September	Sea Eagles	20	Sharks	40	4 Pines Park, Sydney
 NRL	2024	27	Knights vs Dolphins	Sunday 8th September	Knights	14	Dolphins	6	McDonald Jones Stadium, Newcastle
+NRL	2024	28	Panthers vs Roosters	Friday 13th September	Panthers	30	Roosters	10	BlueBet Stadium, Penrith
+NRL	2024	28	Storm vs Sharks	Saturday 14th September	Storm	37	Sharks	10	AAMI Park, Melbourne
+NRL	2024	28	Cowboys vs Knights	Saturday 14th September	Cowboys	28	Knights	16	Queensland Country Bank Stadium, Townsville
+NRL	2024	28	Bulldogs vs Sea Eagles	Sunday 15th September	Bulldogs	22	Sea Eagles	24	Accor Stadium, Sydney
 NRL	2024	29	Sharks vs Cowboys	Friday 20th September	Sharks	26	Cowboys	18	Allianz Stadium, Sydney
 NRL	2024	29	Roosters vs Sea Eagles	Saturday 21st September	Roosters	40	Sea Eagles	16	Allianz Stadium, Sydney
 NRL	2024	30	Storm vs Roosters	Friday 27th September	Storm	48	Roosters	18	AAMI Park, Melbourne

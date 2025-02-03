@@ -15,6 +15,7 @@ import os
 import logging
 from typing import List, Dict, Any
 from dataclasses import dataclass
+import pandas as pd
 
 # Set up logging
 logging.basicConfig(
@@ -47,8 +48,8 @@ class NRLScraper:
         "match-venue o-text"
     ]
 
-    def __init__(self):
-        chromedriver_autoinstaller.install()
+    #def __init__(self): 
+    #    chromedriver_autoinstaller.install() # Hashed to prevent message
 
     @staticmethod
     def set_up_driver() -> webdriver.Chrome:
@@ -124,38 +125,80 @@ class NRLScraper:
 
         return {"NRL": match_data}
 
-    def save_data(self, data: Dict[str, List[Dict]], output_dir: str, years: List[str]) -> None:
+    def save_data(self, data: Dict[str, List[Dict]], output_dir: str, years: List[str], args: argparse.Namespace) -> None:
         """Save scraped data in both JSON and TXT formats."""
-        # Save JSON
-        json_data = json.dumps(data, indent=4)
-        json_path = os.path.join(output_dir, f'match_data_{"_".join(years)}.json')
+
+        # Create file name suffix based on whether specific rounds were requested
+        if args.input_round:
+            file_suffix = f'_{"_".join(years)}_rd{args.input_round}'
+        else:
+            file_suffix = f'_{"_".join(years)}'
+
+        # Save JSON - Hashed out as not needed due to the table format below
+        #json_data = json.dumps(data, indent=4)
+        #json_path = os.path.join(output_dir, f'match_data{file_suffix}.json')
         
-        with open(json_path, "w") as f:
-            f.write(json_data)
-        logging.info(f"JSON data written to {json_path}")
+        #with open(json_path, "w") as f:
+        #    f.write(json_data)
+        #logging.info(f"JSON data written to {json_path}")
 
         # Convert to table format and save TXT
         headers = ["Competition", "Year", "Round", "Details", "Date", "Home", 
                   "Home_Score", "Away", "Away_Score", "Venue"]
         table_data = []
-
+        
         for competition, years_data in data.items():
             for year_data in years_data:
                 for year, rounds_data in year_data.items():
                     for round_data in rounds_data:
                         for round_num, matches in round_data.items():
                             for match in matches:
-                                match['Venue'] = self.clean_text(match['Venue'])
+                                # Convert dictionary keys to match headers
+                                match_dict = {
+                                    'Details': match['details'],
+                                    'Date': match['date'], 
+                                    'Home': match['home_team'],
+                                    'Home_Score': match['home_score'],
+                                    'Away': match['away_team'], 
+                                    'Away_Score': match['away_score'],
+                                    'Venue': self.clean_text(match['venue'])
+                                }
+                                
                                 row = [competition, year, round_num]
-                                row.extend([match[header] for header in headers[3:]])
+                                row.extend([match_dict[header] for header in headers[3:]])
                                 table_data.append(row)
 
-        txt_path = os.path.join(output_dir, f'match_data_{"_".join(years)}.txt')
-        with open(txt_path, "w") as f:
-            f.write("\t".join(headers) + "\n")
-            for row in table_data:
-                f.write("\t".join(str(item) for item in row) + "\n")
+        # Save txt
+        txt_path = os.path.join(output_dir, f'match_data{file_suffix}.txt')
+        df = pd.DataFrame(table_data, columns=headers)
+        df.to_csv(txt_path, sep='\t', index=False)
         logging.info(f"Table data written to {txt_path}")
+        
+        # Output match list
+        if args.match_list:
+            print("Match list requested")
+            df_match_list = df[['Year', 'Round','Home','Away']]
+            # For each year, map the 4 highest round numbers to finals names as NRL website doesn't use round numbers for these
+            for year in df_match_list['Year'].unique():
+                year_data = df_match_list[df_match_list['Year'] == year]
+                top_4_rounds = sorted(year_data['Round'].unique(), reverse=True)[:4]
+                
+                if len(top_4_rounds) >= 4:
+                    finals_map = {
+                        top_4_rounds[0]: 'grand-final',
+                        top_4_rounds[1]: 'finals-week-3', 
+                        top_4_rounds[2]: 'finals-week-2',
+                        top_4_rounds[3]: 'finals-week-1'
+                    }
+                    
+                    for old_round, new_round in finals_map.items():
+                        mask = (df_match_list['Year'] == year) & (df_match_list['Round'] == old_round)
+                        df_match_list.loc[mask, 'Round'] = new_round
+            match_list_path = os.path.splitext(txt_path)[0] + '_match_list.txt'
+            df_match_list.to_csv(match_list_path, sep='\t', index=False)
+            logging.info(f"Match list written to {match_list_path}")
+        else:
+            print("Match list not requested")
 
 def parse_arguments() -> argparse.Namespace:
     """Parse command line arguments."""
@@ -166,6 +209,9 @@ def parse_arguments() -> argparse.Namespace:
                        help='Select single round to fetch data. Default is all rounds in the season')
     parser.add_argument('--o', dest='output_directory', type=str,
                        help='Output directory path', default='.')
+    parser.add_argument('--list',dest='match_list', action='store_true',
+                        help='Output match list for extracting detailed data (default=False)')
+
     return parser.parse_args()
 
 def main():
@@ -173,11 +219,23 @@ def main():
     args = parse_arguments()
     
     input_years = [int(y) for y in args.input_year]
-    round_range = range(args.input_round, args.input_round + 1) if args.input_round else range(1, 32)
+    def get_max_rounds(y):
+        if 2014 <= y <= 2017:
+            return 31  # 30 rounds + 1
+        elif y in (2018, 2019, 2021, 2022):
+            return 30  # 29 rounds + 1
+        elif y == 2020:
+            return 25  # 24 rounds + 1
+        elif y in (2023, 2024):
+            return 32  # 31 rounds + 1
+        return 32  # Default fallback
+        
+    max_rounds = max(get_max_rounds(year) for year in input_years)
+    round_range = range(args.input_round, args.input_round + 1) if args.input_round else range(1, max_rounds)
 
     scraper = NRLScraper()
     data = scraper.scrape_season_data(input_years, round_range)
-    scraper.save_data(data, args.output_directory, args.input_year)
+    scraper.save_data(data, args.output_directory, args.input_year, args)
 
 if __name__ == "__main__":
     main()
