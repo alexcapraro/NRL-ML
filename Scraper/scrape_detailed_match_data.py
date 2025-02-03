@@ -21,10 +21,11 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
+# Define the MatchInput data class
 @dataclass
 class MatchInput:
     year: int
-    round: int
+    round: str
     home_team: str
     away_team: str
 
@@ -50,7 +51,7 @@ def read_input_file(file_path: str) -> List[MatchInput]:
         for _, row in df.iterrows():
             matches.append(MatchInput(
                 year=int(row['Year']),
-                round=int(row['Round']),
+                round=str(row['Round']),
                 home_team=row['Home'],
                 away_team=row['Away']
             ))
@@ -164,8 +165,12 @@ def get_detailed_nrl_data(matches: List[MatchInput], output_dir: str) -> None:
             for match in round_matches:
                 home = match.home_team.replace(" ", "-")
                 away = match.away_team.replace(" ", "-")
-                url = f"https://www.nrl.com/draw/nrl-premiership/{year}/round-{round_num}/{home}-v-{away}/"
-                logging.info(f"Scraping Round {round_num}: {match.home_team} v {match.away_team}")
+                # Check if round is finals
+                if 'final' in str(round_num).lower():
+                    url = f"https://www.nrl.com/draw/nrl-premiership/{year}/{round_num}/{home}-v-{away}/"
+                else:
+                    url = f"https://www.nrl.com/draw/nrl-premiership/{year}/round-{round_num}/{home}-v-{away}/"
+                logging.info(f"Scraping Round {round_num}: {match.home_team} v {match.away_team} from {url}")
 
                 # Setup the driver and get page content
                 driver = set_up_driver()
@@ -182,7 +187,7 @@ def get_detailed_nrl_data(matches: List[MatchInput], output_dir: str) -> None:
                     away_possession = soup.find(
                         'p', class_='match-centre-card-donut__value--away').text.strip()
                 except BaseException as BE:
-                    print(f"Error in home possession {BE}")
+                    logging.error(f"Error in home possession {BE}")
 
                 home_all_run_metres_list = soup.find_all(
                     'dd',
@@ -211,7 +216,7 @@ def get_detailed_nrl_data(matches: List[MatchInput], output_dir: str) -> None:
                         # Do whatever you want with the text
                         away_bars[bar_name] = home_all_run_metres
                 except BaseException:
-                    print(f"Error with home bars")
+                    logging.error(f"Error with home bars")
 
                 home_donut = DONUT_DATA.copy()
                 away_donut = DONUT_DATA.copy()
@@ -577,13 +582,15 @@ def get_detailed_nrl_data(matches: List[MatchInput], output_dir: str) -> None:
 
     # Create DataFrames
     df_stats = pd.DataFrame(stats_data_df, columns=stats_data_headers)
+    # Replace default values with 0 in df_stats
+    df_stats = df_stats.replace([-1, -10], 0)
     # Clean up First Try Time and Time In Possession columns
-    df_stats['First Try Time'] = df_stats['First Try Time'].str.replace("'", "")
-    df_stats['Time In Possession'] = df_stats['Time In Possession'].str.replace(",", "")
+    #df_stats['First Try Time'] = df_stats['First Try Time'].str.replace("'", "")
+    #df_stats['Time In Possession'] = df_stats['Time In Possession'].str.replace(",", "")
 
     df_match = pd.DataFrame(match_data_df, columns=match_data_headers)
     # Clean up First Try Time and Time In Possession columns
-    df_match['Overall First Try Minute'] = df_match['Overall First Try Minute'].str.replace("'", "")
+    #df_match['Overall First Try Minute'] = df_match['Overall First Try Minute'].str.replace("'", "")
 
     df_try = pd.DataFrame(try_data_df, columns=try_data_headers)
 
